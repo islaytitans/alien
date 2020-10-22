@@ -86,6 +86,20 @@ What's the story mother? - p371
         - Shows corridor to A1 offices with a dark shape dragging body
         - Shows E1 South Lock, can get first full glimpse of Xeno, right below them (**+1 stress level**) for those who look
 
+## Sublevel Areas - Mass housing and Maintenance
+
+- Dark, dingy and smelly claustrophobic housing and high ceilinged maintenance tunnels
+- No working tractors or other machinary
+- Tunnel next to Processor 1 has been hastily barricaded with welded scrap to keep something out or perhaps in
+- Mass housing
+    - Last stand of the colony occurred here, signs of a terrible battle
+    - Doors torn apart, ceiling and floor panels are shredded
+    - Some mutated bodies can be found but not as many as would have expected
+    - Still sticky blood marks and crimson drag marks
+    - Acid still fizzes and fills the air with acrid smell
+    - (**+1 stress level**) for those who look
+    - If search through mess (takes one additional turn) get another (**+1 stress level**) will find Pulse Rife, Service Pistol and Incinerator but no reloads
+
 ## Tannen's Casino
 
 - Walkway from E2 to Casino, the walkway is **cluttered**
@@ -100,7 +114,7 @@ What's the story mother? - p371
 - Wes Osterman (p374) is trapped inside and a *Drone Xenomorph* **Passive** is trying to break in 
 - **Event - A Cry For Help**
 
-## Sublevel Areas
+
 
 ## Air Traffic Control Centre
 
@@ -111,3 +125,7 @@ What's the story mother? - p371
 - Roll **Observation**
 - Only one PC can roll but others can help
 - On success, see table in Core p379
+
+# Closing
+
+- Signing off 383p
