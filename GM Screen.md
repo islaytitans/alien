@@ -16,4 +16,4 @@ Slow / fast actions
 
 # list of stress and summary
 
-1 on a panic dice cancels what they were doing
+1 on a panic dice may cancel what they were doing
