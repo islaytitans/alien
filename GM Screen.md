@@ -5,6 +5,7 @@
    - agenda
 - dice rolls
 - panic
+- you're probably going to die
 
 # Sequence of combat 
 - drawing cards, take in turns
