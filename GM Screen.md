@@ -4,6 +4,7 @@
    - survive
    - agenda
 - dice rolls
+- panic
 
 # Sequence of combat 
 - drawing cards, take in turns
