@@ -12,3 +12,5 @@ Using fast actions to react when attacked
 Slow / fast actions
 
 # list of attributes and skills
+
+# list of stress and sunmary
