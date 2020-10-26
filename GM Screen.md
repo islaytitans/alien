@@ -1,4 +1,12 @@
-Sequence of combat - drawing cards, take in turns
+# Intro
+- what you do
+- how to win 
+   - survive
+   - agenda
+- dice rolls
+
+# Sequence of combat 
+- drawing cards, take in turns
 Using fast actions to react when attacked
 Slow / fast actions
 
