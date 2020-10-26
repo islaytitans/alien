@@ -14,4 +14,6 @@ Slow / fast actions
 
 # list of attributes and skills
 
-# list of stress and sunmary
+# list of stress and summary
+
+1 on a panic dice cancels what they were doing
