@@ -21,17 +21,40 @@
 - Awarded at end of each act
 - Spend to add one Success to a roll
 
+# Measuring time
+
+Remember to keep track of time in stealth and combat
+
+| Unit | Duration | Primary Use |
+| -- | -- | -- |
+| Round | 5-10 seconds | Combat |
+| Turn | 5-10 minutes | Stealth |
+| Shift | 5-10 hours | Recovery |
+
 # Sequence of combat 
-- drawing cards
-- take in turns
-- Slow / fast actions
-- Using fast actions to react when attacked
+
+Once enemy is revealed stealth mode is over and combat begins.
+
+1. Determine initative
+    - do this before anyone rolls dice except for sneak attack
+2. Shuffle initiative cards
+3. Draw cards for every PC and NPC
+    - if more than 10 group NPCs
+    - PC can swap initiative cards at beginning or end of round
+4. Round begins each participant act in ascending initiative order
+5. On your act perform either
+    - one slow action and one fast action
+    - two fast actions
+6. On another participant act you can perform a reaction
+    - but this uses up your actions for this round
+7. Once every participant has acted a new round begins
 
 # Slow actions
 
 | Actions | Prerequiste | Skill |
 | -- | -- | -- |
 | Break grapple | Grapped | Close Combat |
+| Block attack while unarmed | Attacked in close combat | Close Combat |
 | Crawl | You are prone | - |
 | Close combat attack | - | Close Combat |
 | Climb into space suit | Space Suit | Mobility |
@@ -78,10 +101,6 @@
 - Retreat
     - Must Retreat action to move away from engaged enem
 
-# Close combat actions
-
-# Range combat actions
-
 ## Ranged Fire Modications
 
 | Situation | Modiciation |
@@ -111,9 +130,22 @@
 | Outer bulkhead | 6 |
 | Armored bulkhead | 7+ |
 
+# Damage
+
+- Armour - Armor Rating lowers damage by that amount
+- Recover - When not broken recover one point of health per Turn
+- Broken
+    - Occurs when health reaches zero
+    - cannot perform actions only crawl and mumble
+    - roll for critical injury
+    - further damage causes another critical injury
+
+Core book - p98
+
 # Critical injury
 
-# Broken
+Core book - p100
+
 
 # list of attributes and skills
 
@@ -171,14 +203,6 @@ Roll a D6, add your current STRESS LEVEL, and check the table below.
 | 14 PSYCHOTIC. | You must immediately attack the nearest person or creature, friendly or not. You won’t stop until you or the target is Broken. Every friendly character who witnesses your rampage must make an immediate Panic Roll. |
 | 15+ CATATONIC. | You collapse to the floor and can’t talk or move, staring blankly into oblivion. |
 
-# Measuring time
-
-| Unit | Duration | Primary Use |
-| -- | -- | -- |
-| Round | 5-10 seconds | Combat |
-| Turn | 5-10 minutes | Stealth |
-| Shift | 5-10 hours | Recovery |
-
 # Range Categories
 
 | Range | Description |
@@ -191,7 +215,7 @@ Roll a D6, add your current STRESS LEVEL, and check the table below.
 
 # Sneak attack & ambushes
 
-Core Book - p
+Core Book - 90p
 
 | Range | Modification |
 | -- | -- |
