@@ -39,7 +39,8 @@ Once enemy is revealed stealth mode is over and combat begins.
     - do this before anyone rolls dice except for sneak attack
 2. Shuffle initiative cards
 3. Draw cards for every PC and NPC
-    - if more than 10 group NPCs
+    - PCs and NPCs are given card per point of speed. Humans have speed of 1
+    - if more than 10 then group NPCs
     - PC can swap initiative cards at beginning or end of round
 4. Round begins each participant act in ascending initiative order
 5. On your act perform either
@@ -225,9 +226,12 @@ Core Book - 90p
 | Long | -1 |
 | Extreme | +3 |
 
-# Stealth
+# Stealth Mode
 
-Stealth Mode
+A creature can move two zones per point of speed.
+Humans have Speed of 1.
+
+# Stealth
 
 | Range | Mobility Roll |
 | -- | -- |
