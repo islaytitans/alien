@@ -1,3 +1,33 @@
+# Index
+
+- [Overview](#overview)
+    - [Intro](##intro)
+    - [Story Points](##story-points)
+    - [Dice Rolls](##dice-rolls)
+    - [Difficulty](##difficulty)
+    - [Attributes and Skills](##attributes-and-skills)
+- [Stress and Panic](#stress-and-panic)
+    - [Gain stress if](##gain-stress-if)
+    - [Reduce stress by](##reduce-stress-by)
+    - [Make a panic roll if](##make-a-panic-roll-if)
+    - [Panic roll](##panic-roll)
+    - [Stop panicing](##stop-panicing)
+- [Gameplay](#gameplay)
+    - [Measuring time](##measuring-time)
+    - [Range categories](##range-categories)
+- [Stealth Mode](#stealth-mode)
+    - [Stealth Modifer](##stealth-modifier)
+    - [Sneak Attacks](##sneak-attacks)
+- [Combat Mode](#combat-mode)
+    - [Slow Actions](##slow-actions)
+    - [Fast Actions](##fast-actions)
+    - [Movement](##Movement)
+    - [Ranged Fire Modications](##ranged-fire-modications)
+    - [Types of cover](##types-of-cover)
+- [Injury and Death](#injury-and-death)
+    - [Damange and Healing](##damage-and-healing)
+    - [Critical Injury and Death](##critical-injury-and-death)
+
 # Overview
 
 ## Intro
@@ -26,7 +56,7 @@
 - Results: A 6 = success. Each additional 6 can be used to buy Stunts.
 - Pushing: If no 1s show on Stress Dice, you may add 1 STRESS LEVEL (and the associated die) then reroll all non-6s.
 
-# Difficulty
+## Difficulty
 
 | Difficulty | Modification |
 | -- | -- |
@@ -121,6 +151,11 @@
 - You encounter certain creatures or locations, as determined by the scenario or the GM.
 - You fail or succeed at killing a human being
 
+## Reduce stress by
+
+- Every full Turn spending resting in assumed safe area reduces stress by one. No other actions can be made
+- Once per act PC can interact with signature item in some way to reduce stress by 1
+
 ## Make a panic roll if
 
 - You roll one or more 1s on your Stress Dice in a skill roll. If this happens, you can’t push the skill roll. Instead, roll for panic.
@@ -147,6 +182,13 @@ Roll a D6, add your current STRESS LEVEL, and check the table below.
 | 14 PSYCHOTIC. | You must immediately attack the nearest person or creature, friendly or not. You won’t stop until you or the target is Broken. Every friendly character who witnesses your rampage must make an immediate Panic Roll. |
 | 15+ CATATONIC. | You collapse to the floor and can’t talk or move, staring blankly into oblivion. |
 
+## Stop panicing
+
+Some effects of Panic Rolls last for one round others remain until
+- Another charctater makes a Command action on them
+- You are broken
+- One turn passes
+
 # Gameplay
 
 ## Measuring time
@@ -169,7 +211,7 @@ Remember to keep track of time in stealth and combat
 | Long | Up to about 100 meters, four sones away |
 | Extreme | Up to about one kilometer |
 
-## Stealth Mode
+# Stealth Mode
 
 - Played in [Turns](##measuring-time)
 - On a Turn
@@ -191,7 +233,7 @@ Remember to keep track of time in stealth and combat
     - Detects large moving objects within [Long Rage](##range-categories) (4 zones) and indiciates which zone they are in
     - Combat does not begin if detected on montion tracker must be in same zone or have line of sight on it
 
-### Stealth Modifier
+## Stealth Modifier
 
 | Range | Mobility Roll |
 | -- | -- |
@@ -227,7 +269,7 @@ Core Book - 90p
 | Long | -1 |
 | Extreme | +3 |
 
-## Combat Mode
+# Combat Mode
 
 Once enemy is revealed stealth mode is over and combat begins.
 
@@ -246,7 +288,7 @@ Once enemy is revealed stealth mode is over and combat begins.
     - but this uses up your actions for this round
 7. Once every participant has acted a new round begins
 
-# Slow actions
+## Slow actions
 
 | Actions | Prerequiste | Skill |
 | -- | -- | -- |
@@ -266,7 +308,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Stop panic | Panicking character | Command |
 | Throw weapon | Thrown Weapon | Ranged Combat |
 
-# Fast actions
+## Fast actions
 
 | Actions | Prerequiste | Skill |
 | -- | -- | -- |
@@ -288,7 +330,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Set overwatch | Ranged Weapon | - |
 | Use item | - | - |
 
-# Movement
+## Movement
 
 - Running
     - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
