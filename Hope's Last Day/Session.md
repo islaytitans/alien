@@ -114,11 +114,37 @@ What's the story mother? - p371
 - Wes Osterman (p374) is trapped inside and a *Drone Xenomorph* **Passive** is trying to break in 
 - **Event - A Cry For Help**
 
-
-
 ## Air Traffic Control Centre
 
+- Air Traffic control Centre tower, comms array and landing pad
+    - Store room on ground floor and generator with no way to fix it
+    - control rool with panoramic windows on first floor
+- Shuttle on landing-pad
+    - Carry up to 20 people
+    - Currently clamped down and locked due to automatic lockdown proceedure
+    - Komiskey's keycard will release and unlock the shuttle
+    - Motion tracker will show movement inside but too muddled to reveal how many inside
+- Escape in the shuttle
+    - PCs will be after them see **Hunted** event
+    - Shuttle is filled with thawing eggs, some people inside having been facehugged are unconcious
+    - Two *Facehuggers* **Active** will rush to attack at once
+    - If they survive they successfully escape
+
 # Events
+
+- A Cry for Help
+    - Intercom buzzes loudly next to PCs with Wes Osterman asking for help
+    - He will keep buzzing will make any Xenos in area **Ative**
+    - Billy is trapped in Billy's Bar with a Xeno trying to break down the locked door to get in
+    - If PCs don't help straight away the door will give in and he will die
+
+- The Birth
+    - If Dr Komiskey or Maria have been rescued a *Chestburster* inside them will be born sooner or later
+    - Trigger a **Panic Roll** in PCs
+
+- Hunted
+    - At no point should PCs should feel safe, if linger or spend too long in location an *Drone Xenomorph* **Passive** will arrive from the nearby hive to stalk them
+
 
 # Searching for Gear
 - Searching takes one additional turn to search one location (zone). Location can only be searched once
