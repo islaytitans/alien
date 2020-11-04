@@ -18,6 +18,7 @@
 - [Stealth Mode](#stealth-mode)
     - [Stealth Modifer](##stealth-modifier)
     - [Sneak Attacks](##sneak-attacks)
+    - [Sneak Attacks Modifier](##sneak-attacks-modifier)
 - [Combat Mode](#combat-mode)
     - [Slow Actions](##slow-actions)
     - [Fast Actions](##fast-actions)
@@ -38,7 +39,8 @@
    - Agenda
 - Dice rolls
 - Stress and Panic
-- Damage, Critical Injury and Death
+- Damage, Broken, Critical Injury and Death
+    - keep track of your health, injuries and stress
 - You're probably going to die
 - What's the story mother
 
@@ -51,10 +53,12 @@
 ## Dice Rolls
 
 - Base Dice: Attribute + Skill + Gear.
-- Stress Dice: 1s trigger a [Panic Roll](##panic-roll) which may cancel action
-- Difficulty Modifiers: Adjust # of dice (Base Dice first, then Stress Dice).
-- Results: A 6 = success. Each additional 6 can be used to buy Stunts.
+    - A 6 is a success. Each additional 6 can be used to do a Stunt.
+- Stress Dice: Stress level
+    - A 1 on a Stress Dice triggers a [Panic Roll](##panic-roll) which may cancel action
+- Roll: Roll your Base Dice and Stress dice and check the result
 - Pushing: If no 1s show on Stress Dice, you may add 1 STRESS LEVEL (and the associated die) then reroll all non-6s.
+- Difficulty Modifiers: Adjust # of dice (Base Dice first, then Stress Dice).
 
 ## Difficulty
 
@@ -154,7 +158,7 @@
 ## Reduce stress by
 
 - Every full Turn spending resting in assumed safe area reduces stress by one. No other actions can be made
-- Once per act PC can interact with signature item in some way to reduce stress by 1
+- Once per Act PC can interact with signature item in some way to reduce stress by 1
 
 ## Make a panic roll if
 
@@ -208,7 +212,7 @@ Remember to keep track of time in stealth and combat
 | Engaged | Right next to you |
 | Short | A few meters away, in the same zone as you |
 | Medium | Up to 25 meters away, in an adjacent zone |
-| Long | Up to about 100 meters, four sones away |
+| Long | Up to about 100 meters, four zones away |
 | Extreme | Up to about one kilometer |
 
 # Stealth Mode
@@ -222,7 +226,7 @@ Remember to keep track of time in stealth and combat
     - NPCs
         - Move two zones per point of speed per Turn - Humans have Speed of 1
 - Passive
-    - PCs will automatically detect Passive enemies in the same zone or line of sight
+    - PCs will automatically detect Passive enemies in the same zone or in line of sight
     - Unless using Stealth Passive enemies will detect the PCs and [Combat](##combat-mode) begins
     - Roll Mobility vs Observation to sneak 
 - Active
@@ -261,6 +265,8 @@ Core Book - 90p
     - Roll Mobility vs Observation (+2 Mod)
         - Lowest Mobility of group vs Highest Observation of group
 
+## Sneak Attacks Modifier
+
 | Range | Modification |
 | -- | -- |
 | Engaged | -2 |
@@ -278,7 +284,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 2. Shuffle initiative cards
 3. Draw cards for every PC and NPC
     - PCs and NPCs are given card per point of speed. Humans have speed of 1
-    - if more than 10 then group NPCs
+    - If more than 10 then group NPCs
     - PC can swap initiative cards at beginning or end of round
 4. Round begins each participant act in ascending initiative order
 5. On your act perform either
@@ -380,6 +386,7 @@ Core book - p98
 
 - Armour 
     - Armor Rating lowers damage by that amount
+    - Armor can be permanently reduced by Acid Splash
 - Broken
     - Occurs when health reaches zero
     - Being Broken does not kill you
