@@ -1,8 +1,12 @@
+---
+sidebar: auto
+---
+
 # Openning
 
 What's the story mother? - p371
 
-# Locations
+## Locations
 
 ## West Lock
 - Empty and no noise ecept for the hum of the colony and the squal of the wind
