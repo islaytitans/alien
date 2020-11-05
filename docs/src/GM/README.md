@@ -115,9 +115,9 @@ sidebar: auto
     - Medical Aid
         - Recover +1 Health points
 
-# Stress and Panic
+## Stress and Panic
 
-## Gain stress if
+### Gain stress if
 
 - You push a skill roll.
 - You fire a burst of full auto fire (p. 62).
@@ -129,12 +129,12 @@ sidebar: auto
 - You encounter certain creatures or locations, as determined by the scenario or the GM.
 - You fail or succeed at killing a human being
 
-## Reduce stress by
+### Reduce stress by
 
 - Every full Turn spending resting in assumed safe area reduces stress by one. No other actions can be made
 - Once per Act PC can interact with signature item in some way to reduce stress by 1
 
-## Make a panic roll if
+### Make a panic roll if
 
 - You roll one or more 1s on your Stress Dice in a skill roll. If this happens, you can’t push the skill roll. Instead, roll for panic.
 - You witness a friendly character suffering from a certain panic effect (see the Panic Result table).
@@ -143,7 +143,7 @@ sidebar: auto
 - You’re attacked by a strange alien creature that you’ve never seen before.
 - A truly terrifying event occurs, as determined by the scenario or the GM.
 
-## Panic Roll
+### Panic Roll
 
 Roll a D6, add your current STRESS LEVEL, and check the table below.
 
@@ -160,16 +160,16 @@ Roll a D6, add your current STRESS LEVEL, and check the table below.
 | 14 PSYCHOTIC. | You must immediately attack the nearest person or creature, friendly or not. You won’t stop until you or the target is Broken. Every friendly character who witnesses your rampage must make an immediate Panic Roll. |
 | 15+ CATATONIC. | You collapse to the floor and can’t talk or move, staring blankly into oblivion. |
 
-## Stop panicing
+### Stop panicing
 
 Some effects of Panic Rolls last for one round others remain until
 - Another charctater makes a Command action on them
 - You are broken
 - One turn passes
 
-# Gameplay
+## Gameplay
 
-## Measuring time
+### Measuring time
 
 Remember to keep track of time in stealth and combat
 
@@ -179,7 +179,7 @@ Remember to keep track of time in stealth and combat
 | Turn | 5-10 minutes | Stealth |
 | Shift | 5-10 hours | Recovery |
 
-## Range Categories
+### Range Categories
 
 | Range | Description |
 | -- | -- |
@@ -189,7 +189,7 @@ Remember to keep track of time in stealth and combat
 | Long | Up to about 100 meters, four zones away |
 | Extreme | Up to about one kilometer |
 
-# Stealth Mode
+## Stealth Mode
 
 - Played in [Turns](##measuring-time)
 - On a Turn
@@ -211,7 +211,7 @@ Remember to keep track of time in stealth and combat
     - Detects large moving objects within [Long Rage](##range-categories) (4 zones) and indiciates which zone they are in
     - Combat does not begin if detected on montion tracker must be in same zone or have line of sight on it
 
-## Stealth Modifier
+### Stealth Modifier
 
 | Range | Mobility Roll |
 | -- | -- |
@@ -221,7 +221,7 @@ Remember to keep track of time in stealth and combat
 | Long | +1 |
 | Extreme | +3 |
 
-## Sneak Attacks
+### Sneak Attacks
 
 Core Book - 90p
 
@@ -239,7 +239,7 @@ Core Book - 90p
     - Roll Mobility vs Observation (+2 Mod)
         - Lowest Mobility of group vs Highest Observation of group
 
-## Sneak Attacks Modifier
+### Sneak Attacks Modifier
 
 | Range | Modification |
 | -- | -- |
@@ -249,7 +249,7 @@ Core Book - 90p
 | Long | -1 |
 | Extreme | +3 |
 
-# Combat Mode
+## Combat Mode
 
 Once enemy is revealed stealth mode is over and combat begins.
 
@@ -268,7 +268,7 @@ Once enemy is revealed stealth mode is over and combat begins.
     - but this uses up your actions for this round
 7. Once every participant has acted a new round begins
 
-## Slow actions
+### Slow actions
 
 | Actions | Prerequiste | Skill |
 | -- | -- | -- |
@@ -288,7 +288,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Stop panic | Panicking character | Command |
 | Throw weapon | Thrown Weapon | Ranged Combat |
 
-## Fast actions
+### Fast actions
 
 | Actions | Prerequiste | Skill |
 | -- | -- | -- |
@@ -310,7 +310,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Set overwatch | Ranged Weapon | - |
 | Use item | - | - |
 
-## Movement
+### Movement
 
 - Running
     - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
@@ -320,7 +320,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 - Retreat
     - Must Retreat action to move away from engaged enem
 
-## Ranged Fire Modications
+### Ranged Fire Modications
 
 | Situation | Modiciation |
 | -- | -- |
@@ -338,7 +338,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Dim light | -1 |
 | Darkness | -2 |
 
-## Types of cover
+### Types of cover
 
 | Type | Armor Rating |
 | -- | -- |
@@ -349,14 +349,14 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Outer bulkhead | 6 |
 | Armored bulkhead | 7+ |
 
-# Injury and Death
+## Injury and Death
 
 Core book - p98
 
 - Health represents fatigue, bruises, cuts (p98)
 - Critical Injury are more dangerous (p100)
 
-## Damage and Healing
+### Damage and Healing
 
 - Armour 
     - Armor Rating lowers damage by that amount
@@ -376,7 +376,7 @@ Core book - p98
     - You can recover all Health Points but still have a critical injury
     - If you are broken and have a critical injury two Medical Aid rolls are required
 
-##  Critical Injury and Death
+### Critical Injury and Death
 
 Roll D66 on the Critical Injury table - Core book - p100
 
