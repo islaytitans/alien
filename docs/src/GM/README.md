@@ -4,6 +4,8 @@ sidebar: auto
 
 # Overview
 
+## Introduction
+
 - What the game is about
 - The players' part in the game
 - How to win 
@@ -16,13 +18,13 @@ sidebar: auto
 - You're probably going to die
 - What's the story mother
 
-## Story points
+### Story points
 
 - Gain 1 (max 3) by playing your agenda
 - Awarded at end of each act
 - Spend to add one Success to a roll
 
-## Dice Rolls
+### Dice Rolls
 
 - Base Dice: Attribute + Skill + Gear.
     - A 6 is a success. Each additional 6 can be used to do a Stunt.
@@ -32,7 +34,7 @@ sidebar: auto
 - Pushing: If no 1s show on Stress Dice, you may add 1 STRESS LEVEL (and the associated die) then reroll all non-6s.
 - Difficulty Modifiers: Adjust # of dice (Base Dice first, then Stress Dice).
 
-## Difficulty
+### Difficulty
 
 | Difficulty | Modification |
 | -- | -- |
@@ -44,7 +46,7 @@ sidebar: auto
 | Hard | -2 |
 | Formidable | -3 |
 
-## Attributes and Skills
+### Attributes and Skills
 
 - Strength
     - Heavy Machinary

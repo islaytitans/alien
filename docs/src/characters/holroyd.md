@@ -31,5 +31,5 @@
 ## Gear
 - 
 
-- Buddy : Hirsch
-- Rival : Sigg
+## Buddy : Hirsch
+## Rival : Sigg
