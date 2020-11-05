@@ -1,12 +1,12 @@
 # MacWhirr, Officer
 
-# Agenda
+## Agenda
 - Your friends are dying, and you must take revenge on the corporates for causing this crisis. 
 - Agent Reynolds and her science lackey Kominskey must pay for their crimes.
 
-# Health : 3
+## Health : 3
 
-# Skills
+## Skills
 - Strength : 3
     - Close Combat : 0 (+3)
     - Heavy Machinary : 0 (+3) 
@@ -24,12 +24,12 @@
     - Manipulation : 2 (+5)
     - Medical Aid : 0 (+5)
 
-# Talent
+## Talent
 - Pull Rank
     - Order characters around. 
     - Roll your Command skill vs the target's Manipulation skill. If you win they have to follow your orders. You take 1 stress
 
-# Gear
+## Gear
 - Knife (Weapon)
     - Bonus Dice - 0
     - Damage - 2

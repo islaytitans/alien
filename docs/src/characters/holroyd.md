@@ -1,13 +1,13 @@
+# Holroyd, Roughneck
 
+## Agenda
+- You know about the alien ship that crashed on LV-426, the alien eggs within, and why Miranda is here. 
+- You should cover it up, but you feel a terrible responsibility for what has happened. 
+- You must do everything you can to save your comrades, including sacrificing yourself, if need be.
 
-## Holroyd, Roughneck
+## Health : 3
 
-Agenda
-- 
-
-- Health : 3
-
-Skills
+## Skills
 - Strength : 3
     - Close Combat
     - Heavy Machinary
@@ -25,16 +25,11 @@ Skills
     - Manipulation
     - Medical Aid
 
-Talent
+## Talent
 -
 
-Gear
+## Gear
 - 
 
 - Buddy : Hirsch
 - Rival : Sigg
-
-### Agenda 
-- You know about the alien ship that crashed on LV-426, the alien eggs within, and why Miranda is here. 
-- You should cover it up, but you feel a terrible responsibility for what has happened. 
-- You must do everything you can to save your comrades, including sacrificing yourself, if need be.

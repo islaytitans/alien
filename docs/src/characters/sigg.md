@@ -1,12 +1,13 @@
 
-## Sigg, Scientist
+# Sigg, Scientist
 
-Agenda
-- 
+## Agenda
+- That Weyland-Yutani inspection team won’t be so snooty if you can leapfrog them and get an alien to the Company first. 
+- You just need to get a live specimen and get off LV-426 alive. Who will be laughing then?
 
-- Health : 3
+## Health : 3
 
-Skills
+## Skills
 - Strength : 3
     - Close Combat
     - Heavy Machinary
@@ -24,15 +25,11 @@ Skills
     - Manipulation
     - Medical Aid
 
-Talent
+## Talent
 -
 
-Gear
+## Gear
 - 
 
-- Buddy : Hirsch
-- Rival : Macwhirr
-
-### Agenda 
-- That Weyland-Yutani inspection team won’t be so snooty if you can leapfrog them and get an alien to the Company first. 
-- You just need to get a live specimen and get off LV-426 alive. Who will be laughing then?
+## Buddy : Hirsch
+## Rival : Macwhirr

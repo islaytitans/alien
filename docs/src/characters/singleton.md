@@ -1,12 +1,13 @@
+# Singleton, Pilot
 
-## Singleton, Pilot
+## Agenda
+- You are a Weyland-Yutani sleeper agent. 
+- Holroyd is a Company android, but he doesn’t know you are on the payroll. He’s suspected of disobeying company orders, so keep any eye on him.
+- Also, news of this outbreak cannot be allowed to leak, even if it means putting an end to any of your “friends” that try to escape...
 
-Agenda
-- 
+## Health : 3
 
-- Health : 3
-
-Skills
+## Skills
 - Strength : 3
     - Close Combat
     - Heavy Machinary
@@ -24,16 +25,11 @@ Skills
     - Manipulation
     - Medical Aid
 
-Talent
+## Talent
 -
 
-Gear
+## Gear
 - 
 
-- Buddy : Macwhirr
-- Rival : Hirsch
-
-### Agenda 
-- You are a Weyland-Yutani sleeper agent. 
-- Holroyd is a Company android, but he doesn’t know you are on the payroll. He’s suspected of disobeying company orders, so keep any eye on him.
-- Also, news of this outbreak cannot be allowed to leak, even if it means putting an end to any of your “friends” that try to escape...
+## Buddy : Macwhirr
+## Rival : Hirsch

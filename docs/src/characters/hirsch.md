@@ -1,11 +1,12 @@
-## Hirsch, Ex-Marine
+# Hirsch, Ex-Marine
 
-Agenda
-- 
+## Agenda
+- Some people fight inner demons – you’ve been sent these creatures to test your faith in God.
+- Light ‘em up and show the devil who’s boss.
 
-- Health : 3
+## Health : 3
 
-Skills
+## Skills
 - Strength : 3
     - Close Combat
     - Heavy Machinary
@@ -23,15 +24,11 @@ Skills
     - Manipulation
     - Medical Aid
 
-Talent
+## Talent
 -
 
-Gear
+## Gear
 - 
 
-- Buddy : Sigg
-- Rival : Macwhirr
-
-### Agenda 
-- Some people fight inner demons – you’ve been sent these creatures to test your faith in God.
-- Light ‘em up and show the devil who’s boss.
+## Buddy : Sigg
+## Rival : Macwhirr

@@ -159,3 +159,7 @@ What's the story mother? - p371
 # Closing
 
 - Signing off 383p
+
+## Theodora Komiskey
+
+## Wes Osterman
