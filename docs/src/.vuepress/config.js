@@ -68,6 +68,7 @@ module.exports = {
           title: 'Characters',
           collapsable: false,
           children: [
+            'maps',            
             'matt',            
             'claire',
             'leanne',
