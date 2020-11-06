@@ -7,22 +7,12 @@
 ## Health : 3
 
 ## Skills
-- Strength : 3
-    - Close Combat : 0 (+3)
-    - Heavy Machinary : 0 (+3) 
-    - Stamina : 0 (+3)
-- Agility : 2
-    - Ranged Combat : 1 (+2)
-    - Mobility : 1 (+2)
-    - Piloting : 0 (+2)
-- Wits : 4
-    - Observation : 2 (+4)
-    - Survival : 0 (+4)
-    - Comtech : 1 (+4)
-- Empathy : 5
-    - Command : 0 (+5)
-    - Manipulation : 2 (+5)
-    - Medical Aid : 0 (+5)
+
+| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+|-|-|-|-|
+| Close Combat 0 (+3) | Ranged Combat 1 (+2) | Observation 2 (+4) | Command 0 (+5) |
+| Heavy Machinary 0 (+3) | Mobility 1 (+2) | Survival 0 (+4) | Manipulation 2 (+5) |
+| Stamina 0 (+3) | Piloting 0 (+2) | Comtech 1 (+4) | Medical Aid 0 (+5) |
 
 ## Talent
 - Pull Rank
