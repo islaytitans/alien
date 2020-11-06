@@ -30,9 +30,12 @@
 
 ## Gear
 - Medkit
+    - Can be used to heal someone or yourself
+    - Medical Aid +2
+    - Can only be used once
 
 ## Signature Item
-- Lab coat - can use once to reduce stress by 1
+- Lab coat - use to comfort yourself reducing your stress by 1 (can only be done once)
 
 ## Buddy : Matt
 ## Rival : Leanne

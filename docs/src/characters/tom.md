@@ -39,7 +39,7 @@
     - Range - Long
 
 ## Signature Item
-- Toy Dinosaur - can use once to reduce stress by 1
+- Toy Dinosaur - use to comfort yourself reducing your stress by 1 (can only be done once)
 
 ## Buddy : Leanne
 ## Rival : Matt

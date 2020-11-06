@@ -29,15 +29,15 @@
 
 ## Gear
 - Cutting Torch 
-    - Combat
+    - Heavy Machinary +2
+    - Power Supply 3
+    - When used as a weapon
         - Bonus Dice - 0
         - Damage - 2
         - Range - Engaged
-    - Heavy Machinary +2
-    - Power Supply 3
 
 ## Signature Item
-- Cross necklace - can use once to reduce stress by 1
+- Cross necklace - use to comfort yourself reducing your stress by 1 (can only be done once)
 
 ## Buddy : Vicky
 ## Rival : Leanne

@@ -37,7 +37,7 @@
     - Survival + 1
 
 ## Signature Item
-- Cross necklace - can use once to reduce stress by 1
+- Cross necklace - use to comfort yourself reducing your stress by 1 (can only be done once)
 
 ## Buddy : Matt
 ## Rival : Vicky

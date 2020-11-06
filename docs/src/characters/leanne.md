@@ -39,7 +39,7 @@
     - 4 uses
 
 ## Signature Item
-- Company ID Badge - can use once to reduce stress by 1
+- Company ID Badge - use to comfort yourself reducing your stress by 1 (can only be done once)
 
 ## Buddy : Tom
 ## Rival : Matt
