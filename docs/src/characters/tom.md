@@ -29,8 +29,14 @@
 - Reckless
 
 ## Gear
-- Motion Tracker (Power Supply 5)
 - Pistol (one reload)
+    - Bonus Dice - +2
+    - Damage - 1
+    - Range - Medium
+    - (Must reload when a 1 on stress dice when shooting)
+- Motion Tracker (Power Supply 5)
+    - Detects movement
+    - Range - Long
 
 ## Signature Item
 - Toy Dinosaur - can use once to reduce stress by 1

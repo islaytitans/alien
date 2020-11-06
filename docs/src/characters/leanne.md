@@ -35,7 +35,7 @@
     - Damage - 2
     - Range - Engaged
 - Watatsumi Bolt Gun (Tool) 
-    - Bonus Dice - 2 when using Heavy Machinarty
+    - Heavy Machinary +2
     - 4 uses
 
 ## Signature Item

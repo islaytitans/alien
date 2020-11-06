@@ -28,7 +28,13 @@
 - Banter
 
 ## Gear
-- Cutting Torch (Power Supply 3)
+- Cutting Torch 
+    - Combat
+        - Bonus Dice - 0
+        - Damage - 2
+        - Range - Engaged
+    - Heavy Machinary +2
+    - Power Supply 3
 
 ## Signature Item
 - Cross necklace - can use once to reduce stress by 1

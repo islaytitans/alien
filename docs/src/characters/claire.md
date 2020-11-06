@@ -29,8 +29,12 @@
 - Resilient
 
 ## Gear
-- Electronic Tools
+- Diagnostic Device
+    - Troubleshoot computer systems
+    - Comtech + 2
 - Watch
+    - Tracks time, oxygen and temperature
+    - Survival + 1
 
 ## Signature Item
 - Cross necklace - can use once to reduce stress by 1
