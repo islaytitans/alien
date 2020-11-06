@@ -9,31 +9,8 @@ What's the story mother? - p371
 ## Locations
 
 ## West Lock
-- Empty and no noise ecept for the hum of the colony and the squal of the wind
+- Empty and no noise except for the hum of the colony and the squeal of the wind
 - Ready room with lockers and dim light
-
-## Block A
-
-### A1 - Offices
-- Busy, messy office space now empty
-- *Drone Xenomorph* **Passive** near North Lock
-
-### A2 - Housing
-- Large family apartments now empty
-- Heating system now leaking scalding water and steam
-- PCs splash as they move (-1 **Mobility** if sneaking)
-
-## Block B
-
-## B1 - Offices
-- Busy, messy office space now empty
-
-## B2 - Command Crew Quarters
-- Block is keycard locked for command personnel, Hard (-2) **Comtech** roll will open the locks
-- Block has office, ready room and armory
-- *Scout Xenomorph* **Passive** is lurking here
-- Armory door is heavy (AR 4 and 12 Health) can be openned with Admin or Security keys that are missing
-    - Armory contains Shotgun and Revolver with two reloads each
 
 ## Block C
 
@@ -54,10 +31,17 @@ What's the story mother? - p371
         - Komiskey is in shock and vague asking for Help
     - If linger here too long the *Xenomorph* returns for Reynold's body for raw materials
 
-## Block D
+## Block B
 
-### D1 & D2 - Recreation & Family Services
-- School, gym, games room, conference and town hall now empty
+## B1 - Offices
+- Busy, messy office space now empty
+
+## B2 - Command Crew Quarters
+- Block is keycard locked for command personnel, Hard (-2) **Comtech** roll will open the locks
+- Block has office, ready room and armory
+- *Scout Xenomorph* **Passive** is lurking here
+- Armory door is heavy (AR 4 and 12 Health) can be openned with Admin or Security keys that are missing
+    - Armory contains Shotgun and Revolver with two reloads each
 
 ## Block E
 
@@ -78,17 +62,47 @@ What's the story mother? - p371
             - She's been facehugged herself, successful **manipulation** roll for her to admit she's been hugged (**+1 stress level** to hear that)
             - She lacked courage to OD herself
         - She rambles on about Reynolds intercepted a message from Earth, wanted to come and claim the find for herself
-        - Peads to be freed after much sobbing will agree to help escape on the shuttle, she has **keycard** around her neck
+        - Pleads to be freed after much sobbing will agree to help escape on the shuttle, she has **keycard** around her neck
         - Successful **Comtech** roll will open the door or broken down (AR 6 and 12 Health)
-            - breaking down door will alert Xenomorph in E1
+            - Breaking down door will alert Xenomorph in E1
         - Shows PCs how to use hyper-coolant spray to keep eggs dormant for transport 
-            - egg can be kept dormant D6 turns
+            - Egg can be kept dormant D6 turns
 - Ops
-    - Nerve centre of conoly monitoring and security monitors
+    - Nerve centre of colony monitoring and security monitors
     - CCTV is damaged successful **Comtech** roll gives access to cameras
         - Shows sublevel areas (**+1 stress level**) for those who look
         - Shows corridor to A1 offices with a dark shape dragging body
         - Shows E1 South Lock, can get first full glimpse of Xeno, right below them (**+1 stress level**) for those who look
+
+## Tannen's Casino
+
+- Walkway from E2 to Casino, the walkway is **cluttered**
+- When the door is opened 5 bodies that were stacked against the door fall into the wallway (**+1 stress level**) for those who look and (**+2 stress level**) for the person who opened the door
+- On victim is still alived having being facehugged
+- Neon lights of gambling machines looking to rob workers of their pay
+
+## Block A
+
+### A1 - Offices
+- Busy, messy office space now empty
+- *Drone Xenomorph* **Passive** near North Lock
+
+### A2 - Housing
+- Large family apartments now empty
+- Heating system now leaking scalding water and steam
+- PCs splash as they move (-1 **Mobility** if sneaking)
+
+## Block D
+
+### D1 & D2 - Recreation & Family Services
+- School, gym, games room, conference and town hall now empty
+
+## Billy's Bar
+
+- Only accessed from the outside
+- Wood panelled place with bar downstairs and seating upstairs
+- Wes Osterman (p374) is trapped inside and a *Drone Xenomorph* **Passive** is trying to break in 
+- **Event - A Cry For Help**
 
 ## Sublevel Areas - Mass housing and Maintenance
 
@@ -104,20 +118,6 @@ What's the story mother? - p371
     - (**+1 stress level**) for those who look
     - If search through mess (takes one additional turn) get another (**+1 stress level**) will find Pulse Rife, Service Pistol and Incinerator but no reloads
 
-## Tannen's Casino
-
-- Walkway from E2 to Casino, the walkway is **cluttered**
-- When the door is opened 5 bodies that were stacked against the door fall into the wallway (**+1 stress level**) for those who look and (**+2 stress level**) for the person who opened the door
-- On victim is still alived having being facehugged
-- Neon lights of gambling machines looking to rob workers of their pay
-
-## Billy's Bar
-
-- Only accessed from the outside
-- Wood panelled place with bar downstairs and seating upstairs
-- Wes Osterman (p374) is trapped inside and a *Drone Xenomorph* **Passive** is trying to break in 
-- **Event - A Cry For Help**
-
 ## Air Traffic Control Centre
 
 - Air Traffic control Centre tower, comms array and landing pad
@@ -129,7 +129,7 @@ What's the story mother? - p371
     - Komiskey's keycard will release and unlock the shuttle
     - Motion tracker will show movement inside but too muddled to reveal how many inside
 - Escape in the shuttle
-    - PCs will be after them see **Hunted** event
+    - Aliens will be after them see **Hunted** event
     - Shuttle is filled with thawing eggs, some people inside having been facehugged are unconcious
     - Two *Facehuggers* **Active** will rush to attack at once
     - If they survive they successfully escape
@@ -148,7 +148,6 @@ What's the story mother? - p371
 
 - Hunted
     - At no point should PCs should feel safe, if linger or spend too long in location an *Drone Xenomorph* **Passive** will arrive from the nearby hive to stalk them
-
 
 # Searching for Gear
 - Searching takes one additional turn to search one location (zone). Location can only be searched once
