@@ -1,8 +1,8 @@
-# Singleton, Pilot
+# Tom - Singleton, Pilot
 
 ## Agenda
 - You are a Weyland-Yutani sleeper agent. 
-- Holroyd is a Company android, but he doesn’t know you are on the payroll. He’s suspected of disobeying company orders, so keep any eye on him.
+- Claire is a Company android, but she doesn’t know you are on the payroll. She’s suspected of disobeying company orders, so keep any eye on her.
 - Also, news of this outbreak cannot be allowed to leak, even if it means putting an end to any of your “friends” that try to escape...
 
 ## Health : 3
@@ -26,10 +26,14 @@
     - Medical Aid
 
 ## Talent
--
+- Reckless
 
 ## Gear
-- 
+- Motion Tracker (Power Supply 5)
+- Pistol (one reload)
 
-## Buddy : Macwhirr
-## Rival : Hirsch
+## Signature Item
+- Toy Dinosaur - can use once to reduce stress by 1
+
+## Buddy : Leanne
+## Rival : Matt

@@ -1,5 +1,5 @@
 
-# Sigg, Scientist
+# Vicky - Sigg, Scientist
 
 ## Agenda
 - That Weyland-Yutani inspection team won’t be so snooty if you can leapfrog them and get an alien to the Company first. 
@@ -26,10 +26,13 @@
     - Medical Aid
 
 ## Talent
--
+- Analysis
 
 ## Gear
-- 
+- Medkit
 
-## Buddy : Hirsch
-## Rival : Macwhirr
+## Signature Item
+- Lab coat - can use once to reduce stress by 1
+
+## Buddy : Matt
+## Rival : Leanne

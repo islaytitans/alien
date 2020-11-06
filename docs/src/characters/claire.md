@@ -1,4 +1,4 @@
-# Holroyd, Roughneck
+# Claire - Holroyd, Roughneck
 
 ## Agenda
 - You know about the alien ship that crashed on LV-426, the alien eggs within, and why Miranda is here. 
@@ -26,10 +26,14 @@
     - Medical Aid
 
 ## Talent
--
+- Resilient
 
 ## Gear
-- 
+- Electronic Tools
+- Watch
 
-## Buddy : Hirsch
-## Rival : Sigg
+## Signature Item
+- Cross necklace - can use once to reduce stress by 1
+
+## Buddy : Matt
+## Rival : Vicky

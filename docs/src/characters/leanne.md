@@ -1,4 +1,4 @@
-# MacWhirr, Officer
+# Leanne - MacWhirr, Officer
 
 ## Agenda
 - Your friends are dying, and you must take revenge on the corporates for causing this crisis. 
@@ -27,7 +27,7 @@
 ## Talent
 - Pull Rank
     - Order characters around. 
-    - Roll your Command skill vs the target's Manipulation skill. If you win they have to follow your orders. You take 1 stress
+    - Roll your Command skill vs and they roll their Manipulation skill. If you have more 6s they have to follow your orders. You take 1 stress
 
 ## Gear
 - Knife (Weapon)
@@ -37,3 +37,9 @@
 - Watatsumi Bolt Gun (Tool) 
     - Bonus Dice - 2 when using Heavy Machinarty
     - 4 uses
+
+## Signature Item
+- Company ID Badge - can use once to reduce stress by 1
+
+## Buddy : Tom
+## Rival : Matt

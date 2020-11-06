@@ -68,11 +68,11 @@ module.exports = {
           title: 'Characters',
           collapsable: false,
           children: [
-            'hirsch',            
-            'holroyd',
-            'macwhirr',
-            'sigg',
-            'singleton',
+            'matt',            
+            'claire',
+            'leanne',
+            'vicky',
+            'tom',
           ]
         }
       ],

@@ -1,4 +1,4 @@
-# Hirsch, Ex-Marine
+# Matt - Hirsch, Ex-Marine
 
 ## Agenda
 - Some people fight inner demons – you’ve been sent these creatures to test your faith in God.
@@ -25,10 +25,13 @@
     - Medical Aid
 
 ## Talent
--
+- Banter
 
 ## Gear
-- 
+- Cutting Torch (Power Supply 3)
 
-## Buddy : Sigg
-## Rival : Macwhirr
+## Signature Item
+- Cross necklace - can use once to reduce stress by 1
+
+## Buddy : Vicky
+## Rival : Leanne
