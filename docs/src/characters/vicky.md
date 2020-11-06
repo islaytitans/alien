@@ -5,14 +5,14 @@
 - That Weyland-Yutani inspection team won’t be so snooty if you can leapfrog them and get an alien to the Company first. 
 - You just need to get a live specimen and get off LV-426 alive. Who will be laughing then?
 
-## Health : 3
+## Health : 2
 
 ## Skills
-| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+| Strength +2 | Agility +4 | Wits +4 | Empathy +4 |
 |-|-|-|-|
-| Close Combat 0 (+3) | Ranged Combat 1 (+2) | Observation 2 (+4) | Command 0 (+5) |
-| Heavy Machinary 0 (+3) | Mobility 1 (+2) | Survival 0 (+4) | Manipulation 2 (+5) |
-| Stamina 0 (+3) | Piloting 0 (+2) | Comtech 1 (+4) | Medical Aid 0 (+5) |
+| Close Combat 0 (+2) | Ranged Combat 0 (+4) | Observation 2 (+4) | Command 0 (+4) |
+| Heavy Machinary 0 (+2) | Mobility 2 (+4) | Survival 0 (+4) | Manipulation 1 (+4) |
+| Stamina 0 (+2) | Piloting 0 (+4) | Comtech 3 (+4) | Medical Aid 2 (+4) |
 
 ## Talent
 - Analysis

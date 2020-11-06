@@ -4,15 +4,15 @@
 - Some people fight inner demons – you’ve been sent these creatures to test your faith in God.
 - Light ‘em up and show the devil who’s boss.
 
-## Health : 3
+## Health : 5
 
 ## Skills
 
-| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+| Strength +5 | Agility +3 | Wits +3 | Empathy +3 |
 |-|-|-|-|
-| Close Combat 0 (+3) | Ranged Combat 1 (+2) | Observation 2 (+4) | Command 0 (+5) |
-| Heavy Machinary 0 (+3) | Mobility 1 (+2) | Survival 0 (+4) | Manipulation 2 (+5) |
-| Stamina 0 (+3) | Piloting 0 (+2) | Comtech 1 (+4) | Medical Aid 0 (+5) |
+| Close Combat 3 (+5) | Ranged Combat 2 (+3) | Observation 0 (+3) | Command 0 (+3) |
+| Heavy Machinary 1 (+5) | Mobility 1 (+3) | Survival 1 (+3) | Manipulation 0 (+3) |
+| Stamina 2 (+5) | Piloting 0 (+3) | Comtech 0 (+3) | Medical Aid 0 (+3) |
 
 ## Talent
 - Banter

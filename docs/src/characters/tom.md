@@ -5,15 +5,15 @@
 - Claire is a Company android, but she doesn’t know you are on the payroll. She’s suspected of disobeying company orders, so keep any eye on her.
 - Also, news of this outbreak cannot be allowed to leak, even if it means putting an end to any of your “friends” that try to escape...
 
-## Health : 3
+## Health : 4
 
 ## Skills
 
-| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+| Strength +4 | Agility +5 | Wits +2 | Empathy +3 |
 |-|-|-|-|
-| Close Combat | Ranged Combat | Observation | Command |
-| Heavy Machinary | Mobility | Survival | Manipulation |
-| Stamina | Piloting | Comtech | Medical Aid |
+| Close Combat 1 (+4) | Ranged Combat 2 (+5) | Observation 0 (+2) | Command 1 (+3) |
+| Heavy Machinary 1 (+4) | Mobility 2 (+5) | Survival 0 (+2) | Manipulation 0 (+3) |
+| Stamina 0 (+4) | Piloting 2 (+5) | Comtech 1 (+2) | Medical Aid 0 (+3) |
 
 ## Talent
 - Reckless
