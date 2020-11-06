@@ -15,8 +15,10 @@
 | Heavy Machinary 1 (+4) | Mobility 2 (+5) | Survival 0 (+2) | Manipulation 0 (+3) |
 | Stamina 0 (+4) | Piloting 2 (+5) | Comtech 1 (+2) | Medical Aid 0 (+3) |
 
-## Talent
-- Reckless
+## Talent - Reckless
+- You can Push any Agility (Ranged Combat, Mobility, Piloting) roll twice instead of the usual once
+    - Push Roll - Reroll any dice that do not show a 6. However this cannot be done if a 1 is showing on a rolled stress dice
+- You take one point of stress for each time you Push a Roll
 
 ## Gear
 - Pistol (one reload)

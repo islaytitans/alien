@@ -2,7 +2,7 @@
 
 ## Agenda
 - Your friends are dying, and you must take revenge on the corporates for causing this crisis. 
-- Agent Reynolds and her science lackey Kominskey must pay for their crimes.
+- Agent Reynolds and her science lackey Komiskey must pay for their crimes.
 
 ## Health : 3
 
@@ -14,10 +14,8 @@
 | Heavy Machinary 0 (+3) | Mobility 1 (+2) | Survival 0 (+4) | Manipulation 2 (+5) |
 | Stamina 0 (+3) | Piloting 0 (+2) | Comtech 1 (+4) | Medical Aid 0 (+5) |
 
-## Talent
-- Pull Rank
-    - Order characters around. 
-    - Roll your Command skill vs and they roll their Manipulation skill. If you have more 6s they have to follow your orders. You take 1 stress
+## Talent - Pull Rank
+- Roll your Command skill and they roll their Manipulation skill. If you have more 6s they have to follow your orders. You take 1 stress however
 
 ## Gear
 - Knife (Weapon)

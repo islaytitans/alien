@@ -14,8 +14,8 @@
 | Heavy Machinary 1 (+5) | Mobility 1 (+3) | Survival 1 (+3) | Manipulation 0 (+3) |
 | Stamina 2 (+5) | Piloting 0 (+3) | Comtech 0 (+3) | Medical Aid 0 (+3) |
 
-## Talent
-- Banter
+## Talent - Banter
+- When resting in a safe place, you calm everyone nearby. Your stress level and their stress level reduces by 2 for every 10 minutes spent
 
 ## Gear
 - Cutting Torch 

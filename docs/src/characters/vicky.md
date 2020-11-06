@@ -2,8 +2,7 @@
 # Vicky - Sigg, Scientist
 
 ## Agenda
-- That Weyland-Yutani inspection team won’t be so snooty if you can leapfrog them and get an alien to the Company first. 
-- You just need to get a live specimen and get off LV-426 alive. Who will be laughing then?
+- You just need to get a live specimen and get off the planet alive. That'll show your worth to the company
 
 ## Health : 2
 
@@ -14,12 +13,14 @@
 | Heavy Machinary 0 (+2) | Mobility 2 (+4) | Survival 0 (+4) | Manipulation 1 (+4) |
 | Stamina 0 (+2) | Piloting 0 (+4) | Comtech 3 (+4) | Medical Aid 2 (+4) |
 
-## Talent
-- Analysis
+## Talent - Analysis
+- Roll Observation to gain insight into strange or unknown items or creatures. Ask a question for every 6 rolled
+- A successful roll (at least one 6) also reduces the Stress level of nearby players by 1
+- A failled roll increases the Stress level of nearby players by 1 
 
 ## Gear
 - Medkit
-    - Can be used to heal someone or yourself
+    - Can be used to heal someone or yourself (every 6 heals 1 health)
     - Medical Aid +2
     - Can only be used once
 
