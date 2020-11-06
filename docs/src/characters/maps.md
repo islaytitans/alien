@@ -18,4 +18,4 @@
 
 ## Basement
 
-![Basement](../images/level2.png)
+![Basement](../images/basement.png)
