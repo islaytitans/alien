@@ -8,22 +8,11 @@
 ## Health : 3
 
 ## Skills
-- Strength : 3
-    - Close Combat
-    - Heavy Machinary
-    - Stamina
-- Agility : 2
-    - Ranged Combat
-    - Mobility
-    - Piloting
-- Wits : 4
-    - Observation
-    - Survival
-    - Comtech
-- Empathy : 5
-    - Command
-    - Manipulation
-    - Medical Aid
+| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+|-|-|-|-|
+| Close Combat 0 (+3) | Ranged Combat 1 (+2) | Observation 2 (+4) | Command 0 (+5) |
+| Heavy Machinary 0 (+3) | Mobility 1 (+2) | Survival 0 (+4) | Manipulation 2 (+5) |
+| Stamina 0 (+3) | Piloting 0 (+2) | Comtech 1 (+4) | Medical Aid 0 (+5) |
 
 ## Talent
 - Analysis
