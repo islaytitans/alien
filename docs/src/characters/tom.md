@@ -8,22 +8,12 @@
 ## Health : 3
 
 ## Skills
-- Strength : 3
-    - Close Combat
-    - Heavy Machinary
-    - Stamina
-- Agility : 2
-    - Ranged Combat
-    - Mobility
-    - Piloting
-- Wits : 4
-    - Observation
-    - Survival
-    - Comtech
-- Empathy : 5
-    - Command
-    - Manipulation
-    - Medical Aid
+
+| Strength +3 | Agility +2 | Wits +4 | Empathy +5 |
+|-|-|-|-|
+| Close Combat | Ranged Combat | Observation | Command |
+| Heavy Machinary | Mobility | Survival | Manipulation |
+| Stamina | Piloting | Comtech | Medical Aid |
 
 ## Talent
 - Reckless
