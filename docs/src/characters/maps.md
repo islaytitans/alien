@@ -1,6 +1,21 @@
 # Maps
 
-![Overview](https://cf.geekdo-images.com/eQtfIHhdkeIGVMhJ66_GmA__imagepage/img/UwX0VXJeflFdQftxlHuMFC6nAd4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5126860.png)
+## Legend
 
-![Local Overview](../images/overview.png)
+![Legend](../images/legend.png)
 
+## Overview
+
+![Overview](../images/overview.png)
+
+## Level 1
+
+![Level 1](../images/level1.png)
+
+## Level 2
+
+![Level 2](../images/level2.png)
+
+## Basement
+
+![Basement](../images/level2.png)
