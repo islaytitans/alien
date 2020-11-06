@@ -67,6 +67,7 @@ module.exports = {
         {
           title: 'Characters',
           collapsable: false,
+          sidebarDepth: 0,
           children: [
             'maps',            
             'matt',            
