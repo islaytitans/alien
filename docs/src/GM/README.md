@@ -46,6 +46,39 @@ sidebar: auto
 | Hard       | -2           |
 | Formidable | -3           |
 
+### Ranged Combat Rolls
+
+- Roll to hit
+  - Attacker collects dice for Ranged Combat skill
+  - Add dice for Agility stat
+  - Add stress dice for stress level
+  - Add / remove dice for Range
+  - Add / remove dice for Target Size
+  - Add 2 dice if Aiming
+  - If Full Auto
+    - Add 2 dice to Dice Pool
+    - Increase Stress Level by 1
+    - Add additional Stress Dice to Dice Pool
+    - Roll Dice Pool
+      - Success roll to damage
+      - No successes Push Yourself or miss
+- Roll damage
+  - Find your weapon's Damage Rating
+  - Spend any additional successes on [Ranged Arrack Stunts](#attributes-and-skills)
+    - If Full Auto
+      - You can spend any additional successes on secondary targets within Short range of the primary target
+      - The first success to a secondary taget inficts damage to it equal to the Damage Rating of the weapon
+      - Further successes to a secondary target can be used for stunts
+  - Defender collects dice for their Armor Rating if any
+  - Add dice for their Cover Rating if any
+  - Roll defense pool
+  - Reduce weapon's Damage Rating by number of successes
+  - Apply damage to defender
+- Check Ammo
+  - if attacker rolled any 1s on their Stress Die
+    - Their magazine is now empty and must be reloaded before firing again
+    - Reduce number of full magazines you have
+
 ### Attributes and Skills
 
 - Strength
@@ -206,11 +239,22 @@ Remember to keep track of time in stealth and combat
   - Roll Mobility vs Observation to sneak
 - Active
   - PCs will not automatically detect Active enemies that chose to remain hidden
-  - May perform a [Sneak Attack](#sneak-attack) requiring a contested roll
+  - May perform a [Sneak Attack](#sneak-attacks) requiring a contested roll
 - Motion Trackers
   - Can be used once per turn (requiring a Power Supply roll - roll dice equal to current supply rating, decrease supply rating for each 1)
   - Detects large moving objects within [Long Rage](#range-categories) (4 zones) and indiciates which zone they are in
   - Combat does not begin if detected on montion tracker must be in same zone or have line of sight on it
+
+### Zone Features
+
+- Cluttered
+  - Must roll Mobility when move into zone. Fail means you get into zone but now prone
+- Dark
+  - Observation rolls get -2 modification
+  - Ranged Attacks get -2 modification and can't pass through zone
+- Cramped
+  - You can only crawl
+  - You cannot move or shoot past individuals
 
 ### Stealth Modifier
 
@@ -269,64 +313,74 @@ Once enemy is revealed stealth mode is over and combat begins.
    - but this uses up your actions for this round
 7. Once every participant has acted a new round begins
 
+### Movement
+
+- [Run](#fast-actions)
+  - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
+    - Mobility roll required if moving into a Cluttered Zone
+- [Crawl](#slow-actions)
+  - Same as running however a Slow Action so can only do one per turn
+  - Cramped zone, crawling is the only movement possible
+- [Retreat](#fast-actions)
+  - Must use Retreat action to move away from engaged enemy
+
 ### Slow actions
 
-| Actions                    | Prerequiste                                     | Skill         |
-| -------------------------- | ----------------------------------------------- | ------------- |
-| Break grapple              | Grapped                                         | Close Combat  |
-| Block attack while unarmed | Attacked in close combat                        | Close Combat  |
-| Crawl                      | You are prone                                   | -             |
-| Close combat attack        | -                                               | Close Combat  |
-| Climb into space suit      | Space Suit                                      | Mobility      |
-| First aid                  | Broken or dying victim                          | Medical Aid   |
-| Full auto                  | Firearm                                         | Ranged Combat |
-| Give orders                | Character can hear you                          | Command       |
-| Persuade                   | Your opponent can hear you                      | Manipulation  |
-| Reload                     | Firearm (rolled 1 on stress dice when shooting) | -             |
-| Shoot firearm              | Firearm                                         | Ranged Combat |
-| Use Signature Item         | Use Signature Item                              | -             |
-| Start engine               | Vehicle                                         | -             |
-| Stop panic                 | Panicking character                             | Command       |
-| Throw weapon               | Thrown Weapon                                   | Ranged Combat |
+| Actions               | Prerequiste                                     | Skill         | Description                                                                          |
+| --------------------- | ----------------------------------------------- | ------------- | ------------------------------------------------------------------------------------ |
+| Break grapple         | Grapped                                         | Close Combat  | Roll opposed Close Combat                                                            |
+| Crawl                 | You are prone                                   | -             |
+| Close combat          | -                                               | Close Combat  | Inflict damage equal to weapon's Damage Rating                                       |
+| Climb into space suit | Space Suit                                      | Mobility      |
+| First aid             | Broken or dying victim                          | Medical Aid   | See [Medical Aid](#damage-and-healing)                                               |
+| Full auto             | Firearm with Fully Automatic                    | Ranged Combat |
+| Give orders           | Character can hear you                          | Command       | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
+| Persuade              | Your opponent can hear you                      | Manipulation  |
+| Reload                | Firearm (rolled 1 on stress dice when shooting) | -             |
+| Shoot firearm         | Firearm                                         | Ranged Combat | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
+| Use Signature Item    | Use Signature Item                              | -             |
+| Start engine          | Vehicle                                         | -             |
+| Stop panic            | Panicking character                             | Command       |
+| Throw weapon          | Thrown Weapon                                   | Ranged Combat | Mod. with aiming, range, target size. Inflict damage equal to weapon's Damage Rating |
 
 ### Fast actions
 
-| Actions                    | Prerequiste                 | Skill        |
-| -------------------------- | --------------------------- | ------------ |
+| Actions                    | Prerequiste                 | Skill        | Description                                                                                                            |
+| -------------------------- | --------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Aim                        | Ranged Weapon               | -            |
-| Block attack               | Attacked in close combat    | Close Combat |
+| Block attack               | Attacked in close combat    | Close Combat | Declare before opponent's Attack Roll, [spend successes](#blocking). Cannot use if already spent all actions this turn |
 | Draw weapon                | -                           | -            |
 | Drive                      | Vehicle                     | Piloting     |
 | Enter/exit vehicle         | Vehicle                     | -            |
 | Get up                     | You are prone               | -            |
 | Grab the wheel             | Vehicle                     | -            |
-| Grapple attack             | You've grappled an opponent | Close Combat |
+| Grapple attack             | You've grappled an opponent | Close Combat | Cannot be blocked                                                                                                      |
 | Move through door / hatch  | -                           | -            |
 | Open unlocked door / hatch | -                           | -            |
 | Pick up item               | -                           | -            |
-| Retreat / disengage        | Enemy at Engaged range      | Mobility     |
+| Retreat / disengage        | Enemy at Engaged range      | Mobility     | Success move to short range. Fail move to short range but enemy gets free attack                                       |
 | Run                        | No enemy at Engaged range   | -            |
-| Shove                      | Enemy at Engaged range      | Close Combat |
-| Seek cover                 | Cover in same zone          | -            |
-| Set overwatch              | Ranged Weapon               | -            |
+| Shove                      | Enemy at Engaged range      | Close Combat | Success opponent moved to short range.                                                                                 |
+| Take cover                 | Cover in same zone          | -            |
+| Set overwatch              | Ranged Weapon               | -            | Hold an Ranged Attack See [Ranged Combat Rolls](#ranged-combat-rolls). You must keep your slow action to fire          |
 | Use item                   | -                           | -            |
 
-### Movement
+### Blocking
 
-- Running
-  - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
-    - Mobility roll required if moving into a Cluttered Zone
-- Crawling
-  - Cramped zone, crawling is the only movement possible
-- Retreat
-  - Must Retreat action to move away from engaged enem
+- On success spend successes
+  - Decrease Damage
+    - decrease damage by 1 for each success spent. If no damage left enemy misses
+  - Counter Attack
+    - Deal damage equal to your weapon's Damage Rating. Cannot spend additional successes to increase damage of the counter attack
+  - Disarm Enemy
+- Unarmed Blocking
+  - If unarmed can only block unarmed attacks from humans
 
 ### Ranged Fire Modications
 
 | Situation        | Modiciation |
 | ---------------- | ----------- |
 | Aimed shot       | +2          |
-| RANGE FACTORS    | -           |
 | Engaged range    | -3/+3       |
 | Short range      | 0           |
 | Medium range     | -1          |
@@ -354,7 +408,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 
 Core book - p98
 
-- Health represents fatigue, bruises, cuts (p98)
+- Health represents fatigue, bruises, cuts, brokn bones (p98)
 - Critical Injury are more dangerous (p100)
 
 ### Damage and Healing
@@ -368,14 +422,15 @@ Core book - p98
   - Cannot perform actions only crawl and mumble
   - Roll for Critical Injury
   - Further damage causes another critical injury
-- Recover
-  - When not broken recover one point of health per Turn
+- Recovery
+  - When not broken regain one point of health per Turn of rest
   - When broken and on your own you regain 1 point of Health after one Turn
+    - If recover one Health by yourself you can try to treat yourself with Medical Aid (-2 mod)
 - Medical Aid
-  - Medical Aid can be used to regain health - regaining Health equal to the successes
   - Medical Aid can only be used if you are broken or have a critical injury
+  - Medical Aid can be used to regain health - regaining Health equal to the successes
   - You can recover all Health Points but still have a critical injury
-  - If you are broken and have a critical injury two Medical Aid rolls are required
+  - If you are broken and have a critical injury two Medical Aid rolls are required - one doesn't cure both
 
 ### Critical Injury and Death
 
@@ -385,8 +440,9 @@ Roll D66 on the Critical Injury table - Core book - p100
   - To kill a human being you must fail an Empathy roll - roll Empathy attribute only without stress dice
   - Success or fail gain + 1 to your stress level
 - Death Roll
-  - Make a death roll when suffer a critical injury listed as fatal - roll Stamina attribute only without stress dice
-  - Success you linger on for the Time Limit of the injury before making another roll
+  - Make a death roll when suffer a critical injury listed as fatal when the listed time runs out - roll Stamina attribute only no stress dice
+    - Success you linger on for the Time Limit of the injury before making another roll
+    - Fail you die
 - Save a life
   - Medical Aid can be given before a failed Death Roll
     - Each character who tries to treat you can only do so once, retry requires better medical equipment
