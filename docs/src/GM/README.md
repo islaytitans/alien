@@ -79,6 +79,8 @@ sidebar: auto
     - Their magazine is now empty and must be reloaded before firing again
     - Reduce number of full magazines you have
 
+### Close Combat Rolls
+
 ### Attributes and Skills
 
 - Strength
