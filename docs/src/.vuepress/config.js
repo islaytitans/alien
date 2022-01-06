@@ -65,7 +65,7 @@ module.exports = {
           title: "Characters",
           collapsable: false,
           sidebarDepth: 0,
-          children: ["maps", "matt", "claire", "leanne", "vicky", "tom"],
+          children: ["maps", "matt", "claire", "vicky", "tom"],
         },
       ],
     },
