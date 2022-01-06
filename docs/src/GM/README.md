@@ -116,72 +116,27 @@ sidebar: auto
 
 ### Attributes and Skills
 
-- Strength
-  - Heavy Machinary
-    - +1 to a later related roll
-    - Don’t need to roll again for this exact situation
-    - Half the usual time
-    - Break it permanently
-    - You act quietly
-    - You show off
-  - Stamina
-    - Give one 6 to someone in the same situation
-    - +1 to later related roll
-    - Don’t need to roll again for this exact situation
-    - You impress someone
-  - Close Combat
-    - Attack
-      - +1 damage
-      - Swap initiative card with opponent
-      - Opponent drops held item or weapon
-      - Pull object from target
-      - Grapple opponent
-      - Humanoid opponent prone
-      - Humanoid opponent clinched
-    - Defence
-      - -1 damage
-      - Counterattack: base damage only
-      - Disarm attacker
-- Agility
-  - Mobility
-    - Give one 6 to someone in similar situation
-    - +1 to later related roll
-    - Impress someone
-  - Ranged Combat
-    - +1 damage
-    - Swap initiative card with opponent
-    - Opponent makes Panic Roll
-    - Opponent drops held item/weapon
-    - Opponent prone or pushed back
-    - (Autofire only) Additional target hit for base damage
-  - Piloting
-    - +1 to later related roll
-    - You show off
-- Wits
-  - Observation
-    - Is it coming for me?
-    - Are there more of them close by?
-    - How do I get in/past/away?
-  - Comtech
-    - +1 to a later related roll
-    - Don't’ need to overcome again
-    - Half the usual time
-    - New/unexpected information
-    - Hide your tracks
-    - You show off
-  - Survival
-    - Give one 6 to someone in the same situation
-    - +1 to later related roll
-    - You impress someone
-- Empathy
-  - Command
-    - +1 to tartget's roll to carry out order
-  - Manipulation
-    - Target doesn’t demand return favor
-    - Does more than asked for
-    - Is impressed by you; will help later
-  - Medical Aid
-    - Recover +1 Health points
+<table>
+<tr><th>Skill</th><th>Stunts</th></tr>
+<tr><td colspan="2" style="text-align:center"><strong>Strength</strong></td></tr>
+<tr><td>Heavy Machinary</td><td><ul><li>+1 to a later related roll</li><li>Don’t need to roll again for this exact situation</li><li>Half the usual time</li><li>Break it permanently</li><li>You act quietly</li><li>You show off</li></ul></td></tr>
+<tr><td>Stamina</td><td><ul><li>Give one 6 to someone in the same situation</li><li>+1 to later related roll</li><li>Don’t need to roll again for this exact situation</li><li>You impress someone</li></ul></td></tr>
+<tr><td>Close Combat</td><td><ul><li>Attack
+<ul><li>+1 damage</li> <li>Swap initiative card with opponent</li> <li>Opponent drops held item or weapon</li> <li>Pull object from target</li> <li>Grapple opponent</li> <li>Humanoid opponent prone</li> <li>Humanoid opponent clinched</li></ul></li> <li>Defence
+<ul><li>-1 damage</li> <li>Counterattack: base damage only</li> <li>Disarm attacker</li></ul></li></ul></td></tr>
+<tr><td colspan="2" style="text-align:center"><strong>Agility</strong></td></tr>
+<tr><td>Mobility</td><td><ul><li>Give one 6 to someone in similiar situation</li><li>+1 to later related roll</li><li>Impress someone</li></ul></td></tr>
+<tr><td>Ranged Combat</td><td><ul><li>+1 damage</li><li>Swap initiative card with opponent</li><li>Opponent makes Panic Roll</li><li>Opponent drops held item/weapon</li><li>Opponent prone or pushed back</li><li>(Auto fire only) Additional target hit for base damage</li></ul></td></tr>
+<tr><td>Piloting</td><td><ul><li>+1 to later related roll</li><li>You show off</li></ul></td></tr>
+<tr><td colspan="2" style="text-align:center"><strong>Wits</strong></td></tr>
+<tr><td>Observation</td><td><ul><li>Is it coming for me?</li><li>Are there more of them close by?</li><li>How do I get in/past/away?</li></ul></td></tr>
+<tr><td>Comtech</td><td><ul><li>+1 to a later related roll</li><li>Don't need to overcome again</li><li>Half the usual time</li><li>New/unexpected information</li><li>Hide your tracks</li><li>You show off</li></ul></td></tr>
+<tr><td>Survival</td><td><ul><li>Give one 6 to someone in the same situation</li><li>+1 to later related roll</li><li>You impress someone</li></ul></td></tr>
+<tr><td colspan="2" style="text-align:center"><strong>Empathy</strong></td></tr>
+<tr><td>Command</td><td><ul><li>+1 to target's roll to carry out order</li></ul></td></tr>
+<tr><td>Manipulation</td><td><ul><li>Target doesn't demand return favour</li><li>Does more than asked for</li><li>Is impressed by you; will help later</li></ul></td></tr>
+<tr><td>Medical Aid</td><td><ul><li>Recover +1 Health points</li></ul></td></tr>
+</table>
 
 ## Stress and Panic
 
