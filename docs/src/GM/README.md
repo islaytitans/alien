@@ -149,7 +149,7 @@ sidebar: auto
 - A Scientist in your team fails to ANALYZE something (p. 121).
 - A member of your own crew attacks you.
 - A person nearby is revealed to be an android.
-- You encounter certain creatures or locations, as determined by the scenario or the GM.
+- You encounter certain creatures or locations as determined by the scenario or the GM.
 - You fail or succeed at killing a human being
 
 ### Reduce stress by
