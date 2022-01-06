@@ -52,13 +52,17 @@ sidebar: auto
   - Attacker collects dice for Ranged Combat skill
   - Add dice for Agility stat
   - Add stress dice for stress level
+  - Add bonus dice from Weapon / equipment if any
   - Add / remove dice for Range
   - Add / remove dice for Target Size
   - Add 2 dice if Aiming
-  - If Full Auto
-    - Add 2 dice to Dice Pool
-    - Increase Stress Level by 1
-    - Add additional Stress Dice to Dice Pool
+  - Apply any weapon benefit
+    - If Armor Peircing
+      - Armor Rating of defence die reduced by half
+    - If using Full Auto
+      - Add 2 dice to Dice Pool
+      - Increase Stress Level by 1
+      - Add additional Stress Dice to Dice Pool
 - Roll to hit
   - Rolled no successes
     - Push Yourself or miss
@@ -90,6 +94,10 @@ sidebar: auto
   - Attacker collects dice for Close Combat skill
   - Add dice for Strength stat
   - Add stress dice for stress level
+  - Add bonus dice from Weapon / equipment if any
+  - Apply any weapon benefit
+    - If Armor Peircing
+      - Armor Rating of defence die reduced by half
 - Roll to hit
   - Rolled no successes
     - Push Yourself or miss
