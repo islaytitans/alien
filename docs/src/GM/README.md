@@ -48,7 +48,7 @@ sidebar: auto
 
 ### Ranged Combat Rolls
 
-- Roll to hit
+- Collect Dice
   - Attacker collects dice for Ranged Combat skill
   - Add dice for Agility stat
   - Add stress dice for stress level
@@ -59,27 +59,52 @@ sidebar: auto
     - Add 2 dice to Dice Pool
     - Increase Stress Level by 1
     - Add additional Stress Dice to Dice Pool
-    - Roll Dice Pool
-      - Success roll to damage
-      - No successes Push Yourself or miss
-- Roll damage
-  - Find your weapon's Damage Rating
-  - Spend any additional successes on [Ranged Arrack Stunts](#attributes-and-skills)
+- Roll to hit
+  - Rolled no successes
+    - Push Yourself or miss
+  - Rolled one or more successes
+    - Attacker finds their weapon's Damage Rating
+    - Spend any additional successes on [Ranged Combat Stunts](#attributes-and-skills)
     - If Full Auto
       - You can spend any additional successes on secondary targets within Short range of the primary target
       - The first success to a secondary taget inficts damage to it equal to the Damage Rating of the weapon
       - Further successes to a secondary target can be used for stunts
+    - Sum up damage dealt
+- Roll defence
   - Defender collects dice for their Armor Rating if any
   - Add dice for their Cover Rating if any
   - Roll defense pool
-  - Reduce weapon's Damage Rating by number of successes
+  - Reduce damage dealt by number of successes
   - Apply damage to defender
 - Check Ammo
-  - if attacker rolled any 1s on their Stress Die
+  - Attacker check if they rolled any 1s on their Stress Die
     - Their magazine is now empty and must be reloaded before firing again
-    - Reduce number of full magazines you have
+    - Reduce number of full magazines in inventory
 
 ### Close Combat Rolls
+
+- Collect Dice
+  - Attacker must be Standing and at Engaged range
+  - Defender declares if they are blocking
+    - If unarmed can only block humans
+  - Attacker collects dice for Close Combat skill
+  - Add dice for Strength stat
+  - Add stress dice for stress level
+- Roll to hit
+  - Rolled no successes
+    - Push Yourself or miss
+  - Rolled one or more successes
+    - Attacker finds their weapon's Damage Rating
+    - Spend any additional successes on [Close Combat Stunts](#attributes-and-skills)
+  - Sum up damage dealt
+- Roll defence
+  - Defender collects dice for their Armor Rating if any
+  - If blocking
+    - Add dice for Close Combat skill
+    - Add dice for Strength stat
+  - Roll defense pool
+  - Reduce damage dealt by number of successes
+  - Apply damage to defender
 
 ### Attributes and Skills
 
