@@ -1,10 +1,10 @@
-const { description } = require('../../package')
+const { description } = require("../../package");
 
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Alien',
+  title: "Alien",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -16,9 +16,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
   ],
 
   /**
@@ -27,65 +30,49 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: "",
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: "",
+    editLinkText: "",
     lastUpdated: false,
     nav: [
       {
-        text: 'GM',
-        link: '/gm/',
+        text: "GM",
+        link: "/gm/",
       },
       {
-        text: 'Characters',
-        link: '/characters/'
-      }
+        text: "Players",
+        link: "/players/",
+      },
     ],
     sidebar: {
-      '/guide/': [
+      "/guide/": [
         {
-          title: 'Guide',
+          title: "Guide",
           collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
+          children: ["", "using-vue"],
+        },
       ],
-      '/gm/': [
+      "/gm/": [
         {
-          title: 'GM',
+          title: "GM",
           collapsable: false,
-          children: [
-            'runningthegame',
-            'hopeslastday'
-          ]
-        }
+          children: ["runningthegame", "hopeslastday"],
+        },
       ],
-      '/characters/': [
+      "/characters/": [
         {
-          title: 'Characters',
+          title: "Characters",
           collapsable: false,
           sidebarDepth: 0,
-          children: [
-            'maps',            
-            'matt',            
-            'claire',
-            'leanne',
-            'vicky',
-            'tom',
-          ]
-        }
+          children: ["maps", "matt", "claire", "leanne", "vicky", "tom"],
+        },
       ],
-    }
+    },
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-  ]
-}
+  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+};

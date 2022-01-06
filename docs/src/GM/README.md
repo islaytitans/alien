@@ -228,6 +228,12 @@ Some effects of Panic Rolls last for one round others remain until
 - You are broken
 - One turn passes
 
+### Permament mental trauma
+
+- If rolled 13 or higher on a Panic Role make an empathy role at the end of the session
+  - Only roll skill do not att stat
+- If successed develop a permanent mental trauma, roll on the table on p67
+
 ## Gameplay
 
 ### Measuring time
@@ -340,34 +346,23 @@ Once enemy is revealed stealth mode is over and combat begins.
    - but this uses up your actions for this round
 7. Once every participant has acted a new round begins
 
-### Movement
-
-- [Run](#fast-actions)
-  - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
-    - Mobility roll required if moving into a Cluttered Zone
-- [Crawl](#slow-actions)
-  - Same as running however a Slow Action so can only do one per turn
-  - Cramped zone, crawling is the only movement possible
-- [Retreat](#fast-actions)
-  - Must use Retreat action to move away from engaged enemy
-
 ### Slow actions
 
 | Actions               | Prerequiste                                     | Skill         | Description                                                                          |
 | --------------------- | ----------------------------------------------- | ------------- | ------------------------------------------------------------------------------------ |
 | Break grapple         | Grapped                                         | Close Combat  | Roll opposed Close Combat                                                            |
 | Crawl                 | You are prone                                   | -             |
-| Close combat          | -                                               | Close Combat  | Inflict damage equal to weapon's Damage Rating                                       |
+| Close combat          | -                                               | Close Combat  | See [Close Combat Rolls](#close-combat-rolls)                                        |
 | Climb into space suit | Space Suit                                      | Mobility      |
 | First aid             | Broken or dying victim                          | Medical Aid   | See [Medical Aid](#damage-and-healing)                                               |
-| Full auto             | Firearm with Fully Automatic                    | Ranged Combat |
-| Give orders           | Character can hear you                          | Command       | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
+| Full auto             | Firearm with Fully Automatic                    | Ranged Combat | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
+| Give orders           | Character can hear you                          | Command       | See [Command Rolls](#attributes-and-skills)                                          |
 | Persuade              | Your opponent can hear you                      | Manipulation  |
 | Reload                | Firearm (rolled 1 on stress dice when shooting) | -             |
 | Shoot firearm         | Firearm                                         | Ranged Combat | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
 | Use Signature Item    | Use Signature Item                              | -             |
 | Start engine          | Vehicle                                         | -             |
-| Stop panic            | Panicking character                             | Command       |
+| Stop panic            | Panicking character                             | Command       | See [Command Rolls](#attributes-and-skills)                                          |
 | Throw weapon          | Thrown Weapon                                   | Ranged Combat | Mod. with aiming, range, target size. Inflict damage equal to weapon's Damage Rating |
 
 ### Fast actions
@@ -391,6 +386,17 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Take cover                 | Cover in same zone          | -            |
 | Set overwatch              | Ranged Weapon               | -            | Hold an Ranged Attack See [Ranged Combat Rolls](#ranged-combat-rolls). You must keep your slow action to fire          |
 | Use item                   | -                           | -            |
+
+### Movement
+
+- [Run](#fast-actions)
+  - Run from one zone to a neighbouring zone or between **Short** and **Engaged** range from an enemy or PC in the same zone as you
+    - Mobility roll required if moving into a Cluttered Zone
+- [Crawl](#slow-actions)
+  - Same as running however a Slow Action so can only do one per turn
+  - Cramped zone, crawling is the only movement possible
+- [Retreat](#fast-actions)
+  - Must use Retreat action to move away from engaged enemy
 
 ### Blocking
 
@@ -461,7 +467,7 @@ Core book - p98
 
 ### Critical Injury and Death
 
-Roll D66 on the Critical Injury table - Core book - p100
+Roll D66 on the Critical Injury table - Core book - p100. Synthetic critical Injuries Starter Set p77
 
 - Coup De Grace
   - To kill a human being you must fail an Empathy roll - roll Empathy attribute only without stress dice
@@ -474,3 +480,47 @@ Roll D66 on the Critical Injury table - Core book - p100
   - Medical Aid can be given before a failed Death Roll
     - Each character who tries to treat you can only do so once, retry requires better medical equipment
   - If recover one Health by yourself you can try to treat yourself (-2 mod)
+
+### Hazards
+
+- Starving : p72
+  - Day without food you become starving
+- Dehydrated : p72
+  - Day without water you become dehydrated
+- Exhausted : p72
+  - Day without one shift worth of sleep you become exhausted
+- Vaccum : p73
+  - Make stamina roll every round without protection in a vacuum
+- Freezing : p73
+  - In an environmnet without enough clothes or shelter you become freezing
+- Falling : p74
+  - Falling onto hard surface take damage equal to height in m divided by 2.
+  - Can reduce damage by controlled jump - roll mobility
+- Explosions : p74
+  - If within short range roll dice equal to the Blast Power, one success equals one damage
+  - Blast Power 7 or more damages at medium range
+- Fire : p74
+  - Roll dice equal to the Intensity (typically 8), one success equals one damage
+  - If fire inflicts no damage on an Intensity roll it goes out
+  - Intensity increases by 1 each round
+  - Put out fire at engaged range using Mobility roll
+- Disease : p75
+  - When exposed to contagion or infection roll opposed Staminia against Virulence rating
+- Radiation : p76
+  - When exposed to radiation check off Rad boxes on character sheet
+    - Weak - 1 rad per shift
+    - Strong - 1 rad per turn
+    - Extreme - 1 rad per round
+- Drowning : p76
+  - Roll Stamina every round. Fail take one damage
+- Suffocation : p76
+  - When out of air make Stamina roll every turn or strenuous activity.
+
+## Synthetics
+
+- Rolls - Cannot push skill roles or have stress die
+- Panic - Do not suffer stress and never make panic roles
+- Damage - Critical injury roll on Synthetic Critical Injury table Starter Set - 77p
+- Repairs - Do not heal and can't repair themselves. Shift long work and a comtech roll to repair all damage and critical injuries
+- Death - Don't make Death Rolls. They "die" from System Shutdown when rolled on Synthetic Critical Injury. Can use power source and Comtech roll to turn back on to communicate. Can then also repair in this state.
+- Resources - Don't need air, food, water, or sleep. Immune to vacuum, cold, disease.
