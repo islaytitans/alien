@@ -1,7 +1,9 @@
 - Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
+- Ice moon main focus is oil mining, largely deserted
 - Can collect gear and ammo at the quartermaster
 - APC is waiting for them and they are able to call in airstrikes
+- NPCs are with then (just in case they die)
 - recommend they either head to the Space Port or the Obilivion dive bar
 - one AWOL marine can appear wherever I want
 
