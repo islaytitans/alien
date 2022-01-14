@@ -2,7 +2,9 @@
 sidebar: auto
 ---
 
-# Party
+# Destroyer of Worlds
+
+## Party
 
 - Mason
   - Background
@@ -25,7 +27,7 @@ sidebar: auto
   - Rival
     - Zmijewski
 
-# Session Open
+## Session Open
 
 - Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
@@ -34,14 +36,15 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 
 - recommend they either head to the Space Port or the Obilivion dive bar
 
-# Scenes
+## Scenes
 
-## Fort Nebraska
+### Fort Nebraska
 
 - debrief and select location to head too, collect gear and ammo,
 - climb into APC with rest of squad and headout
+- Misfire at oil refinery pipes will cause explosion and a lot of damage
 
-## Space port p22
+### Space port p22
 
 - Mostly empty space port save for two ships, one gutted, guarded by Colonial Marines
 - Locked down medicial ship is on one of the launch pad
@@ -50,7 +53,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
   - **AWOL Wright**: _cured but unaware_ is here trying to sneak onto Medicial Ship to escape
     - Her story p54
 
-## Obivion Bar
+### Obivion Bar
 
 - Dive bar with shady crowd not wanting any attention from the Colonial Marines
 - **Mika** will slip out to contact Botos triggering Ambush event p54
@@ -60,7 +63,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
   - asking people will reveal its **Stolls**
 - Managed by a Synthetic called Fei will willingly give info
 
-## Marshall station
+### Marshall station
 
 - Understaffed marshall's office used as base of law enforcement
 - Marshall Hyams
@@ -71,7 +74,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 - **AWOL Reese**: _dead by chestburster_ lies facing away in Cell 4 chest open and part eaten
 - **Drone** bursts out of cacoon and flops to floor. Draw initative
 
-## Medical Facility
+### Medical Facility
 
 - Small hospital current understaffed with a doctor, intern and medtech
 - Intern saw **AWOL Wojcik** and **AWOL Carvalho** check in this morning and says welcome to look around and the Doctor is at Exam room 4
@@ -81,11 +84,11 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
   - Doc will threaten with gun to let him save **AWOL Carvalho** _manipulation_ will get him to stand down and give prognosis on p31
   - **AWOL Carvalo** will become hysterical, lock himself in the bay and cut the chestburster out of himself even if he dies
 
-## Oil Refinary
+### Oil Refinary
 
 - 3 insurgents anns 2 under cover UPP solidiers are resting here. If spotted fire fight will break out to the last man and they'll run
 
-## Insurgent compound
+### Insurgent compound
 
 - Can land with dropship p34
 - Yard: - pristine walled garden holding 4 passive insurgents with AK-4047s
@@ -101,18 +104,13 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
     - **AWOL Wojcik** almost translucent skin, black viens like spiderwebs will use enthralling gaze to slip by then (Wits) on fail loses fast an slow action +1 stress for all
     - At fun time or wounded turn into BodyBurster p35. Draw initiative
 
-## End - UPP Attack comes p55
+### End - UPP Attack comes p55
 
 - UPP Radio squarks to life "Operation is go - find cover"
 
-### AWOL Wojcik - turn into Bodyburster as PCs arrive
+## Factions and Figures
 
-- Nebraska
-  - Misfire at oil refinery pipes will cause explosion and a lot of damage
-
-# Factions and Figures
-
-# Lore, secrets, plot hooks
+## Lore, secrets, plot hooks
 
 - AWOLs were at the Oblivion Bar last night to meet with an unidentified bald man (**Stolls**). They had an arguement and all left separately. One was arrested and taken to Marshalls station
 
@@ -122,7 +120,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 
 - Seller of Space Beast book will tell them of two marines going to Med Centre
 
-# Events
+## Events
 
 - Mandatory
   - Corporal Wright
@@ -138,7 +136,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
   - Ambush
     - Insurgents ambush PCs to capture them and find out about Project Life Force
 
-# Loot
+## Loot
 
 - M5 RPG - Oil refinery
 - M40 HEDP Grenades
