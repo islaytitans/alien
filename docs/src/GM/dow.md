@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Destroyer of Worlds
+# Destroyer of Worlds 1
 
 ## Party
 
@@ -116,7 +116,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 
 - Any captured insergent once _manipulated_ again will tell location of Insergent Compound is the Former estate of a colonist in the West District: See Event Location Aquired
 
-- Lockdown is bullshit as sace elevator is now going up and down again
+- Lockdown is bullshit as space elevator is now going up and down again
 
 - Seller of Space Beast book will tell them of two marines going to Med Centre
 
