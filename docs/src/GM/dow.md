@@ -32,7 +32,7 @@ sidebar: auto
 - Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
 
-Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been desserted in, in part due to the boundry war between UA and UPP
+Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
 
 - recommend they either head to the Space Port or the Obilivion dive bar
 
@@ -49,7 +49,7 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 - Mostly empty space port save for two ships, one gutted, guarded by Colonial Marines
 - Locked down medicial ship is on one of the launch pad
 - Hundreds of restless people hoping to be evacuated in one of the hangers
-  - one hiding insurgent wantd to blow up the medical ship
+  - one hiding insurgent wanted to blow up the medical ship
   - **AWOL Wright**: _cured but unaware_ is here trying to sneak onto Medicial Ship to escape
     - Her story p54
 
@@ -79,14 +79,14 @@ Oil mining and refinery on an Ice moon that's forever in twilight. The city arou
 - Small hospital current understaffed with a doctor, intern and medtech
 - Intern saw **AWOL Wojcik** and **AWOL Carvalho** check in this morning and says welcome to look around and the Doctor is at Exam room 4
 - Recovery room largely empty except for old person in a coma and Insurgent with a gunshot wound
-  - If questionned will take hostage if _manipulated_ will tell one of the AWOLs (**AWOL Wojcik**) was picked up and now held at the Insurgent Compound
+  - If questioned will take hostage if _manipulated_ will tell one of the AWOLs (**AWOL Wojcik**) was picked up and now held at the Insurgent Compound
 - Exam room 4 is locked where Doc is examining **AWOL Carvalho**: _Afflicted Anathema & chest burster_ behind a locked door
   - Doc will threaten with gun to let him save **AWOL Carvalho** _manipulation_ will get him to stand down and give prognosis on p31
-  - **AWOL Carvalo** will become hysterical, lock himself in the bay and cut the chestburster out of himself even if he dies
+  - **AWOL Carvalo** will become hysterical, lock himself in the bay and will cut the chestburster out of himself even if he dies
 
 ### Oil Refinary
 
-- 3 insurgents anns 2 under cover UPP solidiers are resting here. If spotted fire fight will break out to the last man and they'll run
+- 3 insurgents and 2 under cover UPP solidiers are resting here. If spotted fire fight will break out to the last man and they'll run
 
 ### Insurgent compound
 

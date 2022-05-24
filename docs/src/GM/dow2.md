@@ -30,6 +30,7 @@ sidebar: auto
 ## Session Open
 
 - Read what's the story mother
+  Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
 - Recap
 - Remind roll are less often than d&d only when failure has significant impact
 
