@@ -32,8 +32,7 @@ sidebar: auto
 - Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
 
-Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
-
+- Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
 - recommend they either head to the Space Port or the Obilivion dive bar
 
 ## Scenes
