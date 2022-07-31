@@ -36,6 +36,7 @@ sidebar: auto
 - Recap
 
 - "Act 2 The Storm"
+- Begin in Insurgent Compound where they left off
 - "Get back to base"
 - "On their own"
 - Restart Mandatory Event
@@ -49,6 +50,50 @@ sidebar: auto
 ### Insurgent compound
 
 - **Event - UPP on the Hunt**
+
+### Ariarcus Colony city
+
+- Don't blow up the place up - pipelines run throughout the city containing oil
+  - If shot
+    - Success - Blast Power 6
+    - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
+
+### Space port p22
+
+- Now under control of the UPP
+- Mostly empty space port save for two ships, one gutted, guarded by UPP
+- Locked down medicial ship is on one of the launch pad
+- Hundreds of restless people hoping to be evacuated in one of the hangers
+  - Now are prisoners of the UPP
+- Control Tower has a firefight between UPP and Marines
+
+### Obivion Bar p24
+
+- Dive bar with shady crowd not wanting any attention from the now occupying UPP
+- Office Safe Hard (-2) Comtect has loads of money and drugs
+- Managed by a Synthetic called Fei will willingly give info
+
+### Marshall station
+
+- Now completely destroyed
+- Ruble shows bodies of UPP soldiers with acid burns / terrible head wounds and an Alien egg sack
+
+### ATV Recharge station
+
+- 6 ATVs (p84) fully charged but locked down
+- Military key tag or **Comtech** will release one
+
+### Medical Facility
+
+TODO
+
+- Small hospital current understaffed with a doctor, intern and medtech
+- Intern saw **AWOL Wojcik** and **AWOL Carvalho** check in this morning and says welcome to look around and the Doctor is at Exam room 4
+- Recovery room largely empty except for old person in a coma and Insurgent with a gunshot wound
+  - If questioned will take hostage if _manipulated_ will tell one of the AWOLs (**AWOL Wojcik**) was picked up and now held at the Insurgent Compound
+- Exam room 4 is locked where Doc is examining **AWOL Carvalho**: _Afflicted Anathema & chest burster_ behind a locked door
+  - Doc will threaten with gun to let him save **AWOL Carvalho** _manipulation_ will get him to stand down and give prognosis on p31
+  - **AWOL Carvalo** will become hysterical, lock himself in the bay and will cut the chestburster out of himself even if he dies
 
 ## Events
 
