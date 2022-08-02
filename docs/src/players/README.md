@@ -199,8 +199,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 - A Scientist in your team fails to ANALYZE something (p. 121).
 - A member of your own crew attacks you.
 - A person nearby is revealed to be an android.
-- You encounter certain creatures or locations as determined by the scenario or the GM.
-- You fail or succeed at killing a human being
+- etc
 
 ### Reduce stress by
 
@@ -213,8 +212,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 - You witness a friendly character suffering from a certain panic effect (see the Panic Result table).
 - You are pinned down by a ranged attack.
 - You suffer a critical injury.
-- You’re attacked by a strange alien creature that you’ve never seen before.
-- A truly terrifying event occurs, as determined by the scenario or the GM.
+- etc
 
 ### Panic Roll
 
