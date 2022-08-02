@@ -194,7 +194,7 @@ Some effects of Panic Rolls last for one round others remain until
 ### Permament mental trauma
 
 - If rolled 13 or higher on a Panic Role make an empathy role at the end of the session
-  - Only roll skill do not att stat
+  - Only roll skill do not add stat
 - If successed develop a permanent mental trauma, roll on the table on p67
 
 ## Gameplay
@@ -404,7 +404,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 
 Core book - p98
 
-- Health represents fatigue, bruises, cuts, brokn bones (p98)
+- Health represents fatigue, bruises, cuts, broken bones (p98)
 - Critical Injury are more dangerous (p100)
 
 ### Damage and Healing

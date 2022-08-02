@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Overviw
+# Overview
 
 ## Dice Rolls
 
@@ -187,6 +187,44 @@ Once enemy is revealed stealth mode is over and combat begins.
   - Disarm Enemy
 - Unarmed Blocking
   - If unarmed can only block unarmed attacks from humans
+
+## Injury and Death
+
+Core book - p98
+
+- Health represents fatigue, bruises, cuts, broken bones (p98)
+- Critical Injury are more dangerous (p100)
+
+### Damage and Healing
+
+- Broken
+  - Occurs when health reaches zero
+  - Being Broken does not kill you
+  - Cannot perform actions only crawl and mumble
+  - Roll for Critical Injury
+  - Further damage causes another critical injury
+- Recovery
+  - When not broken regain one point of health per Turn of rest
+  - When broken and on your own you regain 1 point of Health after one Turn
+    - If recover one Health by yourself you can try to treat yourself with Medical Aid (-2 mod)
+- Medical Aid
+  - Medical Aid can only be used if you are broken or have a critical injury
+  - Medical Aid can be used to regain health - regaining Health equal to the successes
+  - You can recover all Health Points but still have a critical injury
+  - If you are broken and have a critical injury two Medical Aid rolls are required - one doesn't cure both
+
+### Critical Injury and Death
+
+Roll D66 on the Critical Injury table - Core book - p100. Synthetic critical Injuries Starter Set p77
+
+- Death Roll
+  - Make a death roll when suffer a critical injury listed as fatal when the listed time runs out - roll Stamina attribute only no stress dice
+    - Success you linger on for the Time Limit of the injury before making another roll
+    - Fail you die
+- Save a life
+  - Medical Aid can be given before a failed Death Roll
+    - Each character who tries to treat you can only do so once, retry requires better medical equipment
+  - If recover one Health by yourself you can try to treat yourself (-2 mod)
 
 ## Synthetics
 
