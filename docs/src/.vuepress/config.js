@@ -60,14 +60,6 @@ module.exports = {
           children: ["runningthegame", "hopeslastday"],
         },
       ],
-      "/characters/": [
-        {
-          title: "Characters",
-          collapsable: false,
-          sidebarDepth: 0,
-          children: ["maps", "matt", "claire", "vicky", "tom"],
-        },
-      ],
     },
   },
 
