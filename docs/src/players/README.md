@@ -198,7 +198,6 @@ Once enemy is revealed stealth mode is over and combat begins.
 - You go without sleep, food, or water (p. 70).
 - A Scientist in your team fails to ANALYZE something (p. 121).
 - A member of your own crew attacks you.
-- A person nearby is revealed to be an android.
 - etc
 
 ### Reduce stress by
@@ -216,7 +215,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 
 ### Panic Roll
 
-Roll a D6, add your current STRESS LEVEL, and check the Panic table below.
+Roll a D6, add your current STRESS LEVEL, and check the Panic table.
 
 ### Stop panicing
 
