@@ -188,6 +188,52 @@ Once enemy is revealed stealth mode is over and combat begins.
 - Unarmed Blocking
   - If unarmed can only block unarmed attacks from humans
 
+## Stress and Panic
+
+### Gain stress if
+
+- You push a skill roll.
+- You fire a burst of full auto fire (p. 62).
+- You suffer one or more points of damage.
+- You go without sleep, food, or water (p. 70).
+- A Scientist in your team fails to ANALYZE something (p. 121).
+- A member of your own crew attacks you.
+- A person nearby is revealed to be an android.
+- You encounter certain creatures or locations as determined by the scenario or the GM.
+- You fail or succeed at killing a human being
+
+### Reduce stress by
+
+- Every full Turn spending resting in assumed safe area reduces stress by one. No other actions can be made
+- Once per Act PC can interact with signature item in some way to reduce stress by 1
+
+### Make a panic roll if
+
+- You roll one or more 1s on your Stress Dice in a skill roll. If this happens, you can’t push the skill roll. Instead, roll for panic.
+- You witness a friendly character suffering from a certain panic effect (see the Panic Result table).
+- You are pinned down by a ranged attack.
+- You suffer a critical injury.
+- You’re attacked by a strange alien creature that you’ve never seen before.
+- A truly terrifying event occurs, as determined by the scenario or the GM.
+
+### Panic Roll
+
+Roll a D6, add your current STRESS LEVEL, and check the Panic table below.
+
+### Stop panicing
+
+Some effects of Panic Rolls last for one round others remain until
+
+- Another charctater makes a Command action on them
+- You are broken
+- One turn passes
+
+### Permament mental trauma
+
+- If rolled 13 or higher on a Panic Role make an empathy role at the end of the session
+  - Only roll skill do not add stat
+- If successed develop a permanent mental trauma, roll on the table on p67
+
 ## Injury and Death
 
 Core book - p98
