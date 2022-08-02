@@ -78,6 +78,7 @@ sidebar: auto
   - If shot
     - Success - Blast Power 6
     - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
+      - Exposure p82
 - Snow blizzard has eased a bit
 - Explosions ring out throughout the city
 - Large UPP craft are in orbit over the city

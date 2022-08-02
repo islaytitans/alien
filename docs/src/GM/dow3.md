@@ -63,11 +63,12 @@ sidebar: auto
   - If shot
     - Success - Blast Power 6
     - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
+      - Exposure p82
 - Snow blizzard has eased a bit
 - Large UPP and Marine craft fallen out of the sky all over the city
 - A massive EMP burst from above knocks out most electronics, even those shielded
 - **Comtech** to fix all electronics
-- Populus affected by the Black good turning into Anathema
+- Populus affected by the Black Goo turning into Anathema
 
 ### Insurgent compound
 
@@ -106,33 +107,68 @@ sidebar: auto
 - Daihotai 8X8s are parked here under snow tarps
 - Can be hotwired with **Heavy Machinary**
 
-## Events
+## Mandatory Events
 
-### Restart - Act 3 Start
+### Table for One
 
-**Location**: Insurgent compound
+**Location**: Streets
 
-- Muffled explosion comes from direction of the fort
-- Chaplain staggers to his knees, eyes rolling in his head and he reboots
-- Give Act 2 Agenda card to Chaplain
-- Chaplain is now free of Jaell
+- Bodies of Anathemas litter the street
+- One **Passive Freak** p65 sits eating another body (**+1 stress level**)
 
-### Falling Skies - Act 2 End
+### Can't see the forest for the trees
 
-**Location**: Any
+**Location**: Streets
 
-- Trigger: When I feel the Act has run course
-- The hairs on the back of each PCs neck and arms tingle
-- A massive EMP burst from above knocks out most electronics, even those shielded
-- **Comtech** to fix all electronics
-- Chaplain suffers an attack 6 base dice **Base Damage 1**
-- Blue lightening arcs both above and down each alley
-- Electronics pop and fry, all shooting stops
-- Soon husks of burning drop ships from both sides fall out of the sky
-- One ship crashes very close to the PCs **Mobility** on failure taking **Blast Power 9** explosion
-- Something omninous moves above the clouds
-- Move to Act 3
-- _Read Black Death p57_
+- Forest of petrified corpses in a square, faces and bodies in twisted agony
+- A boy, **Passive Ague Anathema** p65 is looking for his father (**+1 stress level**)
+- Will reach Terminal stage within one Turn
+
+### The end of a good Marine
+
+**Location**: Courtyard of Fort Nebraska
+
+- Signs of a heavy firefight, bodies of marines and UPP forces
+- One body is that of Major Hatfield identified by his white handled sword
+- Around his neck is a Major-level access keycard
+
+### Ready to rumble
+
+**Location**: Open area of Fort Nebraska
+
+- Four **Freak Anathema** fight in close combat with Three **Soldier Xenos**
+- They are passive to PCs
+
+## Optional Events
+
+### Safe Haven
+
+**Location**: Streets
+
+- Crashed Krokodil gunship buried in a ruined building is on **Intensity 4** fire
+- Krokodil is a safe haven from the Black Death
+- Crash cracked open pipeline **Easy Observation** indicates that PCs can crawl through into the Fort
+
+### Let's Make a Deal
+
+**Location**: Streets
+
+- Ms. Eckford has tracked the PCs, her Dog Catchers are all dead and wants their help to get back into the Fort
+- She will offer \$200,000, stims and a security job that's in Sub-level 3 but its actually only half that
+
+### White Flag
+
+**Location**: Streets & Encountered Davydovich previously
+
+- Davydovich approaches PCs with their hands up, offering a truce explaining UPP forces have lost contact
+- They don't know who or what dropped the Black Goo
+- Believes Fort Nebraska command is holed up tight waiting for extraction and wants PCs help to get inside to survive this mess
+
+### Acid is your friend
+
+**Location**: Fort Nebraska & PCs are struggling to survive
+
+- Alien dies of a massive hemorrhaging and acid burns through one or two levels of metal flooring
 
 ## Loot
 
