@@ -52,7 +52,9 @@ sidebar: auto
 
 ## Session Open
 
-- _Read Black Death p57_
+- Read Act 3 - the lions den p57
+- _Read out loud Black Death p57_
+  - p59 for bomb range chart
 - Break into Nebraska
 
 ## Scenes
