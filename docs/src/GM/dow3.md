@@ -170,6 +170,41 @@ sidebar: auto
 
 - Alien dies of a massive hemorrhaging and acid burns through one or two levels of metal flooring
 
+### Who hunts the hunters
+
+**Location**: Fort Nebraska
+
+- 3 Marines ambush an **Active Drone Xenomorph** that was stalking the PCs
+- Each Marine has chestburster that will pop within a few rounds
+
+### One of us
+
+**Location**: Fort Nebraska & Dante in party
+
+- Xenomorph will not attack Dante due to the chestburster and will actually protect her from Hammer
+- If cornered by her will snatch her up
+- Dante chestbuster will pop unless she has it removed with a Medpod or 26 Draconis inoculations on Sublevel-03
+
+### Under the influence
+
+**Location**: Fort Nebraska & Chaplain in party
+
+- At an interesting point Jaell attemps to assume control of Chaplain **Manipulation** on fail Jaell controls him and give the card "Under the influence"
+- Soon as Chaplain resists the manipulation he regains control
+
+### Bundling up
+
+**Location**: Fort Nebraska
+
+- Three **Passive chestbursters** can be found forming cacoons by spitting up resin
+
+### Colonel's on Ice
+
+**Location**: Fort Nebraska
+
+- Colonel Hatfield is frozen in a stasis pod in an overturned trolly
+- Reviving him he will order the Marines to get him off moon his motive is that he has a chestburster that he won't reveal
+
 ## Loot
 
 - M5 RPG - Oil refinery
