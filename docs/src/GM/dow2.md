@@ -70,8 +70,6 @@ sidebar: auto
   - Give Act 2 Agenda card to Chaplain
   - Chaplain is now free of Jaell
 
-## Scenes
-
 ### Ariarcus Colony city
 
 - Don't blow up the place up - pipelines run throughout the city containing oil
@@ -84,9 +82,13 @@ sidebar: auto
 - Large UPP craft are in orbit over the city
 - Marine aircraft are still flying overhead
 
+## Scenes
+
 ### Insurgent compound
 
-- **Event - UPP on the Hunt**
+- Event as leaving [UPP on the Hunt](#upp-on-the-hunt)
+
+### Streets
 
 ### Space port p22
 

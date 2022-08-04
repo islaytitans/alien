@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Destroyer of Worlds 2
+# Destroyer of Worlds 3
 
 ## Party
 
@@ -57,7 +57,50 @@ sidebar: auto
   - p59 for bomb range chart
 - Break into Nebraska
 
+### Fort Nebraska
+
+- Entire Fort on containment protocol lockdown and everything is **Dark** and the reactor is dead
+- Only APOLLO mainframe and Sublevel 03 still run on battery reserves
+- UPP came for Project Life Force. Xenos escaped, lock down enacted to keep them from getting out
+- Xenos have completely overrun the Fort
+- The Climber's Cargo Bay docked at Sublevel 03 is the Xeno's nest
+- To use the climber they need to
+  - Restart the reactor
+  - Release the clamps by either
+    - Reboot APOLLO to convince it to release the clamps (and open any doors)
+    - Force them off somehow
+- Ammo Depo has nukes if they want to destroy the colony and aliens
+
 ## Scenes
+
+### Streets
+
+- Events
+  - [Table for One](#Table-for-One)
+  - [Can't see the forest for the trees](#cant-see-the-forest-for-the-trees)
+  - [Safe Haven](#safe-haven)
+  - [Let's make a deal](#lets-make-a-deal)
+  - [White Flag](#white-flag)
+
+### Perimeter Wall
+
+- 15m high wall surrounds the fort with shielded sentry guns with overlapping fields of fire
+- Sentry range starts 1 zone out and ends 4 zones out and will attack once per round
+- Sentry have 10HP requiring min **Damage Rating 3**
+- Gate 4m high ramp-style with 20HP, Armor Rating 12 min **Damage Rating 3** guarded by Sentry
+
+### The Grounds
+
+- Open grounds littered with wreckage and twisted bodies of marines and UPP forces
+- Road from gate leads to a sealed sublevel ramp. The door is hot due to fire behind it
+- Retractable doors for the climber to ascend are currently locked due to lack of Power
+- Oil storage tanks that outside pipelines lead into now filled with silt
+- Events [The end of a good Marine](#The-end-of-a-good-Marine)
+
+Terminal data p38
+Enemy location p39
+
+- Sealed Port
 
 ### Ariarcus Colony city
 
@@ -128,9 +171,8 @@ sidebar: auto
 
 ### The end of a good Marine
 
-**Location**: Courtyard of Fort Nebraska
+**Location**: The Grounds
 
-- Signs of a heavy firefight, bodies of marines and UPP forces
 - One body is that of Major Hatfield identified by his white handled sword
 - Around his neck is a Major-level access keycard
 
