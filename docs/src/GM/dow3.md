@@ -50,12 +50,40 @@ sidebar: auto
   - Rival
     - Zmijewski
 
+## Recap
+
+- Remind roll are less often than d&d only when failure has significant impact
+- Don't forget cover, can recover stress and health by resting for a Turn... if you can find somewhere safe to hold up
+- Read what's the story mother
+- Recap
+  - Planet is an oil refinery on boundry between UPP and UA
+  - UPP and UA are on the brink of war with Insurgents on the planet undermining the UA
+  - Colonial Marines have refinforced the planet and its space elevator
+  - Your team were told to bring in 4 AWOL Marines
+  - You tracked them down and only managed to recover one Alive
+  - They tell you that they've been infected with an Alien Embryo as part of the Project Life force
+  - Their squad we're experimented on with the embryo inside
+  - They were going to turncoat to the UPP for hope of removal of the alien embryos.
+  - You found the last one in a Insurgents compound and they turned into a freak
+  - UPP have attacked the planet with orbital bombardments and begun landing forces on the colony
+
 ## Session Open
 
-- Read Act 3 - the lions den p57
-- _Read out loud Black Death p57_
-  - p59 for bomb range chart
-- Break into Nebraska
+- Begin a few blocks away from Fort Nebraska
+- "Act 3 - The Lions Den"
+
+  - Mammoth shadow of a ship stops above the colony about 4km from the PCs
+  - **Give the PCs time to find cover**
+  - _Read out loud Black Death p57_
+  - **+1 Stress**
+  - p59 for bomb range chart and select the location so PCs are on the Periphery
+    - Locations with sealed air supply will protect them from infection
+
+- Objective - Break into Nebraska and get the space elevator to leave this hell hole behind
+
+## Scenes
+
+### Streets
 
 ### Fort Nebraska
 
@@ -70,10 +98,6 @@ sidebar: auto
     - Reboot APOLLO to convince it to release the clamps (and open any doors)
     - Force them off somehow
 - Ammo Depo has nukes if they want to destroy the colony and aliens
-
-## Scenes
-
-### Streets
 
 - Events
   - [Table for One](#Table-for-One)
@@ -99,8 +123,6 @@ sidebar: auto
 
 Terminal data p38
 Enemy location p39
-
-- Sealed Port
 
 ### Ariarcus Colony city
 

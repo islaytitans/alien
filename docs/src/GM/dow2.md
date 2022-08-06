@@ -64,13 +64,13 @@ sidebar: auto
   - They tell you that they've been infected with an Alien Embryo as part of the Project Life force
   - Their squad we're experimented on with the embryo inside
   - They were going to turncoat to the UPP for hope of removal of the alien embryos.
-  - You found the last one in a Insurgents compound anod it turned into a freak
+  - You found the last one in a Insurgents compound and they turned into a freak
 
 ## Session Open
 
 - Begin in Insurgent Compound where they left off
   - Wojcik twisted caccoon and twsted body near them and UPP comms having said "Prepare for go"
-- "Act 2 The Storm"
+- "Act 2 - The Storm"
   - PC's comms squal to life "Charlie Team, return to base. Repeat return to base for immediate evac-"
   - Comms go to static
   - Booms echo above - result of bomb blasts and multiple sonic incursions
