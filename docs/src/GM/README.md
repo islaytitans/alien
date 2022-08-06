@@ -422,7 +422,7 @@ Core book - p98
 ### Gain health by
 
 - When not broken
-  - Regain 1 point of health per Turn of rest
+  - Regain 1 point of health per Turn of rest in a safe location
 - When broken or critical injury
   - **Medical Aid** can only be used if you are broken or have a critical injury
   - **Medical Aid** can be used to regain health - regain Health equal to the successes
