@@ -50,35 +50,57 @@ sidebar: auto
   - Rival
     - Zmijewski
 
-## Session Open
+## Recap
 
 - Remind roll are less often than d&d only when failure has significant impact
-- Don't forget cover
+- Don't forget cover, can recover stress and health by resting for a Turn... if you can find somewhere safe to hold up
 - Read what's the story mother
-  - Oil mining and refinery on an Ice moon that's forever in twilight. The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
 - Recap
+  - Planet is an oil refinery on boundry between UPP and UA
+  - UPP and UA are on the brink of war with Insurgents on the planet undermining the UA
+  - Colonial Marines have refinforced the planet and its space elevator
+  - Your team were told to bring in 4 AWOL Marines
+  - You tracked them down and only managed to recover one Alive
+  - They tell you that they've been infected with an Alien Embryo as part of the Project Life force
+  - Their squad we're experimented on with the embryo inside
+  - They were going to turncoat to the UPP for hope of removal of the alien embryos.
+  - You found the last one in a Insurgents compound anod it turned into a freak
 
-- "Act 2 The Storm"
+## Session Open
+
 - Begin in Insurgent Compound where they left off
-- "Get back to base"
-- "On their own"
-- **AWOL Wright** is in APC unknowingly cured. If scanned will reveal its dead inside
-- APC has injured previous PCs
-- Restart Mandatory Event
+  - Wojcik twisted caccoon and twsted body near them and UPP comms having said "Prepare for go"
+- "Act 2 The Storm"
+  - PC's comms squal to life "Charlie Team, return to base. Repeat return to base for immediate evac-"
+  - Comms go to static
+  - Booms echo above - result of bomb blasts and multiple sonic incursions
+  - Fort railguns can be seen firing into the clouds
+  - USCMC Fighters scream across the sky firing upon UPP dropships
+  - The war has begun (**+1 Stress**)
+  - UPP unleash orbital bombardments incinerating buildings, parts of the base, and cleaving the ships in the space port in two
+  - UPP dropships can be seen heading to different parts of the Colony. One looks to be heading their way.
+
+* Objective - Their on their own and need to get back to base
+* Restart Mandatory Event
   - Muffled explosion comes from direction of the fort
   - Chaplain staggers to his knees, eyes rolling in his head and he reboots
   - Give Act 2 Agenda card to Chaplain
   - Chaplain is now free of Jaell
+* APC is still outside the Unsurgent Compound. Inside the APC are
+  - **AWOL Wright** is in APC unknowingly cured. If scanned will reveal its dead inside
+  - Previous PCs - Mason will bleed out within hours
 
 ### Ariarcus Colony city
 
+- Oil mining and refinery on an Ice moon that's forever in twilight.
+- The city around the refinery has largely been deserted, in part due to the boundry war between UA and UPP
+- Snow blizzard has eased a bit
 - Don't blow up the place up - pipelines run throughout the city containing oil
   - If shot
     - Success - Blast Power 6
     - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
       - Exposure p82
-- Snow blizzard has eased a bit
-- Explosions ring out throughout the city
+- Explosions ring out throughout the city from orbital bombardment and UPP forces landing over the Colony
 - Large UPP craft are in orbit over the city
 - Marine aircraft are still flying overhead
 
@@ -126,7 +148,7 @@ sidebar: auto
 
 ### Oil Fields
 
-- No claimed by the UPP and protected with 24 UPP Troopers
+- Now claimed by the UPP and protected with 24 UPP Troopers
 
 ### Wildcatter Car Park
 
@@ -146,7 +168,7 @@ sidebar: auto
 
 ### Falling Skies - Act 2 End
 
-**Location**: Any
+**Location**: A few blocsk from the Fort
 
 **Trigger**: When I feel the Act has run course
 
