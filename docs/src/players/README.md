@@ -133,7 +133,7 @@ Once enemy is revealed stealth mode is over and combat begins.
 | Crawl                 | You are prone                                   | -             |
 | Close combat          | -                                               | Close Combat  | See [Close Combat Rolls](#close-combat-rolls)                                        |
 | Climb into space suit | Space Suit                                      | Mobility      |
-| First aid             | Broken or dying victim                          | Medical Aid   | See [Medical Aid](#damage-and-healing)                                               |
+| First aid             | Broken or dying victim                          | Medical Aid   | See [Medical Aid](#gain-health-by)                                                   |
 | Full auto             | Firearm with Fully Automatic                    | Ranged Combat | See [Ranged Combat Rolls](#ranged-combat-rolls)                                      |
 | Give orders           | Character can hear you                          | Command       | See [Command Rolls](#attributes-and-skills)                                          |
 | Persuade              | Your opponent can hear you                      | Manipulation  |
@@ -238,23 +238,31 @@ Core book - p98
 - Health represents fatigue, bruises, cuts, broken bones (p98)
 - Critical Injury are more dangerous (p100)
 
-### Damage and Healing
+### Damage
 
+- Armour
+  - Armor Rating lowers damage by that amount
+  - Armor can be permanently reduced by Acid Splash
 - Broken
   - Occurs when health reaches zero
   - Being Broken does not kill you
   - Cannot perform actions only crawl and mumble
   - Roll for Critical Injury
   - Further damage causes another critical injury
-- Recovery
-  - When not broken regain one point of health per Turn of rest
-  - When broken and on your own you regain 1 point of Health after one Turn
-    - If recover one Health by yourself you can try to treat yourself with Medical Aid (-2 mod)
-- Medical Aid
-  - Medical Aid can only be used if you are broken or have a critical injury
-  - Medical Aid can be used to regain health - regaining Health equal to the successes
-  - You can recover all Health Points but still have a critical injury
-  - If you are broken and have a critical injury two Medical Aid rolls are required - one doesn't cure both
+
+### Gain health by
+
+- When not broken
+  - Regain 1 point of health per Turn of rest
+- When broken or critical injury
+  - **Medical Aid** can only be used if you are broken or have a critical injury
+  - **Medical Aid** can be used to regain health - regain Health equal to the successes
+    - You can recover all Health Points but still have a critical injury
+  - **Medical Aid** can be used to health a critical injury
+  - If you are Broken and have a Critical injury two Medical Aid rolls are required - one doesn't cure both
+- When broken and on your own
+  - Regain 1 point of Health after one Turn
+    - If recover 1 Health by yourself you can try to treat yourself with Medical Aid (-2 mod)
 
 ### Critical Injury and Death
 
