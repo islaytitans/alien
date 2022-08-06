@@ -85,6 +85,13 @@ sidebar: auto
 
 ### Streets
 
+- Events
+  - [Table for One](#Table-for-One)
+  - [Can't see the forest for the trees](#cant-see-the-forest-for-the-trees)
+  - [Safe Haven](#safe-haven)
+  - [Let's make a deal](#lets-make-a-deal)
+  - [White Flag](#white-flag)
+
 ### Fort Nebraska
 
 - Entire Fort on containment protocol lockdown and everything is **Dark** and the reactor is dead
@@ -98,13 +105,6 @@ sidebar: auto
     - Reboot APOLLO to convince it to release the clamps (and open any doors)
     - Force them off somehow
 - Ammo Depo has nukes if they want to destroy the colony and aliens
-
-- Events
-  - [Table for One](#Table-for-One)
-  - [Can't see the forest for the trees](#cant-see-the-forest-for-the-trees)
-  - [Safe Haven](#safe-haven)
-  - [Let's make a deal](#lets-make-a-deal)
-  - [White Flag](#white-flag)
 
 ### Perimeter Wall
 
