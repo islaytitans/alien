@@ -85,12 +85,18 @@ sidebar: auto
 
 ### Streets
 
-- Events
-  - [Table for One](#Table-for-One)
-  - [Can't see the forest for the trees](#cant-see-the-forest-for-the-trees)
-  - [Safe Haven](#safe-haven)
-  - [Let's make a deal](#lets-make-a-deal)
-  - [White Flag](#white-flag)
+### Ariarcus Colony city
+
+- Don't blow up the place up - pipelines run throughout the city containing oil
+  - If shot
+    - Success - Blast Power 6
+    - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
+      - Exposure p82
+- Snow blizzard has eased a bit
+- Large UPP and Marine craft fallen out of the sky all over the city
+- A massive EMP burst from above knocks out most electronics, even those shielded
+- **Comtech** to fix all electronics
+- Populus affected by the Black Goo turning into Anathema
 
 ### Fort Nebraska
 
@@ -112,6 +118,7 @@ sidebar: auto
 - Sentry range starts 1 zone out and ends 4 zones out and will attack once per round
 - Sentry have 10HP requiring min **Damage Rating 3**
 - Gate 4m high ramp-style with 20HP, Armor Rating 12 min **Damage Rating 3** guarded by Sentry
+- [Let's make a deal](#lets-make-a-deal)
 
 ### The Grounds
 
@@ -121,58 +128,39 @@ sidebar: auto
 - Oil storage tanks that outside pipelines lead into now filled with silt
 - Events [The end of a good Marine](#The-end-of-a-good-Marine)
 
-Terminal data p38
+### West Wing and Southwest Bastion
+
+- Buildings are collapsed with burnt out gun enplacements emiting weak radiation
+- Power cannot be restored here but there is a burried ladder down into the Fusion Tower on Sublevel 2
+  - moving through or clearing rubble causes them to fall down **Mobility**
+
+### East Wing
+
+- Impassible area of smouldering rubble leaking strong radiation
+
+### North Bastion Level 1
+
+- Fort command centre is here and outter alien hive
+- All walls are coated in resin and honeycombed with human bodies - most dead somebarely Alive
+  - Lobbies, North Commissary
+    - Covered in sculpted secretions with 7 people honetcombed here
+    - Every Turn, roll a Stress Die, on a 1, a chestburster erupts
+    - One victim is a magor with a keycard
+  - Offices, Storage, Ckeckpoints
+    - Rooms are firebombed to hide work done here
+  - Armory 03
+    - Any reasonable weapons wanted are here including HAZMAT but coated in resin
+    - Breaking it free from resin requires one Turn of **Hard (-2) Heavy Machinery**
+  - Service Tunnel Junction
+    - Main entrances to crawl space service tunnels that connect the base
+
+## Enemy Locations
+
 Enemy location p39
 
-### Ariarcus Colony city
+## Terminal Data
 
-- Don't blow up the place up - pipelines run throughout the city containing oil
-  - If shot
-    - Success - Blast Power 6
-    - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
-      - Exposure p82
-- Snow blizzard has eased a bit
-- Large UPP and Marine craft fallen out of the sky all over the city
-- A massive EMP burst from above knocks out most electronics, even those shielded
-- **Comtech** to fix all electronics
-- Populus affected by the Black Goo turning into Anathema
-
-### Insurgent compound
-
-- Full of UPP turned Anathema
-
-### Space port p22
-
-- Everyone here is dead and ships are out of commision due to the EMP blast
-
-### Obivion Bar p24
-
-- The bar is now abandoned
-
-### Marshall station
-
-- Now completely destroyed
-- Ruble shows bodies of UPP soldiers with acid burns / terrible head wounds and an Alien egg sack
-
-### ATV Recharge station
-
-- 6 ATVs (p84) fully charged but locked down
-- Military key tag or **Comtech** will release one
-
-### Medical Facility
-
-- Small hospital where **AWOL Carvalho** was with a chest burster
-- The hospital has been hit by an air strike the Lobby and Recovery blocks are shattered
-- Surgical bays now contains 8 **Freak Anathemas**
-
-### Oil Fields
-
-- Now deserted
-
-### Wildcatter Car Park
-
-- Daihotai 8X8s are parked here under snow tarps
-- Can be hotwired with **Heavy Machinary**
+Terminal data p38
 
 ## Mandatory Events
 
@@ -205,6 +193,13 @@ Enemy location p39
 - Four **Freak Anathema** fight in close combat with Three **Soldier Xenos**
 - They are passive to PCs
 
+### Let's Make a Deal
+
+**Location**: Streets
+
+- Ms. Eckford has tracked the PCs, her Dog Catchers are all dead and wants their help to get back into the Fort
+- She will offer \$200,000, stims and a security job that's in Sub-level 3 but its actually only half that
+
 ## Optional Events
 
 ### Safe Haven
@@ -214,13 +209,6 @@ Enemy location p39
 - Crashed Krokodil gunship buried in a ruined building is on **Intensity 4** fire
 - Krokodil is a safe haven from the Black Death
 - Crash cracked open pipeline **Easy Observation** indicates that PCs can crawl through into the Fort
-
-### Let's Make a Deal
-
-**Location**: Streets
-
-- Ms. Eckford has tracked the PCs, her Dog Catchers are all dead and wants their help to get back into the Fort
-- She will offer \$200,000, stims and a security job that's in Sub-level 3 but its actually only half that
 
 ### White Flag
 
