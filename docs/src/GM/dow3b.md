@@ -214,7 +214,7 @@ sidebar: auto
     - Alien's corpse has bruned through the housing of a warhead, other missiles are leaking **Strong Radiation** clearly the cause of the base's radiation issues
     - **Comtech** will reveal they can set the bomb to go off in 8 hours given them time to escape by using **Heavy Machinery** taking one turn
 
-### Sublevel 03
+### Base Sublevel 03
 
 - Restricted level is radiation free and home to the alient research center. If the power is restored APPOLLO is rebooted a **Comtech** will allow them to convince APPOLLO to let them in. Otherwise torches or explosives will work
 - Checkpoint, firing ranges, weapons labs
