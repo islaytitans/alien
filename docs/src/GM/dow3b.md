@@ -73,21 +73,6 @@ sidebar: auto
 
 ## Scenes
 
-### Streets
-
-### Ariarcus Colony city
-
-- Don't blow up the place up - pipelines run throughout the city containing oil
-  - If shot
-    - Success - Blast Power 6
-    - On fail - Oil eating bacteria flakes down and eats any and all petrol in vehicles
-      - Exposure p82
-- Snow blizzard has eased a bit
-- Large UPP and Marine craft fallen out of the sky all over the city
-- A massive EMP burst from above knocks out most electronics, even those shielded
-- **Comtech** to fix all electronics
-- Populus affected by the Black Goo turning into Anathema
-
 ### Fort Nebraska
 
 - Entire Fort on containment protocol lockdown and everything is **Dark** and the reactor is dead
