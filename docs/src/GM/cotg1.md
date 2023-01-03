@@ -41,10 +41,15 @@ sidebar: auto
 - Contains a separate science lab module that can be jettisoned in an emergency. The module is missing at the start of the adventure
 - All escape pods are missing
 - All vehicles are missing except for 2 ATVs
-- Cold : When PCs arrive interior is a deep freeze. If PCs open their suits before life support system they will become **FREEZING** and need to make **STAMINA** rolls against the cold once per turn
-- Dark : Until MU/TH/UR 2000 comes online the interior is lit only by weak emergency light (all zones count as dark)
-- Air : Until MU/TH/UR online, air scrubbers powered and cleaned the air is stale and high concentration of carbon dioxide. All **STAMINA** -2 until fixed.
-- Gravity : Artificial gravity still works
+- Environment
+  - Cold : When PCs arrive interior is a deep freeze. If PCs open their suits before life support system they will become **FREEZING** and need to make **STAMINA** rolls against the cold once per turn
+  - Dark : Until MU/TH/UR 2000 comes online the interior is lit only by weak emergency light (all zones count as dark)
+  - Air : Until MU/TH/UR online, air scrubbers powered and cleaned the air is stale and high concentration of carbon dioxide. All **STAMINA** -2 until fixed.
+  - Gravity : Artificial gravity still works
+  - Decompression : Outer hull has Armor Rating 6. Shots that miss target in an area with an exterior wall will cause explosive decompression (p73 CRB). Doors and vents to compartment are auto-closed and permanetly sealed after one round
+- Doors
+  - All doors can be opened at a push of a button unless otherwise stated
+  - Some doors can only be opened by MU/TH/UR or by using an encrypted key card carried by Wilson and Clayton. Can also be found in Science Lab 1, dropped by Ava
 
 ### Cronus Cryo Deck A
 
@@ -109,6 +114,20 @@ sidebar: auto
 - They have not been tampered with and function fine
 
 ### Cronus Main Deck B
+
+#### Armory
+
+#### Junction B-1
+
+#### Vestibules
+
+#### Bridge
+
+#### Crew Quarters
+
+#### Mess Hall
+
+#### Corporate Suite
 
 ### Cronus Deck C
 
