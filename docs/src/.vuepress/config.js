@@ -41,6 +41,10 @@ module.exports = {
         link: "/gm/",
       },
       {
+        text: "COTG1",
+        link: "/gm/cotg1",
+      },
+      {
         text: "Players",
         link: "/players/",
       },

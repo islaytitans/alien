@@ -20,6 +20,7 @@ sidebar: auto
 ### Montero
 
 > Map p7
+
 > Gear p6
 
 - Same class as the Nostromo but untable to tow cargo due to smaller engines. Instead it's hauled internally
