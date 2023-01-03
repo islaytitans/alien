@@ -61,7 +61,7 @@ module.exports = {
         {
           title: "GM",
           collapsable: false,
-          children: ["runningthegame", "hopeslastday"],
+          children: ["cotg1", "dow"],
         },
       ],
     },
