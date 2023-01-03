@@ -117,17 +117,72 @@ sidebar: auto
 
 #### Armory
 
+- Mostly stripped bare with a splatter of dried milky-white spray on the wall from Ava's encounter she had with an Abomination
+- 1 x M41A Pulse Rifle but **heavy**
+- 1 x shotguns shell case
+
 #### Junction B-1
+
+- Ladder is undamaged and all doors work
 
 #### Vestibules
 
+- Next to Junction B-1 are two bays for escape bods which are both missing
+- Bulky red EVA ECO All-Worlds Survival Suits (p92 CRB) suits can be mistaken as a stalker if the lights are still off
+
 #### Bridge
+
+- Until power is restored the bridge is on battery and is shutdown with a low standby lights glow
+- Blast shutters are still lowered and locked over the viewports
+- There is soot on the ceiling and serveral stations are burned out
+- Command Station
+  - Once power is restored Command Station will be functional
+  - Captain's Station has a small panel that contains MU/TH/UR emergency access key but the glass is broken and the key is missing
+  - Captain's Station hold "at a glance" info on the consoles
+  - If PCs access the command station and make **COM-TECH** roll they'll find out where the Cronus has been; on a distant, uncharted planet in the 26 Draconis system
+- Holographic Display Table
+  - Slagged and brunt out hologram tech beyond repair
+- Sensor station
+  - Damaged by the fire but can be repaired with a **COM-TECH** and Shift of work
+  - Damaged senors sporadically pick up [sensor ghost](#sensor-ghost-redux)
+- Life Support Monitors
+  - When power is restored the monitors will flash red due to the high carbon dioxide levels
+  - It says maintenance must be performed on the air scrubbers either [replaced](#bad-air)
+  - If PCs talk to MU/TH/UR before restoring power to this terminal she shares the same info
+- Pilot Station
+  - An axe is embedded in Station 1 and Station 2 is dead regardless if the power is restored
+  - It is possible to open up the deck plating and try to reconnect power **HEAVY MACHINERY** for one Shift of work
+  - Faster, easier solution would be to cannibalize Station 2 to repair sation 1 **COM-TECH +2** for one shift of work
+  - Only one pilot station is needed to fly the ship
 
 #### Crew Quarters
 
+- All rooms are locked tight, ranascked, or smell like death
+- Small personal items of worth can be found here but the crew of the Cronus won't be happy if taken
+
 #### Mess Hall
 
+- Food stores are ravaged and most of the exposed food stores are rotten
+- Someone had been making origami anmals out of metallic paper and setting them up around the room
+- These animals are made by Ava in her deranged state
+
 #### Corporate Suite
+
+- Clayton's wardroom and quarters is spacious and was luxurious but now a ruin with blood on the bed, sofa storn apart and furniture is destroyed
+- Drugs
+  - Under the mattress is a pack of illegal stimulants to be injected into the ocular cavity. Reduces **STRESS LEVEL** to 0. D6 doses
+- Wall Safe
+  - Only accessible via Clayton's code containing
+    - encrypted Modular Computing Device cube storing all data on the science mission to LV-1113
+    - 1 million dollars in cash
+  - Without code the safe can be cracked **COM-TECH -3** and 1 shift of work
+  - The door can be blown open with an explosion with **BLAST POWER 12** which damages the cube and destorys most of the cash
+- Wetbar
+  - Bar is cleaved in two and most bottles are destroyed
+- Closet / Escape Pod
+  - Anyone examining the closet realises that it also functions as an EEV - escape pod
+  - Escape Pod is functional but can only be accessed with Clayton's code
+  - Escape Pod has three cryo-pods but not FTL capable
 
 ### Cronus Deck C
 
@@ -136,6 +191,10 @@ sidebar: auto
 ## Enemy Locations
 
 ## Mandatory Events
+
+### Sensor Ghost Redux
+
+### Bad Air
 
 ## Optional Events
 
