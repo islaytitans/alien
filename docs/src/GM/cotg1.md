@@ -13,7 +13,7 @@ sidebar: auto
 - Give agenda cards
   - Decide who is 'Lucas' and give their agenda card instead with the 'Note to Lucas'
   - Give Wilson Special order 966 too
-- Start on Montero
+- [Start on Montero](#openning)
 
 ## Scenes
 
@@ -312,6 +312,52 @@ sidebar: auto
 ## Enemy Locations
 
 ## Mandatory Events
+
+### Openning
+
+- Eager to collect payche the crew of Montero wakes up and begin prepping the ship for unloading
+- First gather in the galley to eat (Introduce characters)
+- One Shift each character counts as **Dehydrated** p72 CRB due to the effect of hypersleep
+- As they begin to go about their duties they begin to notice that things aren't right
+- Move onto [Ping](#ping)
+
+### Ping
+
+- Suddently MU/TH/UR/6500 reports an approaching ship - perhaps a colonial picket ship protecting Sutter's World or a Cargo inspector
+- Inspection shows there is no ship but a sensor diagnosis **COMTECH** leads to the conclusion that it was a sensor malfunction and nothing more
+- NPC tries to hail [Sutter's World](#nobodys-home)
+
+### Nobody's Home
+
+- Sutter's World doesn't respond to any hails and there is no return ping from their beacon tower
+- The Montero is actually nowhere near the colony and is actually in deep space
+- Navigation Star Charts are off **COMTECH** has the PCs determine they are nowhere near Sutter's World but in deep space
+- MU/TH/UR inertrupts [asking for the captain](#new-orders)
+
+### New Orders
+
+- MU/TH/UR signals she wants to talk to Captain Miller via text message
+- She informs Miller that they have picked up a distress call from an unknown ship and need to investigate
+- The mysterious transmission is too garbled for the PCs to determine who sent it
+- Crew need to triangulte its location to trace it's source
+- Miller is ordered to stop the crew from their preparations and explain the situation
+- As company rules say PCs need to investigate, not doing so meals they wll forfeit their shares and get no money for the run
+- Suddenly [sensors interrupt](#brace-for-impact)
+
+### Brace for Impact
+
+- Suddenly sensors detect a ship approaching on a collision course
+- MU/TH/UR wars of imminent impact
+- Klaxons on the brdige rage and warning lights flash
+- Small area without stars grows larger and larger
+- PCs soon realize it's a ship without lights or beacons or engine plume
+- MU/TH/UR vocalises "Brace for Impact"
+- Pilot needs **PILOTING -2** to avoid the collision
+- Collision means severe damage to the Montero crippling the FTL drive and causing explosive decompression in some sections of the ship but the crew are unharmed
+- Repairs take at least 3 shifts
+- MU/TH/UR will inform the crew about [the ship](#ghost-ship)
+
+### Ghost Ship
 
 ### Sensor Ghost Redux
 
