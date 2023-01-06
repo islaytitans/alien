@@ -11,11 +11,11 @@ sidebar: auto
 - Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
 - Give agenda cards
-  - Decide who is 'Lucas' and give their agenda card instead with the 'Note to Lucas'
+  - Decide who is 'Lucas' and give their agenda card instead of the Normal Agenda Card with the 'Note to Lucas'
   - Give Wilson Special order 966 too
 - [Start on Montero](#openning)
 
-## Scenes
+## Locations
 
 ### Montero
 
@@ -445,6 +445,7 @@ sidebar: auto
 - The PCs will encounter Neomorphic Egg Sacs
 - As long as PC wear their suits they're fine
 - A Scientist can use the Analysis talent on the sacs to learn more
+- Infection causes a **Virulence 9** roll (can chose if I want them infected or not), a fail enters Stage III within one shift
 
 ### Hunter And Prey (Act I, II & III)
 
@@ -461,7 +462,3 @@ sidebar: auto
 - If PCs want to leave the Cronus MU/TH/UR of the Montero triggers self-descruct Special Order 966 from W-Y see [T-Minus Ten Minutes](#t-minus-10-minutes)
 
 ### Bad Air (Act 2)
-
-## Loot
-
-Gear on Montero p6
