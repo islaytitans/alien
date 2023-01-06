@@ -315,6 +315,8 @@ sidebar: auto
 
 ### Openning
 
+**TAKE TIME WITH THESE EVENTS TO LET THEM LIVE IT**
+
 - Eager to collect payche the crew of Montero wakes up and begin prepping the ship for unloading
 - First gather in the galley to eat (Introduce characters)
 - One Shift each character counts as **Dehydrated** p72 CRB due to the effect of hypersleep
@@ -359,13 +361,106 @@ sidebar: auto
 
 ### Ghost Ship
 
-### Sensor Ghost Redux
+- MU/TH/UR informs the crew that the ghost ship was the source of the distress call
+- It's engines are dead, inertia has carried it at its last speed 0.04 light speed
+- Won't be able to identify the ship until the Montero comes about and catches up to her
+- Once along side the ghost ship and turn on the flood lights it's something for the history books it's the USCSS Cronus launched in 2110 and been missing for 3/4s of a centry (show cover of booklet)
+- It's running on minimal power with no lights
+- No sign of life except for the distress beacon
+- MU/TH/UR informs thr crew that a salvage operation is mandated by company rules, these are their priorities
+  1. Recover scientific data and samples from the USCSS Cronus
+  2. Escort the salvaged Cronus to Anchorhead or another W-Y facility
+  3. Save crew members of the Cronus
+- MU/TH/UR shows the floor plans of the Cronus on a screen
+- Next its [time to board](#boarding-party)
 
-### Bad Air
+### Boarding Party
+
+- PCs must match the Cronus speed and course **PILOT**
+- PCs must then attempted to board either
+  - via a Spacewalk **MOBILITY**
+  - by attaching the umbilical extension between the ships **HEAVY MACHINERY**
+- PCs can decide if all or some go onto the Cronus
+- Once the boarding party enters the derelict ship enter Stealth mode and make them roll for air supply after each Turn
+- Now let the PCs explorer freely
+
+### MOTHER Awakes
+
+- Suddenly MU/TH/UR 2000 of the Cronus comes online and powers up the reactor and the life support systems as a reaction to the PCs onboard
+- Temp increases and more lights activate
+- PCs notice a haze of vapor as warmer air begins filling the corridors
+- After a few Turns the effects of cold and darkness are removed
+- Air scrubbers also activate causing a lot of noise but unable to produce oxygen as the carbon filters need repairs
+- Leading to the [crew being awakened](#sleep-of-ages)
+
+### Sleep of Ages
+
+- As a result of life support systems coming online the sleeping crew wake from their hypersleep in the cryochambers
+- This is declared by MOTHER, her voice droning "Warning, cryochambers deactivated"
+- The process takes a few turns
+- Survivors are
+  - XO Johns
+  - Sgt. Reid
+  - Dr. Cooper
+  - Flynn
+  - Company Rep Clayton
+- Upon waking they suffer amnesia and acute disorientation from a long time in status
+- They need **MEDICAL AID** to start recovering perferable in the Medlab if the PCs clean it up
+- Dr. Cooper [complains of headaches](#mother-of-all-migraines)
+
+### Mother of All Migraines
+
+- Dr. Cooper begins complaining of migraines
+- At some point he stops speaking coherently instead muttering nonsense
+- A Bloodburster spore grows in his skull like a tumor, converting his cells into its own rapidly gestating body
+- As it grows it'll suddently lobotomizes Cooper from the inside out, he begins to have seizures
+- As seizures reaches a creshendo read **The Bloodburster is Born** p29 causing an immediate **Panic Roll**
+- Infant Neomorph immediately attacks nearest PC (stats p40) fleeing as soon as it takes damage or its signature move
+- After a few turns it'll be fully grown Neomorph and start stalking the crew
+- **Act 2 Beings**
+
+### T-Minus 10 Minutes (Act II)
+
+- Triggered by PCs wanting to leave or not investigate the Cronus
+- See p30
 
 ## Optional Events
 
-### Hunter And Prey
+### The Headless Man
+
+- Find a slumped over, headless body of a man in a spacesuit
+- Blood and brainsplatter on the wall behind him
+- In the body's hand is a 37A2 Shotgun containing shells and some in his pockets (enough for one reload)
+- Careful examination shows something isn't right with him, arms seem longer and the spacesuit is stretched and torn **STRESS LEVEL +1**
+- Man was an Stage II Abomination with enough wits to take his own life
+
+### I've Got Movement
+
+- If PCs use motion trackers they detect movement within the corridors of the Cronus some zones away
+- The blips will disappear before the PCs manage to track the source **STRESS LEVEL +1**
+- The actual source is either Ava, suffering some memory damage and wandering or an adult Neomoreph
+
+### Egg Sacs Afoot
+
+- The PCs will encounter Neomorphic Egg Sacs
+- As long as PC wear their suits they're fine
+- A Scientist can use the Analysis talent on the sacs to learn more
+
+### Hunter And Prey (Act I, II & III)
+
+- An adult Neomorph hibernating on the Cronus is awakened by the PCs arrival and starts stalking them
+- This can occurr at any time
+
+### Sensor Ghost Redux (Act I & II)
+
+- If PCs repair sensor station on bridge it emits occational pings to alert of a nearby ship that doesn't appear to exist
+- The ping is from the Sotillo but PCs can't learn that yet
+
+### Getting out of Dodge
+
+- If PCs want to leave the Cronus MU/TH/UR of the Montero triggers self-descruct Special Order 966 from W-Y see [T-Minus Ten Minutes](#t-minus-10-minutes)
+
+### Bad Air (Act 2)
 
 ## Loot
 
