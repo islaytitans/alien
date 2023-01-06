@@ -241,7 +241,73 @@ sidebar: auto
 - The external airlock door is sabotaged but the interal door works fine
 - Cronus has an external elevator attached to this airlock it's out of door now. It was used to lower crew to the surface of the planet
 
+#### Storage Units
+
+- Three units contain ship supplies and tools including the following
+- Sterilization Protocol - several drums of unstable napalm. Lighting up one will cause **Blast Power 12** followed by **Fire 12** intensity
+- Clayton's secret stash - Requires a code and is full of 24 Engineer Urns
+- Tools - Two bolt guns, cutting torch, maintenance jack
+
+#### Cargo Bays
+
+- Pitch black even when the power is restored
+- Rattling chains can be heard from inside
+- Bay 1 - food stores that are untouched
+- Bay 2 - empty save for RV tires
+
+#### Catwalk
+
+- Overlooks Vehicle Bay on Deck D
+- Only way to get to the Technical section of this desk
+- Crane on ceiling tracks loads cargo onto vehicles
+
+#### Cargo Office
+
+- Cargo crane opperated from here overlooking into the Vehicle Bay
+
+#### Junction C-2
+
+- Relativelt safe junction with functioning doors
+
+#### Coolant Tanks
+
+- Only accessible via service tunnels
+- Keeps the engines from overloading
+- If sabotaged the reactor begins building to critical mass and will explode the ship
+
+#### Reactor Relay and Control
+
+- Only light is dim pale blue from open access port on the reactor relay casting long and deep shadows
+- Something tore up the furniture and equipment to create a bizzare nest here
+- The Abomination
+  - Middle of the debris near the reactor is a crumpled-up space suit. Helmet is filthy and fogged and the suit looks like it was set on fire at one point
+  - Spacesuit is actually a **Passive Stage IV Abomination** and its helmet is actually its bulbous head. It's been hibernating for decades huddled by the reactor
+  - Moving quietly **MOBILITY** can avoid waking the Abomination.
+  - Cleaning will wake it up and if they flee it will stalk them on the ship
+- Cleaning up
+  - Yellow-white (dried Neomorph blood) resin covering most of the room that needs to be removed to bring the engines online
+  - Cleaning the control room restores the reactor relay repaires are still needed on the outside of the ship to reconnect the relay to the 4 fission engines **HEAVY MACHINERY** and 3 turns of work
+- Radiation Leaks
+  - Reactor leaks entire room is covered by strong radiation (1 Rad per Turn p76 CRB)
+  - Firing weapons here - any missies roll a PAnic Dice one a 1 causes critical damage to the reactor relay and triggers total destruction of the ship after 10 mins. Damage can be repaired with **HEAVY MACHINERY** and a turn
+- Self-destruct
+  - Can cause self-destruct here by shutting off cooling unit leading towards critical mass requires **COMTECH** and a turn of work
+  - Reactor begins 10 min countdown to overload. Stopping it requires **COMTECH** and a round of work. After 5 mins it's irresversible.
+
 ### Cronus Deck D
+
+#### Garage
+
+- Dusty from disuse and settled debris
+- Vehicles are missing - only two ATVs are present both lying on their sides
+- Deep shadows are everywhere here with many places to hide
+- Dispatch Office, Equipment Shed and Parts Storage
+  - clear of danager and contain whatever reasonavle tools the PCs might require
+- Garage door
+  - Opens like a ramp but locks must be removed first
+  - Bay can be decompressed before opening while in space otherwise everything will blow out
+- Airlocks
+  - All 4 airlocks have been sabotaged and cannot work without massive repairs
 
 ## Enemy Locations
 
