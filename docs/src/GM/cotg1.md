@@ -17,7 +17,7 @@ sidebar: auto
 
 ## Locations
 
-### Montero
+## Montero
 
 > Map p7
 
@@ -25,17 +25,17 @@ sidebar: auto
 
 - Same class as the Nostromo but untable to tow cargo due to smaller engines. Instead it's hauled internally
 
-#### Cargo
+### Cargo
 
 - Contains 72 high pressure tanks containing 200,000 tones of aging but still flammable and volatile Tritium
   - Once Montero reaches destination it will be harmless Helium-3
 - Montero has an ailing WY-37B 34 meter Flatbed cargo loader called Daisy to move the cargo
 
-#### Passageway Umbilical
+### Passageway Umbilical
 
 - 10 meter passage to connect airlocks with another spacecraft
 
-### Cronus
+## Cronus
 
 - Space exploration vehicle launched in 22nd centry similiar to Prometheus
 - Consists of 4 decks accessible through main junction ladderways, two large elevators, and a collapsed staircase
@@ -52,9 +52,9 @@ sidebar: auto
   - All doors can be opened at a push of a button unless otherwise stated
   - Some doors can only be opened by MU/TH/UR or by using an encrypted key card carried by Wilson and Clayton. Can also be found in Science Lab 1, dropped by Ava
 
-### Cronus Cryo Deck A
+## Cronus Cryo Deck A
 
-#### Main Airlock, Junction A-1
+### Main Airlock, Junction A-1
 
 - Only entry point into the Cronus
 - When viewed from outside the outer airlock door is damaged as if buckled from inside
@@ -63,13 +63,13 @@ sidebar: auto
   - If damaged explosive decompression happens
 - Airlock junction leads down to Deck B and Deck C its covered in scuff and scratch marks
 
-#### MU/TH/UR 2000 Mainframe
+### MU/TH/UR 2000 Mainframe
 
 - Protected area requires entering a command sequence or the emergency access key
   - Things only Wilson, Johns and Cooper have at the beginning of the scenario
 - Clean, blinking server room with one terminal which highest-ranking member of a crew can use to talk to MU/TH/UR
 
-#### Air Scrubbers
+### Air Scrubbers
 
 - Currently offline when the PCs arrive. It's dark and water is frozen
 - Only accessible via ventilation and maintenance shafts
@@ -83,13 +83,13 @@ sidebar: auto
   - If distrubed the Neomorphic Motes are released throughout the ship
   - Only way to remove eggs sacs is to burn them. Ava 6 can explain
 
-#### Elevators
+### Elevators
 
 - Provide access to vehicle bay
 - Elevator 1 functions fine once power is restored although contains bulletholes and dried blood
 - Elevator 2 shaft doors are open and the elevator is crumpled on the vehicle bay level. Looks like someone threw incendiary grenades
 
-#### Cryo chambers
+### Cryo chambers
 
 - Main door into this area has claw marks as if something was trying to get in
 - Door is locked from the inside requiring **Heavy Machinery** to open
@@ -97,41 +97,41 @@ sidebar: auto
 - Once life support is online the crew wakes up p28
 - Lockers here contain personal gear of the Cronus
 
-#### Examination Room
+### Examination Room
 
 - Room is a mess but contains two **Medkits**
 
-#### Showers
+### Showers
 
 - Showers are filthy and some Neomorphic egg sacs are growing on the drains
 
-#### Junction A-2
+### Junction A-2
 
 - Shaft leads to other levels of the ship
 
-#### Eva Storage 1 & 2
+### Eva Storage 1 & 2
 
 - Three remaining spacesuits are here - older models of the IRC Mk.50 Compression Suit
 - They have not been tampered with and function fine
 
-### Cronus Main Deck B
+## Cronus Main Deck B
 
-#### Armory
+### Armory
 
 - Mostly stripped bare with a splatter of dried milky-white spray on the wall from Ava's encounter she had with an Abomination
 - 1 x M41A Pulse Rifle but **heavy**
 - 1 x shotguns shell case
 
-#### Junction B-1
+### Junction B-1
 
 - Ladder is undamaged and all doors work
 
-#### Vestibules
+### Vestibules
 
 - Next to Junction B-1 are two bays for escape bods which are both missing
 - Bulky red EVA ECO All-Worlds Survival Suits (p92 CRB) suits can be mistaken as a stalker if the lights are still off
 
-#### Bridge
+### Bridge
 
 - Until power is restored the bridge is on battery and is shutdown with a low standby lights glow
 - Blast shutters are still lowered and locked over the viewports
@@ -156,18 +156,18 @@ sidebar: auto
   - Faster, easier solution would be to cannibalize Station 2 to repair sation 1 **COM-TECH +2** for one shift of work
   - Only one pilot station is needed to fly the ship
 
-#### Crew Quarters
+### Crew Quarters
 
 - All rooms are locked tight, ranascked, or smell like death
 - Small personal items of worth can be found here but the crew of the Cronus won't be happy if taken
 
-#### Mess Hall
+### Mess Hall
 
 - Food stores are ravaged and most of the exposed food stores are rotten
 - Someone had been making origami anmals out of metallic paper and setting them up around the room
 - These animals are made by Ava in her deranged state
 
-#### Corporate Suite
+### Corporate Suite
 
 - Clayton's wardroom and quarters is spacious and was luxurious but now a ruin with blood on the bed, sofa storn apart and furniture is destroyed
 - Drugs
@@ -185,7 +185,7 @@ sidebar: auto
   - Escape Pod is functional but can only be accessed with Clayton's code
   - Escape Pod has three cryo-pods but not FTL capable
 
-#### Med Lab
+### Med Lab
 
 - MedPod
   - Two Pauling Medpods (p100 CRB) and specimen jars containing floating Bloodbursters (p40)
@@ -207,7 +207,7 @@ sidebar: auto
 - Meds and Drugs
   - 4 personal medkids, surgical instrumnets, 3 doses of Neversleep Pills, 3 doses of Hydr8tion and 2 doses Naproleve
 
-#### Science Lab 1
+### Science Lab 1
 
 - Lights flicker abd smells of decay. There are gnawed bones in the room. \
 - Closer look at the floor reveals its covered in fungal nodes. Moving without disturbing them require **MOBILITY**
@@ -224,58 +224,58 @@ sidebar: auto
   - Half-submerged in Black Liquid is the emergency key card to access MU/TH/UR
   - The Key Card was dropped by Ava during a fight with the Neomorphs
 
-#### Science Lab 2
+### Science Lab 2
 
 - This toom is burnt out and smells of brunt rubber and plaster
 - A body is buried in the debris shrivelled up but clusting it's chest. Closer look ill reveal its not quite human but a Stage IV Abomination. The give away is the length of arms.
 
-#### Junction B-2
+### Junction B-2
 
 - Junction works fine and allows access from Decks A-C as well as ventilation and maintenance shafts
 
-### Cronus Deck C
+## Cronus Deck C
 
-#### Junction C-1
+### Junction C-1
 
 - Junction 1 begins at the main airlock and terminates here.
 - The external airlock door is sabotaged but the interal door works fine
 - Cronus has an external elevator attached to this airlock it's out of door now. It was used to lower crew to the surface of the planet
 
-#### Storage Units
+### Storage Units
 
 - Three units contain ship supplies and tools including the following
 - Sterilization Protocol - several drums of unstable napalm. Lighting up one will cause **Blast Power 12** followed by **Fire 12** intensity
 - Clayton's secret stash - Requires a code and is full of 24 Engineer Urns
 - Tools - Two bolt guns, cutting torch, maintenance jack
 
-#### Cargo Bays
+### Cargo Bays
 
 - Pitch black even when the power is restored
 - Rattling chains can be heard from inside
 - Bay 1 - food stores that are untouched
 - Bay 2 - empty save for RV tires
 
-#### Catwalk
+### Catwalk
 
 - Overlooks Vehicle Bay on Deck D
 - Only way to get to the Technical section of this desk
 - Crane on ceiling tracks loads cargo onto vehicles
 
-#### Cargo Office
+### Cargo Office
 
 - Cargo crane opperated from here overlooking into the Vehicle Bay
 
-#### Junction C-2
+### Junction C-2
 
 - Relativelt safe junction with functioning doors
 
-#### Coolant Tanks
+### Coolant Tanks
 
 - Only accessible via service tunnels
 - Keeps the engines from overloading
 - If sabotaged the reactor begins building to critical mass and will explode the ship
 
-#### Reactor Relay and Control
+### Reactor Relay and Control
 
 - Only light is dim pale blue from open access port on the reactor relay casting long and deep shadows
 - Something tore up the furniture and equipment to create a bizzare nest here
@@ -294,9 +294,9 @@ sidebar: auto
   - Can cause self-destruct here by shutting off cooling unit leading towards critical mass requires **COMTECH** and a turn of work
   - Reactor begins 10 min countdown to overload. Stopping it requires **COMTECH** and a round of work. After 5 mins it's irresversible.
 
-### Cronus Deck D
+## Cronus Deck D
 
-#### Garage
+### Garage
 
 - Dusty from disuse and settled debris
 - Vehicles are missing - only two ATVs are present both lying on their sides
@@ -308,8 +308,6 @@ sidebar: auto
   - Bay can be decompressed before opening while in space otherwise everything will blow out
 - Airlocks
   - All 4 airlocks have been sabotaged and cannot work without massive repairs
-
-## Enemy Locations
 
 ## Mandatory Events
 
