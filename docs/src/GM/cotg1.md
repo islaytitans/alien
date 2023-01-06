@@ -185,7 +185,61 @@ sidebar: auto
   - Escape Pod is functional but can only be accessed with Clayton's code
   - Escape Pod has three cryo-pods but not FTL capable
 
+#### Med Lab
+
+- MedPod
+  - Two Pauling Medpods (p100 CRB) and specimen jars containing floating Bloodbursters (p40)
+  - One is shattered as if something broke out of it
+    - Works **MEDICAL AID + 3** but risks sepsis (roll **Virulence 6** p75 CRB)
+  - One is sealed and lit from within but the entire surface is covered in thick dried blood
+    - Can be opened and it contains a Stage IV Abomination that was vivisectioned with is sckull and chest cavity open. Getting too close it'll have one last gasp and attack the PC but killed easily (3 Health no Armor)
+  - They were included on this mission specifically for removing parasite organisms
+- Another jar without liquid contains fungal nodes (Neomorphic Egg Sacs)
+- Metalic Urn
+  - Next to that jar is an open metalic urn containing 4 organic-looking vials. 3 are intact containing black liquid, the 4th is broken and empty
+  - The vials need to be kept in cold storage. If it starts to sweat it'll release the black liquid and will affect the PCs
+- The Cure
+  - Under desk is a medikit containing 6 syringes full of 26 Draconis Strain derivative - a cure of being infected with Meomorphic Motes
+- Bloodbursters
+  - Two Bloodbursters in the jars are dead. They were surgically removed from their victims by the Medpods but killing both the infected and the Neomorph
+- Motes
+  - If Egg Sacs disturbed motes will eject and try to find a host but dying if unsuccessful. If its container is broken they'll enject and spread throughout the ship
+- Meds and Drugs
+  - 4 personal medkids, surgical instrumnets, 3 doses of Neversleep Pills, 3 doses of Hydr8tion and 2 doses Naproleve
+
+#### Science Lab 1
+
+- Lights flicker abd smells of decay. There are gnawed bones in the room. \
+- Closer look at the floor reveals its covered in fungal nodes. Moving without disturbing them require **MOBILITY**
+- Metalic Urn
+  - Main lab has an enclossed decontamination area on the examinsation table which contains a Metalic Urn
+  - Malfunctioning deep cold freezer with a smashed door contains another 4 urns, broken with black congealing pools with fungal nodes growing on them
+  - This is the Engineer black liquid and has fata results (Virulence 12 disease)
+- Bones
+  - Closer look will reveal they're not all human bones
+  - This room was the nest of an adult Neomorph [can trigger Hunter and Prey event](#hunter-and-prey) with a Neomorph attack at any time
+- Fungal Nodes
+  - Neomorphic Egg Sacs ready to eject Motes and affect anyone with exposed orifices
+- Key Card
+  - Half-submerged in Black Liquid is the emergency key card to access MU/TH/UR
+  - The Key Card was dropped by Ava during a fight with the Neomorphs
+
+#### Science Lab 2
+
+- This toom is burnt out and smells of brunt rubber and plaster
+- A body is buried in the debris shrivelled up but clusting it's chest. Closer look ill reveal its not quite human but a Stage IV Abomination. The give away is the length of arms.
+
+#### Junction B-2
+
+- Junction works fine and allows access from Decks A-C as well as ventilation and maintenance shafts
+
 ### Cronus Deck C
+
+#### Junction C-1
+
+- Junction 1 begins at the main airlock and terminates here.
+- The external airlock door is sabotaged but the interal door works fine
+- Cronus has an external elevator attached to this airlock it's out of door now. It was used to lower crew to the surface of the planet
 
 ### Cronus Deck D
 
@@ -198,6 +252,8 @@ sidebar: auto
 ### Bad Air
 
 ## Optional Events
+
+### Hunter And Prey
 
 ## Loot
 
