@@ -29,7 +29,7 @@ sidebar: auto
 
 - Contains 72 high pressure tanks containing 200,000 tones of aging but still flammable and volatile Tritium
   - Once Montero reaches destination it will be harmless Helium-3
-- Montero has an ailing WY-37B 34 meter Flatbed cargo loader called Daisy to move the cargo
+- Montero has an ailing WY-37B 34 meter Flatbed cargo shuttle called Daisy to move the cargo
 
 ### Passageway Umbilical
 
@@ -344,10 +344,10 @@ sidebar: auto
 - One PC can use Dr Cooper's dose and there are other doses in the MedLab they can retrieve
 - If they go to the MedLab Dr Flynn will want to go to retrieve one of the "artifacts"
 
-### T-Minus 10 Minutes
+### T-Minus 20 Minutes
 
 - Montero's Mother will come through the PCs comms in a crackle
-  - "Displacement Drive malfunction. Cascade failure imminent. Fission reactor overload in T-Minus 10 minutes" **Stress Level +1**
+  - "Displacement Drive malfunction. Cascade failure imminent. Fission reactor overload in T-Minus 20 minutes" **Stress Level +1**
   - Mother will remind PCs every minute until 30 seconds left at which she'll countdown to 0
 - There is no way to stop itbut PCs can try
 - At 0 the Montero will suffer a huge explosion meaning it's total destruction
@@ -356,19 +356,41 @@ sidebar: auto
   - Truth is Mother triggered it herself, following Special Order 966 to ensure Cronus is brought back to W-Y
 - PCs should understand to survive they need to be on the Cronus and get as far away from the Montero before it explodes
   - NPCs can tell them that if they don't realise
+- As the ships are connected by the Umbilical there's a problem decoupling it
+  - Can be done by cutting torch and **HEAVY MACHINARY** or **STRENGTH**
+    - If fail, the engines of the Montero can use it's engines to break loose
+- PCs may want to get some Tritium/Helium-3 gas canisters so they make some [money from their work](#no-money)
 - As the Cronus engines are offline, they'll need to set Montero on course away from Cronus
 - PC must either sacrifice themselves or the pilot can set the Montero on autopilot **PILOTING -2** and use the ancient cargo shuttle Daisey to get back to the Cronus
   - On fail, not enough distance between Cronus and Montero so Cronus suffers explosive decompression in D6 compartments on the Cronus
+  - Anyone caught outside the Montero when it explodes roll for Explosion **BLAST POWER 12**
+  - If Daisy caught in blast it suffers explosive decompression PCs will need to escape in compression suits and abandon the cargo **STRESS LEVEL +1**
 
 ### Change of Plans
+
+- Once PCs realise Cronus is only way to get home, they'll need to fix it. Johns or someone else from the Cronus crew wil inform them out
+  - fix the comms array
+    - Requires a Space Walk, four turns of work and **COMTECH**
+    - Only one PC rolls but others can help
+    - **Stage IV Abomination** is hibernating on the outer hull
+  - repair her engines
+    - Requires external repairs via spacewalk, three turns of work and **HEAVY MACHINARY**
+    - Also requires cleaning up the [reactor control](#reactor-relay-and-control) room where an **Abomination** hibernates
+  - get air scrubbers working
+    - See [Air Scrubbers](#air-scrubbers)
 
 ### Aggressive Tendencies
 
 ## Optional Events
 
-### Breaking Loose
-
 ### No Money
+
+- (N)PCs (especially Rye / Miller) insist on saving part of the valuable Helium-3 gas before the Montero explodes
+- Cargo shuttle Daisy can carry 10 tanks each requiring **HEAVY MACHINARY** to load each one
+  - On fail, roll 1 Stress Dice. On 1 the tank explodes destroying Daisy and killing everyone present in the Montero cargo bay hold
+- Remember to keep counting down when dramatically appropriate
+- On a tilt, Daisy can be wedged into the vehicle bay of the Cronus **PILOTING**
+  - On fail, roll 1 Stress Dice. On 1 the tanks explodes destroying Daisy and killing everyone present in Daisy
 
 ### Encountering Ava
 
