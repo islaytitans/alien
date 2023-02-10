@@ -192,7 +192,7 @@ sidebar: auto
   - One is shattered as if something broke out of it
     - Works **MEDICAL AID + 3** but risks sepsis (roll **Virulence 6** p75 CRB)
   - One is sealed and lit from within but the entire surface is covered in thick dried blood
-    - Can be opened and it contains a Stage IV Abomination that was vivisectioned with is sckull and chest cavity open. Getting too close it'll have one last gasp and attack the PC but killed easily (3 Health no Armor)
+    - Can be opened and it contains a **dead Stage IV Abomination** that was vivisectioned with is sckull and chest cavity open. Getting too close it'll have one last gasp and attack the PC but killed easily (3 Health no Armor)
   - They were included on this mission specifically for removing parasite organisms
 - Another jar without liquid contains fungal nodes (Neomorphic Egg Sacs)
 - Metalic Urn
@@ -449,7 +449,7 @@ sidebar: auto
 - The PCs will encounter Neomorphic Egg Sacs
 - As long as PC wear their suits they're fine
 - A Scientist can use the Analysis talent on the sacs to learn more
-- Infection causes a **Virulence 9** roll (can chose if I want them infected or not), a fail enters Stage III within one shift
+- Infection causes a **Virulence 9** roll (can chose if I want them infected or not), a fail enters **Neomorph Stage III** within one shift
 
 ### Sensor Ghost Redux (Act I & II)
 
