@@ -314,125 +314,94 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Act II Start
+### Act III Start
 
-- Having defeated Neomorgh the PCs get chance to catch their breath **Stress Level +1**
-- Can start planning their way home... only realise other dangers lurking about
-- Survivors are
-  - XO Johns
-  - Sgt. Reid
-  - Dr. Cooper (now dead)
-  - Dr. Flynn
-  - Company Rep Clayton
-- Upon waking they suffer amnesia and acute disorientation from a long time in status
-- They need **MEDICAL AID** to start recovering perferable in the Medlab if the PCs clean it up
-- PCs suits O2 levels will be running really low but the air is breathable but [stale](#cronus)
-  - Aboard the Cronus, everyone has trouble breathing
-  - Air is stale and heavy in carbon dioxide
-  - Johns will tell them after decades of disuse, the air scrubbers probably need to be replaced in the central air scrubber shaft
-- Begin [Partial Truths](#partial-truths)
+- With the engines online begin [Going Home](#going-home)
 
-### Partial Truths
+### Going Home
 
-- Survivors need **MEDICAL AID**, perferably in the Medlab if the PCs clean it, up to help with disorientation and amnesia
-- Once recovered XO Johns tells PCs that they set down on LV-1113 and explored ancient ruins
-  - Company Rep Clayton will quickly interjects that it was an archeological mission
-  - Johns will continue that their Science Team collected important artifacts (the ampules in Science Lab) and inadvertently brought back spores with them
-  - The spores infected some of the crew with Neomorphic Motes
-  - Johns also know the egg sacks (that typically collect on air filters) pose a danger
-  - Doctors on the Science Team created a cure that neutralizes the Neomorphic growth that turns it into an inert tumor
-  - Everyone was inoculated so Johns is confused why Cooper turned
-  - A search of Cooper will reveal his still-full syringe - he never used it
-- If any PCs removed their compression suits Dr. Flynn says they need to be inoculated immediately as they're likely infected by Motes
-  - One PC can use Dr Cooper's dose and there are other doses in the MedLab they can retrieve
-  - However innoculations causes PCs to become [infected](#infected)
-- If they go to the MedLab Dr Flynn will want to go to retrieve one of the "artifacts"
+- Engines of the Cronus come back online immediately turning direction
+- MUTHOR locsk the ship on course for Earth
+- **COMTECH** reveals that the mainframe is under Special Order 966 to return the Cronus to Earth - this cannot be overridden
+
+### Medicinal Purposes
+
+- Clayton asks the PCs to help bring the strain sampels to earth as the samples are pricess, invaluable for research in diseases
+- Even if 26 Draconis Strain cure is unstable, it can be perfected
+- Science Team theorised these creatures are not native to LVC-1113 - they could be spread over countless worlds
+- [Cham (Lucas) will not want to help](#contamination-protocol)
+- If PCs resist Clayton and want to destroy samples (the the ship) begin [Mutiny](#mutiny)
+
+### Mutiny
+
+- Clayton tries to bribe or persuade crew members to come to her side - causing a mutiny amount the remaining survivors
+- Use **MANIPULATION** to gain any leverage
+- Clayton wants the follow and will send whoever is on her side to get it
+  - get the 26 Draconis Strain syrinbges from the Medlab
+  - get cash from the safe in her suite to bribe the crew
+  - retrieve her MCD cube also in her safe
+  - load as many containers of Agent A0-3959x.91-15 as she can into her quarters usinbg the EEV as an insurance policy
+- If none of this is possible, she at least wants
+  - one inoculation syringe full of 26 Dragonis Strain and an Urn
+  - or vial from the Medlab or Science Labs
+- If things go bad she'll try to kidnap someone who is inoculated and escape in her EEV
+
+### Prepare to be boarded
+
+- A heavy clang against the hull tells the PCs that another ship has made contact and docked with the Cronus
+- A corporate-sponsored marauder ship _Sotillo_
+- Crew of Sotillo hanged back to see what was going on, now chosen to come take the cargo before the Cronus jumps to FTL
+- They'll blast through the Airlock not wearing compression suits coming via an Umbilical
+- They can be infected and turn into Abominations
+- p11 for crew
+- Clayton will try to [bribe the crew of the Sotillo to help her](#whos-on-whose-side-now)
+
+### Who's on whose side now
+
+- Clayton will try to bribe the cew of the Sotillo to help her
+- Captain Bolaji weighs the risk of the creatures being set free on the Frontier vs a hefty paycheck vs simply cut and run
+- PCs will be extremely unlikely to convince the Captain to rescue them
+- PCs could try to take the Sotillo themselves
 
 ### Hunter And Prey (Act I, II & III)
 
 - An adult Neomorph hibernating on the Cronus is awakened by the PCs arrival and starts stalking them
 - This can occurr at any time
 
-### T-Minus 20 Minutes
+### Contamination Protocol (Cham / Lucas)
 
-- Montero's Mother will come through the PCs comms in a crackle
-  - "Displacement Drive malfunction. Cascade failure imminent. Fission reactor overload in T-Minus 20 minutes" **Stress Level +1**
-  - Mother will remind PCs every minute until 30 seconds left at which she'll countdown to 0
-  - At 0 the Montero will suffer a huge explosion meaning it's total destruction
-- There is no way to stop it but PCs can try
-  - If they head back to Montero to ask Mother to stop the countdown, she refuses, even if ordered by Wilson
-  - **COMTECH** at the Reactor control will confirm that the destruction of the ship cannot be stopped and seemed to be triggered intentionally
-    - Truth is Mother triggered it herself, following Special Order 966 to ensure Cronus is brought back to W-Y
-- PCs may want to get some Tritium/Helium-3 gas canisters so they make some [money from their work](#no-money)
-- PCs should understand to survive they need to be on the Cronus and get as far away from the Montero before it explodes
-  - NPCs can tell them that if they don't realise
-  - As the Cronus engines are offline, they'll need to set Montero on course away from Cronus
-    - As the ships are connected by the Umbilical there's a problem decoupling it
-      - Can be done by cutting torch and **HEAVY MACHINARY** or **STRENGTH**
-        - If fail, the engines of the Montero can use it's engines to break loose
-    - Piloting the Montero - PC must either sacrifice themselves or set the autopilot **PILOTING -2** and use the ancient cargo shuttle Daisey to get back to the Cronus
-      - On fail, not enough distance between Cronus and Montero so Cronus suffers explosive decompression in D6 compartments on the Cronus
-      - Anyone caught outside the Montero when it explodes roll for Explosion **BLAST POWER 12**
-      - If Daisy caught in blast it suffers explosive decompression PCs will need to escape in compression suits and abandon the cargo **STRESS LEVEL +1**
-
-### Cham / Lucas
-
-- Cham is secretly Lucas - an Android working for a W-Y competitor
+- Cham (Lucas) is an Android working for a W-Y competitor Personal Agenda is to use any means to stop W-Y getting their hands on the 26 Darconis Strain
 - Cham wants to do his duty, help fellow crewmates and protect them with his life
-- Lucas has been sent to investigate the Cronus and to learn more about Xenos
-  - Ask crew for logs and anything to learn about them without raising suspicions
+- Lucas will try to sabotage or even destroy the Cronus to deny W-Y
 - Android nature will be revealed when caused to bleed (but get +3 to health, Strength, Agility)
+- If Lucas body is destroyed he uploads himself into the mainframe of the Cronus and triggers a [reactor overload](#reactor-relay-and-control) triggering [run as fast as you can](#run-as-fast-as-you-can)
+- Access to Clayton's EEV is locked by can be released with **HEAVY MACHINARY**
 
-### Encountering Ava
+### Run as fast as you can
 
-- Any location on the Cronus the PCs will encounter the ship's damaged android Ava
-- Unlike the other bodies they encountered where they are ravaged, the body of Ava is whole
-- The back of her head is slick and sticky, closer look will reveal its milk-white substance
-- She can be **REPAIRED**
-- Once repaired, Ava offers the PCs help and information
-- Neomorphs and Abominations are confused by Androids they smell "off" to them
-- Ava tells PCs the truth about the innoculations if they haven't already figured it out
-  - Anyone given the innoculations can turn into an Abomination
-  - She will reveal presence of Agent AO-3959x.91-15 aboard. The rare "artefacts" that clayton wants taken back to earth are deadly weapons
+- It's highly likely the Cronus will be destroyed
+- To escape the PCs must be far enough away from the explosion
+- If they leave via EEV they will automatically survive
+- If they leave on the Sotillo **PILOT -2**
+  - Failure means the Sotillo FTL drive is destroyed leaving the ship drifting in space
+  - Go to [End of Act III but come back here]()
+  - They may think they're safe [It isn't over until it's over](#it-isnt-over-until-its-over)
 
-### Change of Plans
+### End of Act III
 
-- Once PCs realise Cronus is only way to get home, they'll need to fix it. Johns or someone else from the Cronus crew will inform them how
-  - 1. fix the comms array
-    - Requires a Space Walk, four turns of work and **COMTECH**
-    - Only one PC rolls but others can help
-    - **Stage IV Abomination** is hibernating on the outer hull
-  - 2. repair her engines
-    - Requires cleaning up the [reactor control](#reactor-relay-and-control) room where an **Abomination** hibernates
-    - Also requires external repairs via spacewalk, three turns of work and **HEAVY MACHINARY**
-      - Good time for [aggressive tendencies](#aggressive-tendencies)
-  - 3. get air scrubbers working
-    - See [Air Scrubbers](#air-scrubbers)
-
-### Aggressive Tendencies
-
-- Without warning Cronus survivors start acting irrationally and aggressively - attacking PCs in violent rage
-  - Clayton has a role to play in Act III so don't turn them
-  - Any attacked PC must make a **Panic Roll**
-- They've been infected by their inoculations - derivative of the black liquid called 26 Draconis Strain transforms them into **Stage II Abominations p43**
-- First only one NPC turns, attacking in a rage without regard for their own survival or warning
-- Once the first attack is over attack with one or two more NPCs - attack or disappear to come back as **Stage III Abomination**
-- If bodies examined, they see changes are brought on by the black liquid. Remaining crew will panic. A Scientist can **ANALYZE** the bodies to learn more about the transformation
-
-### End of Act II
-
-- With the engines online Mother will lock the Cronus course to Earth under Special Order 966
+- Read Surviving the Blast p34 then signing off p25
 
 ## Optional Events
 
-### No Money
+### It isn't over until it's over
 
-- Miller (and Rye) insist on saving part of the valuable Helium-3 gas before the Montero explodes
-- Cargo shuttle Daisy can carry 10 tanks each requiring **HEAVY MACHINARY** to load each one
-  - On fail, roll 1 Stress Dice. On 1 the tank explodes destroying Daisy and killing everyone present in the Montero cargo bay hold
-- Remember to keep counting down when dramatically appropriate
-- On a tilt, Daisy can be wedged into the vehicle bay of the Cronus **PILOTING**
-  - On fail, roll 1 Stress Dice. On 1 the tanks explodes destroying Daisy and killing everyone present in Daisy
+- If PCs escapes on the Sotillo one or more Stage III or Stage IV Abominations have climbed abord her hull
+- Let the PCs think they are safe and rest long enough to clear their **STRESS LEVEL**
+- Before prepping FTL / Cryosleep have large clangs sound on the hull. Out the viewport are air of eyes not stars
+- One Abomination is trying to smasdh through the cockpit viewport (PCs don't know it isn't strong enough but can at least damange it)
+  - Hairline fracture appears on the window **STRESS LEVEL +1**
+  - Activating viewporet shields it will likely kill or maim one of the Abominations
+  - If the Abominations don't get removed the Sotillo will be damaged and be adrift
 
 ### Infected
 
@@ -443,18 +412,6 @@ sidebar: auto
   - Give them new "Infected Agenda" card and let them continue controlling them until their initial attack is resolved. **Panic Roll** for other PCs
   - If infected PC survives the first attack they become an NPC for me to control. They start stalking the other PCs and soon turns into **Stage III Abomination** (and later **Stage IV**)
   - Give the PC a new NPC to play
-
-### Egg Sacs Afoot
-
-- The PCs will encounter Neomorphic Egg Sacs
-- As long as PC wear their suits they're fine
-- A Scientist can use the Analysis talent on the sacs to learn more
-- Infection causes a **Virulence 9** roll (can chose if I want them infected or not), a fail enters **Neomorph Stage III** within one shift
-
-### Sensor Ghost Redux (Act I & II)
-
-- If PCs repair sensor station on bridge it emits occational pings to alert of a nearby ship that doesn't appear to exist
-- The ping is from the Sotillo but PCs can't learn that yet
 
 ### Playing Abomination
 

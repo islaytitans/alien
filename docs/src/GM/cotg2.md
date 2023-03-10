@@ -314,12 +314,12 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Act II Start
+### Act II Start - DONE
 
 - Having defeated Neomorgh the PCs get chance to catch their breath **Stress Level +1**
 - Can start planning their way home... only realise other dangers lurking about
 - Survivors are
-  - XO Johns
+  - XO Johns (now dead)
   - Sgt. Reid
   - Dr. Cooper (now dead)
   - Dr. Flynn
@@ -332,7 +332,7 @@ sidebar: auto
   - Johns will tell them after decades of disuse, the air scrubbers probably need to be replaced in the central air scrubber shaft
 - Begin [Partial Truths](#partial-truths)
 
-### Partial Truths
+### Partial Truths - DONE
 
 - Survivors need **MEDICAL AID**, perferably in the Medlab if the PCs clean it, up to help with disorientation and amnesia
 - Once recovered XO Johns tells PCs that they set down on LV-1113 and explored ancient ruins
@@ -353,7 +353,7 @@ sidebar: auto
 - An adult Neomorph hibernating on the Cronus is awakened by the PCs arrival and starts stalking them
 - This can occurr at any time
 
-### T-Minus 20 Minutes
+### T-Minus 20 Minutes - DONE
 
 - Montero's Mother will come through the PCs comms in a crackle
   - "Displacement Drive malfunction. Cascade failure imminent. Fission reactor overload in T-Minus 20 minutes" **Stress Level +1**
@@ -375,15 +375,17 @@ sidebar: auto
       - Anyone caught outside the Montero when it explodes roll for Explosion **BLAST POWER 12**
       - If Daisy caught in blast it suffers explosive decompression PCs will need to escape in compression suits and abandon the cargo **STRESS LEVEL +1**
 
-### Cham / Lucas
+### Aggressive Tendencies - START HERE
 
-- Cham is secretly Lucas - an Android working for a W-Y competitor
-- Cham wants to do his duty, help fellow crewmates and protect them with his life
-- Lucas has been sent to investigate the Cronus and to learn more about Xenos
-  - Ask crew for logs and anything to learn about them without raising suspicions
-- Android nature will be revealed when caused to bleed (but get +3 to health, Strength, Agility)
+- Without warning Cronus survivors start acting irrationally and aggressively - attacking PCs in violent rage
+  - Clayton has a role to play in Act III so don't turn them
+  - Any attacked PC must make a **Panic Roll**
+- They've been infected by their inoculations - derivative of the black liquid called 26 Draconis Strain transforms them into **Stage II Abominations p43**
+- First only one NPC turns, attacking in a rage without regard for their own survival or warning
+- Once the first attack is over attack with one or two more NPCs - attack or disappear to come back as **Stage III Abomination**
+- If bodies examined, they see changes are brought on by the black liquid. Remaining crew will panic. A Scientist can **ANALYZE** the bodies to learn more about the transformation
 
-### Encountering Ava
+### Encountering Ava - START HERE
 
 - Any location on the Cronus the PCs will encounter the ship's damaged android Ava
 - Unlike the other bodies they encountered where they are ravaged, the body of Ava is whole
@@ -402,22 +404,20 @@ sidebar: auto
     - Requires a Space Walk, four turns of work and **COMTECH**
     - Only one PC rolls but others can help
     - **Stage IV Abomination** is hibernating on the outer hull
-  - 2. repair her engines
+  - 2. repair her engines - Cham is working on it
     - Requires cleaning up the [reactor control](#reactor-relay-and-control) room where an **Abomination** hibernates
     - Also requires external repairs via spacewalk, three turns of work and **HEAVY MACHINARY**
       - Good time for [aggressive tendencies](#aggressive-tendencies)
-  - 3. get air scrubbers working
+  - 3. get air scrubbers working - DONE
     - See [Air Scrubbers](#air-scrubbers)
 
-### Aggressive Tendencies
+### Cham / Lucas
 
-- Without warning Cronus survivors start acting irrationally and aggressively - attacking PCs in violent rage
-  - Clayton has a role to play in Act III so don't turn them
-  - Any attacked PC must make a **Panic Roll**
-- They've been infected by their inoculations - derivative of the black liquid called 26 Draconis Strain transforms them into **Stage II Abominations p43**
-- First only one NPC turns, attacking in a rage without regard for their own survival or warning
-- Once the first attack is over attack with one or two more NPCs - attack or disappear to come back as **Stage III Abomination**
-- If bodies examined, they see changes are brought on by the black liquid. Remaining crew will panic. A Scientist can **ANALYZE** the bodies to learn more about the transformation
+- Cham is secretly Lucas - an Android working for a W-Y competitor
+- Cham wants to do his duty, help fellow crewmates and protect them with his life
+- Lucas has been sent to investigate the Cronus and to learn more about Xenos
+  - Ask crew for logs and anything to learn about them without raising suspicions
+- Android nature will be revealed when caused to bleed (but get +3 to health, Strength, Agility)
 
 ### End of Act II
 
@@ -425,7 +425,7 @@ sidebar: auto
 
 ## Optional Events
 
-### No Money
+### No Money - DONE
 
 - Miller (and Rye) insist on saving part of the valuable Helium-3 gas before the Montero explodes
 - Cargo shuttle Daisy can carry 10 tanks each requiring **HEAVY MACHINARY** to load each one
@@ -438,7 +438,6 @@ sidebar: auto
 
 - If any PCs took inoculation, some of them will start to [turn into Abominations](#playing-abomination)
 - First choose one PC and desribe how their skin starts to itch and their head hurts as they enter **Stage I Abomination** transformation **Stress Level +1** for each infected PC
-  - Avoid infecting Wilson yet as he has a role to play in Act III
 - Shortly after the PC enters **Stage II Abomination** and is overcome by violent rage. Resist by **Sickness Virulence 6**
   - Give them new "Infected Agenda" card and let them continue controlling them until their initial attack is resolved. **Panic Roll** for other PCs
   - If infected PC survives the first attack they become an NPC for me to control. They start stalking the other PCs and soon turns into **Stage III Abomination** (and later **Stage IV**)
