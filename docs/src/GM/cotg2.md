@@ -348,11 +348,6 @@ sidebar: auto
   - However innoculations causes PCs to become [infected](#infected)
 - If they go to the MedLab Dr Flynn will want to go to retrieve one of the "artifacts"
 
-### Hunter And Prey (Act I, II & III)
-
-- An adult Neomorph hibernating on the Cronus is awakened by the PCs arrival and starts stalking them
-- This can occurr at any time
-
 ### T-Minus 20 Minutes - DONE
 
 - Montero's Mother will come through the PCs comms in a crackle
@@ -418,6 +413,11 @@ sidebar: auto
 - Lucas has been sent to investigate the Cronus and to learn more about Xenos
   - Ask crew for logs and anything to learn about them without raising suspicions
 - Android nature will be revealed when caused to bleed (but get +3 to health, Strength, Agility)
+
+### Hunter And Prey (Act I, II & III)
+
+- An adult Neomorph hibernating on the Cronus is awakened by the PCs arrival and starts stalking them
+- This can occurr at any time
 
 ### End of Act II
 
