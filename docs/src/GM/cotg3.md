@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Chariot of the Gods 2
+# Chariot of the Gods 3
 
 ## Party
 
