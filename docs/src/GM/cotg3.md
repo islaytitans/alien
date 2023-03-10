@@ -321,7 +321,7 @@ sidebar: auto
 ### Going Home
 
 - Engines of the Cronus come back online immediately turning direction
-- MUTHOR locsk the ship on course for Earth
+- MUTHUR locks the ship on course for Earth
 - **COMTECH** reveals that the mainframe is under Special Order 966 to return the Cronus to Earth - this cannot be overridden
 
 ### Medicinal Purposes
