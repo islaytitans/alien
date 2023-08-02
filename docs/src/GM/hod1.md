@@ -15,23 +15,49 @@ sidebar: auto
 - Give agenda cards
 - [Start on Cetorhina](#opening)
 
-## Locations
+## Erebos
 
-## Equipment
+- All lights are out, unidentified clanging noises echo, the reactor hums sporadically, station's hull groans as marchinery shifts and is replaced with Living Proto-Hive behind the walls for Act 1
+- Gravity - parts are gravity free, as is space. Charactes in Zero-G need **Mobility** to move effectively. Failed roll means they are floundering.
+- Space-workaround - There are many obstacles but there are many airlocks. PCs may need to go outside to circumvent things. Taking **1 Rad per Turn** from the black hole
+- Radiation Zones - Human or Android entering strong radiation must make **Virulence 6 Sickness** roll, weak radiation **Virulence 4 Sickness**
+  - become tainted by thge Hessdalen Lights p61, becoming an Abomination p69 within **1 Shift**
+- Plasma - Port side of Deck F, G, H are ablaze with **Intensity 12** plasma fire. Venting these areas **Heavy Machinery / Comtech** will put out fires.
+- Evolution - Erebose becomes less machine and more monster through Acts.
 
-- Characters personal gear
-- Cetorhina has
-  - 4 P-5000 Power Loaders
-  - 4 Spacesub ASSO-400 Harpoon grappling guns
-  - 200m of line
-  - 3 Watatsumi DV-303 Bolt Guns (4 shots each)
-  - 4 electrical tool kits
-  - 4 medkits
-  - 3 maintenace jacks
-  - 3 cutting torches (D3 power each)
-  - 8 rebreather masks (D3 air each)
-  - 6 Rexim Pistols (one reload each)
-  - 6 Survival Suits (6 air each)
+## Erebos post Act 1
+
+- After Act 1 Erebos will slowly change apperance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
+- The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
+- Fleshy black veins and tendons grow, transmorgrifying mteal supports into skeleton structures and powerlines into arteries to pump plasmatic energy
+- p62 for more on what the Living Proto-Hive can do
+
+## Chute
+
+- Vertical travel is through the central Zero-G Chute between Deck B to Deck J
+- There are no lifts, only airlocks, junctions and ladders
+- Every airlock and every 20m of Chute there are emergency doors and control panels
+- p27 for obstacles table in the Chute
+
+## Deck A - Astrometric Observatory
+
+### Science Station
+
+- Room is a wreck and dark, equipment destroyed and looks like someone was living here for weeks by half eaten rations and dirty clothes
+- Ambient Energy Collectors
+  - Cetorhina's batteries can be connected for recharging
+- Storm Shields
+  - Sheilds are closed with one cycling open and close 5 inches. Opening them will reveal a 360 view of the Black Hole in all its splendor
+  - Once opened Viewports reveal ancient hieroglyphics phosphorus paint with some English translations. Anyone with Geholgod training will recognise them from Star Teacher artificats discovered on Arcturus
+  - Transations read "Humankind must be obliterated" and "Do not allow perfection" one in German says "Border Bombers?" p28 Clerke's Clues
+- Sensor Terminal
+  - Multi-screen terminal recording gravitational waves.
+  - Also relayes encrypted audio transmissions drawn to the black hole sending tha data to MUTHUR on Deck C, can only be listened to at her interface terminal
+
+### Lattice Corridor, Personnel Airlock 00
+
+- 10m tall tower exposed to space only means to get between observatory to the rest of Erebos
+- Someone has been using the Observatory Airlock as a bathroom
 
 ## Mandatory Events
 
@@ -54,7 +80,7 @@ sidebar: auto
 
 - The meteorides are actually Living Proto-Hive Nodes that are now embedding themselves in the hull
   - They will root their way through the deck an into the systems and eventually FTL drive
-- Repairs to the ship wull reveal living tendrills beginning to grow threoughout it - melding it with Erebos
+- Repairs to the ship will reveal living tendrills beginning to grow threoughout it - melding it with Erebos
 - Since Cetorhina is mangled and locked into Erebos superstructure PCs don't have what they need to free the shiup
   - Grey will stay with the ship to do repairs if not a PC
 - Agendas should encourage the PCs to exploree the station / find out what happened
@@ -90,13 +116,6 @@ sidebar: auto
 - Squid Baby will bolt when least expected, scurrying off under the flooring
 - The cat will now follow the PCs
 
-### Streaker Part 1
-
-- PCs feel like someone is following them, always out of sight
-- Food / smokes / equipment might disappear
-- This is Dr Webb and he's a little out of his mind p19
-- Dr Webb doesn't allow himself to be seen more than a shadow until Act 2
-
 ### Cuddles The Starfish
 
 - Looks like PCs have found their first survivor
@@ -122,7 +141,7 @@ sidebar: auto
 
 ### Watch The World Burn
 
-- While under escort from the androids or facing off against Cuddles the PCs are ambushed vt Wicks' revenge squad
+- While under escort from the androids or facing off against Cuddles the PCs are ambushed by Wicks' revenge squad
 - Cecil and 6 **Active** Conscripted Convicts
 - They will take the PCs to Wicks' Hideout in Starboard Machine Room on Dech H to meet the prison boss herself
 
@@ -139,6 +158,13 @@ sidebar: auto
 - End of Act 1
 
 ## Optional Events
+
+### Streaker Part 1
+
+- PCs feel like someone is following them, always out of sight
+- Food / smokes / equipment might disappear
+- This is Dr Webb and he's a little out of his mind p19
+- Dr Webb doesn't allow himself to be seen more than a shadow until Act 2
 
 ## Characters
 
@@ -207,3 +233,19 @@ sidebar: auto
 ### Corrections Androids p24
 
 ### Conscripted Convicts p24
+
+## Equipment
+
+- Characters personal gear
+- Cetorhina has
+  - 4 P-5000 Power Loaders
+  - 4 Spacesub ASSO-400 Harpoon grappling guns
+  - 200m of line
+  - 3 Watatsumi DV-303 Bolt Guns (4 shots each)
+  - 4 electrical tool kits
+  - 4 medkits
+  - 3 maintenace jacks
+  - 3 cutting torches (D3 power each)
+  - 8 rebreather masks (D3 air each)
+  - 6 Rexim Pistols (one reload each)
+  - 6 Survival Suits (6 air each)
