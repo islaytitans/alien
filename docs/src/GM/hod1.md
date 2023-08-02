@@ -171,61 +171,81 @@ sidebar: auto
 ### Grey
 
 > Service Android
+
 > Docile
+
 > Wants to serve humankind
 
 ### Web
 
 > Science / Medical officer
+
 > Cranky
+
 > Wants to get his memory back, help the others complete the virus, find some pants
 
 ### Adrien
 
 > Cat
+
 > Glutinous
+
 > Wants to have company, sit on shoulders
 
 ### Hobbs
 
 > Cook
+
 > Crude
+
 > Wants to murder monsters and steal the cat's affects from Crash
 
 ### Stykes
 
 > Warden of Erebos Station
+
 > Narcissist
+
 > Want to keep Wicks under his thumb, take back the station
 
 ### Crash
 
 > Corrections Android
+
 > Curious
+
 > Wants to return the prisoners to their cells; ensure the safety of civilians and staff aboard. Feed the cat.
 
 ### Wicks
 
 > Prisoner - Gang Leader
+
 > Psychotic
+
 > Wants to destroy any means of escape. Finish what she started - burn all of Erebos - and shove Stykes head first into the black hole
 
 ### Brut 'Cecil' Amor
 
 > Prisoner
+
 > Demure
+
 > Wants to see how Wick's revenge will turn out
 
 ### Tommy
 
 > Prisoner
+
 > Cocky
+
 > Wants to escape. There's $100m W-Y dollars waiting for him in a storage bayt on Anchorpoinbt - $10m for anyone that gets him out of here
 
 ### Pfluger
 
 > UPP Commando
+
 > Annoyed
+
 > Retrieve Ironfish data p11. Extract anyone she deems useful to the UPP
 
 ## Enemies
