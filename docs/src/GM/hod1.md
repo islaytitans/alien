@@ -48,9 +48,38 @@ sidebar: auto
 - Resulting crash Cetorhina will become entwined into Erebos and slowly be invaded by the Living Proto-Hive
 - No evidence of the Living Hive aboard Erebos itself, it's dark - it's all behind the walls
 - Give Story Card 'The Tell-tale heart' too PC with highest empathy
-- Time for them to explore, complete their agendas, repair the ship
+- [Time for them to explore, complete their agendas, repair the ship](#assess-the-cetorhina)
 
-TODO p18
+### Assess the Cetorhina
+
+- The meteorides are actually Living Proto-Hive Nodes that are now embedding themselves in the hull
+  - They will root their way through the deck an into the systems and eventually FTL drive
+- Repairs to the ship wull reveal living tendrills beginning to grow threoughout it - melding it with Erebos
+- Since Cetorhina is mangled and locked into Erebos superstructure PCs don't have what they need to free the shiup
+  - Grey will stay with the ship to do repairs if not a PC
+- Agendas should encourage the PCs to exploree the station / find out what happened
+
+#### Power Cells
+
+- The crash drained the batteries causing them to corrode
+- Replacement energy cells 1m tall barrels with harness Straps **Weight 3** can be found in Terminal 01 and the Lower Tower
+- The Pcs can repair them **Heavy Machinery** and fire up the plasma distillery on Trawling Arm 01 to recharge them p40, p44, p41
+- Ship will need 3 cells for engine ignition and take **1 Turn** to reisntall cell on the ship
+
+#### Truster Compression Coil
+
+- Thrusters won't work without it
+- PCs will need to remove a working Compression Cell fgrom one of the stations external thrusters located
+  - near the Visitor Docking Port on Deck D p34
+  - the comms Tower on Deck H p44
+  - Boiler room on Dec j p46
+- Takes **1 Turn** to remove or install compression coil
+
+#### Cutting Tools
+
+- Cumbersome power tools **Weight 3** and/or EVA Pods are needed to cut the Cetorhina free from the superstructure
+- Tools can be found in the Machine Room and Plasma Relay Stations p41
+- EVA Pods are equiped with similar tool arms that can do the job in half the time. They're located throughout the station
 
 ### The Gift
 
@@ -110,3 +139,71 @@ TODO p18
 - End of Act 1
 
 ## Optional Events
+
+## Characters
+
+### Grey
+
+> Service Android
+> Docile
+> Wants to serve humankind
+
+### Web
+
+> Science / Medical officer
+> Cranky
+> Wants to get his memory back, help the others complete the virus, find some pants
+
+### Adrien
+
+> Cat
+> Glutinous
+> Wants to have company, sit on shoulders
+
+### Hobbs
+
+> Cook
+> Crude
+> Wants to murder monsters and steal the cat's affects from Crash
+
+### Stykes
+
+> Warden of Erebos Station
+> Narcissist
+> Want to keep Wicks under his thumb, take back the station
+
+### Crash
+
+> Corrections Android
+> Curious
+> Wants to return the prisoners to their cells; ensure the safety of civilians and staff aboard. Feed the cat.
+
+### Wicks
+
+> Prisoner - Gang Leader
+> Psychotic
+> Wants to destroy any means of escape. Finish what she started - burn all of Erebos - and shove Stykes head first into the black hole
+
+### Brut 'Cecil' Amor
+
+> Prisoner
+> Demure
+> Wants to see how Wick's revenge will turn out
+
+### Tommy
+
+> Prisoner
+> Cocky
+> Wants to escape. There's $100m W-Y dollars waiting for him in a storage bayt on Anchorpoinbt - $10m for anyone that gets him out of here
+
+### Pfluger
+
+> UPP Commando
+> Annoyed
+> Retrieve Ironfish data p11. Extract anyone she deems useful to the UPP
+
+## Enemies
+
+### Corrections Androids p24
+
+### Conscripted Convicts p24
