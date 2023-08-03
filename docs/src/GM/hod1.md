@@ -15,6 +15,16 @@ sidebar: auto
 - Give agenda cards
 - [Start on Cetorhina](#opening)
 
+### NDD
+
+- Neurological Distortion Disorder caused by poor sheilding from immense electro-magnetic fluctuations dangerous to humans psyche
+- Rule: Roll on table roughly 1 per shift on table on p8
+  - +1 one to each roll from there
+  - if suffers an effect 6 or higher - hand them corresponding Story Card
+- There are anti NDD drugs found on Deck C Medlab
+  - 5 does of Chil-X to reduce their bonus roll by 1
+  - 2 does of NeuroTick that removes one NDD effect
+
 ## Erebos
 
 - All lights are out, unidentified clanging noises echo, the reactor hums sporadically, station's hull groans as marchinery shifts and is replaced with Living Proto-Hive behind the walls for Act 1
@@ -59,6 +69,134 @@ sidebar: auto
 - 10m tall tower exposed to space only means to get between observatory to the rest of Erebos
 - Someone has been using the Observatory Airlock as a bathroom
 
+## Deck E - Residence
+
+- A meteoride smashed through this crew quarter deck, demonlishing it.
+- The Chute airlock is functional
+- Rooms are flooded with **Extreme** Radiation and are exposed to space
+- There is nothing here but death on this deck
+
+## Deck F and G Causeways
+
+- Read
+  - "Gravity fluctuates from the black hole buffet the passageway, causing it to sway and creak ever so slightly.
+  - "As you move down the corridor, the light ahead begins to flicker.
+  - Pause, and when the players begin to talk, pick up and drop the core rulebook on the table hard
+  - "WHAM! Something has hit the top of the causeway in front of you.
+  - "A thick shadow squeaks across the transparent wall. Then there is nothing **+1 Stress level**
+- It's a Protomorph Trilobite p66, if PCs don't pursue it, it will ignore them. If they insist however...
+
+## Deck F - Corrections Modules
+
+- These modules have suffered lots of fire damage
+- First first time visiting F or G go read [the Causeways text](#deck-f-and-g-causeways)
+
+### Causeway 01
+
+- Zero-G external passageway along this deck
+- **Weak Radiation** and offers an overwhelming view of the black hole **+1 Stress level**
+- Emergency Stations
+  - Contains 4 ECO2 EVA Suits, 2 Harpoon Guins, 2 spools of 100m line
+
+### Plasma Vent
+
+- Controlled from Control on Deck B or Boiler Room on Deck J requiring a **Comtech**
+- Doing so will flood Decks D through J with plasma **Intensity 12** fire
+- The fire will spread one deck per Turn via the Chute and burn until Airlocks are open on each burning Deck to cut off airsupply
+
+### Cell Blocks
+
+- 6 **Passive Corrections Androids** are throw 2 screaming **Conscripted Convicts** they''ve rounded up into fire-choked cells **Intensity 12**
+- Several charred corposes already lie behind bars here
+
+### Inmate Informary
+
+- These areas are flooded with **Strong** radiation and **Intensity 12** Fire
+- Decon, Airlock 06, and Bat 002 - the fire here can be snuffed out by opening the bay
+  - Two charred EVA pods in Bay 002 can be reapired with a **Heavy Machinery**
+
+### Corrections Office
+
+- This is the [Warden Stykes's](#stykes) base
+- Protected by 4 **Passive Connrections Androids** lead by a Davis android model called [Crash](#crash) who is personable and reasonable unlike other androids
+- Bullpen
+  - Desks face a central transparent wall with a blueprint of the station on it
+  - Monitors show all areas of the stations
+- Detention
+  - Cells converted into quarters for Stykes and Hobbs - the last surviving human staffers of Erebos
+- Stykes
+  - He will tell the Pcs how Erebos got like this
+  - He's more interested in tracking Wick's gang than the bizzare things happening here
+  - He will try to get the PCs to help retake the station but can be convinced to leave
+- Galley
+  - [Hobb's](#hobbs) cooking kingdom and will happily cook for the PCs
+- Security Armory
+  - Contains kevlar vests, tear gas grenades, stun battons
+  - ES-4 and ES-7 weaponry
+- Bay 001
+  - Two EVa Pods on standby in this mini hanger
+- Decon, airlock 05
+  - Sterilization room
+  - 1 Turn spoent here during decontamination process means
+    - the PCs are clear of Hessdalen Lights - curing them of Stage 1 Abomination sickness
+    - their NDD roll nous halves
+
+## Deck G - Main Consource
+
+- Living Proto-Hice Modes spread throughout this Deck (location is Dealer's Choice), and the Heart of Darkness itself
+- First first time visiting F or G go read [the Causeways text](#deck-f-and-g-causeways)
+
+### Causeway 02
+
+- External tunnel of cross beams and transparant walls s the only way to access the Comms Tower without taking an unprotected space way
+- **Weak Radiation** and offers an overwhelming view of the black hole **+1 Stress level**
+
+### Assembly Hall, Security Muster Point
+
+- Area are flooded with **Strong** radiation and overgrown with Living Proto-Hive
+
+### Joes
+
+- Storage / repair bays for 12 **Corrections officers Androids**
+- PCs an activate them but 3 have been overwritten by the Living Proto-Hive and will hunt all humans
+
+### Bulk Storage
+
+- Rooms under the Security Office are empty PCs can move through here to get to Terminal 01
+- Rooms under the Infirmary are burnt out
+
+### Starboard emergency cryosleep
+
+- 12 max security crypotubes for isolating particularly naster convits
+- All are dead after Stykes cut the power to them weeks ago
+
+### Terminal 01
+
+- large areas for recieving ships internally and via umbilical.
+- Each terminal has pressure doors allowing a ship to enter / leave vertically
+- Terminal 01 houses the "meteor" recovered from the plasma flow
+- Junction G5
+  - Corridor is patrolled by 2 **Corrections Officers Androids**
+- Docking Port 01, Starboard hangar deck
+  - Artifical gravity failed here with 18 floating dead Convicts each with ther neck snapped
+  - 3 EVA Pods and several drum-sized drained batteries also float here
+  - A **Passive Protomorph Deacon** is getting ready to birth from one of the bodies **+1 Stress level**
+- The Heart
+  - At end of the deck under massive dorsal pressure doors is a large, crusted mass with biomechanical tendrils rooting it to the deck
+  - The pulsing thing is so big it barely fits the bay
+  - This is the Cheiron (p47)
+  - If a PC has Story Card The Tell-Tale Heart or Commune with Darkness (or both) see the Cheiron give them Story Card The Heart of the Matter
+- Cargo Bay 01
+  - Drum sized barries (3 weight each) are charged and compatiable with the Cetorhina
+
+### Terminal 02
+
+- Area consumed by **Intensity 12 Fire** and Strong Radiation
+
+### Dustin
+
+- rare elements luke yttrium, lanthanum, neodymium are stored from the Fluxgate and stored here
+
 ## Mandatory Events
 
 ### Opening
@@ -69,7 +207,8 @@ sidebar: auto
 - PCs can orbit the station, spacewalk to it or extend an umbilical to one of the docking ports
 - But disaster strikes! Alarm goes off - black hole gravitational pull has momentarily jumped causing storm of meteoroid strikes pummelling the hip and station
 - Erebos thrusters stabilise (important for later) her but Cetorhina is caught in gravity shear
-- Harvester lurches towards the black hole, knocking out NPC pilot - PCs require **PILOTING** regardless they crash into Erebos. If successful can chose 1 of 3 locations p16.
+- Harvester lurches towards the black hole, knocking out NPC pilot - PCs require **PILOTING** regardless they crash into Erebos.
+  - If successful can chose 1 of 3 locations p16.
   - Random if fail and take 2 points of damage from violent crash
 - Resulting crash Cetorhina will become entwined into Erebos and slowly be invaded by the Living Proto-Hive
 - No evidence of the Living Hive aboard Erebos itself, it's dark - it's all behind the walls
@@ -269,3 +408,5 @@ sidebar: auto
   - 8 rebreather masks (D3 air each)
   - 6 Rexim Pistols (one reload each)
   - 6 Survival Suits (6 air each)
+
+## Terminal notes p29
