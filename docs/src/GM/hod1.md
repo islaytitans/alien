@@ -62,12 +62,30 @@ sidebar: auto
   - Transations read "Humankind must be obliterated" and "Do not allow perfection" one in German says "Border Bombers?" p28 Clerke's Clues
 - Sensor Terminal
   - Multi-screen terminal recording gravitational waves.
-  - Also relayes encrypted audio transmissions drawn to the black hole sending tha data to MUTHUR on Deck C, can only be listened to at her interface terminal
+  - Also relays encrypted audio transmissions drawn to the black hole sending tha data to MUTHUR on Deck C, can only be listened to at her interface terminal
 
 ### Lattice Corridor, Personnel Airlock 00
 
 - 10m tall tower exposed to space only means to get between observatory to the rest of Erebos
 - Someone has been using the Observatory Airlock as a bathroom
+
+## Deck B - Operations Centre
+
+- No indication of the Living Proto-Hive on this deck
+- Red emergency lighting classes with the blue light from the monitor screens
+- [1 **Fulfremmen** haunts this deck looking for humans to observe](#perfect-aly)
+
+### Operations
+
+### Perfect Aly
+
+### The Track, Personnel Airlocks 02 and 03
+
+### Observation Deck
+
+### Armory 01, Muster Point
+
+### Rec Room, Standby Crew Bunks
 
 ## Deck E - Residence
 
@@ -107,7 +125,7 @@ sidebar: auto
 ### Cell Blocks
 
 - 6 **Passive Corrections Androids** are throw 2 screaming **Conscripted Convicts** they''ve rounded up into fire-choked cells **Intensity 12**
-- Several charred corposes already lie behind bars here
+- Several charred corpses already lie behind bars here
 
 ### Inmate Informary
 
@@ -410,3 +428,6 @@ sidebar: auto
   - 6 Survival Suits (6 air each)
 
 ## Terminal notes p29
+
+- Terminal will also show power is being diverted to the Starboard hanger on Deck G
+  -- D
