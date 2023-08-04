@@ -192,7 +192,34 @@ sidebar: auto
   - If PCs linger here **Passive Fulfremmen** is birthed from a cocoon
   - It won't attacked unless provoked - instead it will simply stare out of curiously
 
-## Deck D
+## Deck D - Reception and Sciences
+
+### Astrophsyics Lab
+
+- Holotab
+  - Holotab projects a 3D mapping imaeg of the stars 26A and B, the blackhole, the plasma jets - and if PCs look closer - Asteroid 1113B
+
+### Visitor Docking Port, VIP Bay, Parts Storage
+
+- Empty except for EVA Pod
+- Holds some parts PCs need to fix the Cetorhina
+
+### EVA Suit Storage
+
+- 4 ECO2 suits
+- Dried blood splattered across the airlock door - legs and torso of a former station staffer lie sprawled
+
+### Personnel Airlock 04
+
+- **Active Protomorph Deacon** Seethes on the otherside
+- If vented into space will try to find a way back in
+
+### Engineer's Office
+
+- Room is ransacked
+- Post-it note ona broken monitor says 'OVERRIDE' plus 6 sets of numbers
+  - Their function only becomes clear after they are input see p35
+  - These codes supersede station settings and can be implemented from any hardwired terminal or remotely via **Comtech**
 
 ## Deck E - Residence
 
@@ -200,16 +227,6 @@ sidebar: auto
 - The Chute airlock is functional
 - Rooms are flooded with **Extreme** Radiation and are exposed to space
 - There is nothing here but death on this deck
-
-## Deck F and G Causeways
-
-- Read
-  - "Gravity fluctuates from the black hole buffet the passageway, causing it to sway and creak ever so slightly.
-  - "As you move down the corridor, the light ahead begins to flicker.
-  - Pause, and when the players begin to talk, pick up and drop the core rulebook on the table hard
-  - "WHAM! Something has hit the top of the causeway in front of you.
-  - "A thick shadow squeaks across the transparent wall. Then there is nothing **+1 Stress level**
-- It's a Protomorph Trilobite p66, if PCs don't pursue it, it will ignore them. If they insist however...
 
 ## Deck F - Corrections Modules
 
@@ -448,6 +465,16 @@ sidebar: auto
 - Food / smokes / equipment might disappear
 - This is Dr Webb and he's a little out of his mind p19
 - Dr Webb doesn't allow himself to be seen more than a shadow until Act 2
+
+### Deck F and G Causeways
+
+- Read
+  - "Gravity fluctuates from the black hole buffet the passageway, causing it to sway and creak ever so slightly.
+  - "As you move down the corridor, the light ahead begins to flicker.
+  - Pause, and when the players begin to talk, pick up and drop the core rulebook on the table hard
+  - "WHAM! Something has hit the top of the causeway in front of you.
+  - "A thick shadow squeaks across the transparent wall. Then there is nothing **+1 Stress level**
+- It's a Protomorph Trilobite p66, if PCs don't pursue it, it will ignore them. If they insist however...
 
 ## Characters
 
