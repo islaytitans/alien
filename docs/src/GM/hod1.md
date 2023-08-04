@@ -77,6 +77,12 @@ sidebar: auto
 
 ### Operations
 
+- Terminals make chirping noises and running numbers. All functions of the station can be monitored and activated here
+  - thrusters, sensors, comms, plasma-collectors, and more
+  - MURTHER does not respond
+  - [A note from Clerke's can be found here](#terminal-notes-p29)
+-
+
 ### Perfect Aly
 
 ### The Track, Personnel Airlocks 02 and 03
@@ -430,4 +436,15 @@ sidebar: auto
 ## Terminal notes p29
 
 - Terminal will also show power is being diverted to the Starboard hanger on Deck G
-  -- D
+- DAUTUR supercomputers run alongside MUTHUR to process scientific data
+  - DAUTUR secretly being used for covert intelligence project called [Ironfish](#ironfish)
+
+## Ironfish
+
+- Blackops project for spying on the nearby UPP
+- UAAC contracted W-Y to collect the data dissguised as Hawking radiation sensors
+- Through Ironfish the UAAC has learned UPP fleet deployments and its black projects
+- Warden Stykes, Clerke and DAUTUR are only ones aware
+- The Data stored in DAUTUR supercomputers on Deck H and in MUTHUR's mission recorder on Deck C
+- Potential PCs Drabikowski and Navarre are both after the Ironfish data and a UPP Destroyer lurks nearby
+  - Pfluger stands ready to extract Drabikowski and Navarre upon retriueval of the data in Act 2 or Act 3
