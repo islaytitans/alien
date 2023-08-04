@@ -120,6 +120,8 @@ sidebar: auto
 
 ## Deck C - Health and Wellness Center
 
+## Deck D
+
 ## Deck E - Residence
 
 - A meteoride smashed through this crew quarter deck, demonlishing it.
@@ -247,6 +249,12 @@ sidebar: auto
 ### Dustin
 
 - rare elements luke yttrium, lanthanum, neodymium are stored from the Fluxgate and stored here
+
+## Deck H
+
+## Deck I
+
+## Deck J
 
 ## Mandatory Events
 
