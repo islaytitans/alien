@@ -268,7 +268,7 @@ sidebar: auto
   - Cells converted into quarters for Stykes and Hobbs - the last surviving human staffers of Erebos
 - Stykes
   - He will tell the Pcs how Erebos got like this
-  - He's more interested in tracking Wick's gang than the bizzare things happening here
+  - He's more interested in `tracking Wick's gang than the bizzare things happening here
   - He will try to get the PCs to help retake the station but can be convinced to leave
 - Galley
   - [Hobb's](#hobbs) cooking kingdom and will happily cook for the PCs
@@ -339,7 +339,111 @@ sidebar: auto
 
 - rare elements luke yttrium, lanthanum, neodymium are stored from the Fluxgate and stored here
 
-## Deck H
+## Deck H - Factory Complex
+
+- This deck is dank, cavernous, rusty, and industrial Most of this deck holds refinement machinery
+- From the Crash portside has **Intensity 12 Fire**
+
+### Central Hub
+
+- Containment core of plasma energy, filtered and charger to feed the reactors
+- Hub is cracked from the crash
+- **12 Intensity Fire** is pouring out of here to consume port side of DEcks F, G, H
+
+### Reactor Rods
+
+- PCs can attempt to overload reactor from any of these 4 control rods or the Boiler Room on Deck J **Comtect**
+  - DAUTUR will start a 10 min countdown over the PA
+  - After 10 mins nothing will happen - Hessdalen Lights will regulate the pressure and prevent it exploding
+
+### Port workshops, machine room, plasma relay, and capacitors
+
+- Area flooded with **Intensity 9 Fire**
+
+### Port and Starboard Smelting Control Stations
+
+- Built to withstand head and are safe from fires
+- An old matress lies on the floor and empty food trays [Dr. Webb](#webb) lives here
+
+### Starboard Workshops
+
+- Using the equipment for any **HEavy Machinery** rolls adds +3
+
+### Starboard Plasma Relay Stations
+
+- Monitor and controls the Trawling Arms
+- Cutting Tools (weight 3) to fix Cetorhina can be found here
+
+### Starboard Machine Room
+
+- [Wicks](#wicks) and her gang of 16 Convits have made their base here
+  - 6 on patrol with [Cecil](#brut-cecil-amor)
+- It's covered in candles
+- PCs will be surrounded by 4 - 6 **Active Conscripted Convicts** who will attempt to imprison them
+- Wicks' Hideout
+  - When Wicks realise they aren't crew, [she'll explain whats going on from her point of view p11](#what-the-hell-is-really-going-on)
+  - Wicks goes on to blame Stykes of bring the 'meteor' onboard the station
+  - She'll demand the PCs help by taking Stykes hostage at the Security Office on Deck F and force him to deactivate the androids
+  - Wicks intends to take over the Operations Center on Deck be or the Boiler Room on Deck F to burn the station and steer Erebos head first into the black hole
+  - She'll pretend to help the PCs fix their ship, she indends to destroy their FTL
+  - The Perfected can't be allowed to leave!
+
+### Starboard Capacitors
+
+- Cetorhina's batteries can be recharged here by laying down hundreds of meters worth of cables from here directly to the ship 1 Shift **Heavy Machinery**
+
+### Waste Bin
+
+- Toxic corrosive gas collected here
+- Toxic Corrosive Gas
+  - Anyone without pressure suit suffers an attack with 5 dice at start of every Round - 1 damage
+  - If Borken - make a Death Roll every turn
+  - Living Proto-Hive will wilt and die, prompting the Perfected to regroup in Hydroponics on Deck C
+- Valve Room
+  - Controls can be used to purge gas into space
+  - Explosives or 2 Turns of **HEavy Machinery** will open seals to flood Deck F and J
+
+### Trawling Arm 01
+
+- Arm takes in stella plasma to be processed into battery power
+- Can be controlled from Control on Deck A, Boiler Room on Deck J, any Plasma Relay Station on Deck H
+- Maw 01 Plasma Collector
+  - When active station descends into a plasma flow - the maw absorbs the energy into the Distillery
+- Distillery Tanks and The Plank
+  - Massive tanks process plasma
+  - On top is the "Plank" personnel catwalk where a **Passive Protomorph Deacon**
+
+### Trawling Arm 02
+
+- Identifical to 01 but **Strong Radiation**
+- Eventually fire here will rage out of control, exploding, destroying the Trawling Arm 02 and triggering the Finale (p59)
+
+### The Boom
+
+- Arm that break apart asteroids top get the metal
+- Crushers
+  - Upon arrival are powered down
+  - **Active Conscripted Convict** named Bobbie will power them up to crush the PCs **Mobility**
+- Fluxgate
+  - Energy from asteroids are fed through here and metals are put into the Dustbin
+
+### Comms Tower
+
+- Listening sensors
+- DAUTUR supercomputers are here for [Project Ironfish](#ironfish)
+- DAUTUR terminals require passcode or **Comtech**
+- **Strong Radiation** here
+- Access Tubs
+  - Only accessible space here is through 2 vertial Zero-G tubes of the DAUTUR supercomputer with blinking yellow lights
+  - Sheidled from radiation
+- DAUTUR 01
+  - Supercomputer decrypting files on the Network about a ship called Cronus
+  - Will complete within 1 Shift of PCs access it - once decrypted all info on the Cronus is accessible to the PCs
+- DAUTUR 02
+  - Clerke networked DAUTUR 02 to all termins on Erebos for processing power
+  - 02 is running an algorithm on the chirping black hole transmissions if access it spits out a large string of numbers
+  - Examining them wil be a set of coordinates of a location in known space
+  - If asked DUATUR or The Perfected they will say its their space
 
 ## Deck I
 
@@ -599,3 +703,12 @@ sidebar: auto
 ## Weaponizing The Virus
 
 - p34
+
+## What the hell is really going on
+
+- p10
+- Stykes and Wicks have a long history - brought her with him here to keep an eye on her
+- After her shuttle was hit by a meteor Wicks was stuck for 8 hours before being rescued
+- She then blew up a plasma tank and set fire to the station
+- Stykes vented the airlocks to put out fires
+- Stykes claims Wicks killed the entire crew of 67. Wicks blames Stykes for the deaths when he vented
