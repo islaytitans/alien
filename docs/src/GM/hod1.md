@@ -81,17 +81,44 @@ sidebar: auto
   - thrusters, sensors, comms, plasma-collectors, and more
   - MURTHER does not respond
   - [A note from Clerke's can be found here](#terminal-notes-p29)
--
-
-### Perfect Aly
+- Station Logs
+  - Records log the discovery of the Hessdalen Lights and the large organic object from the plasma stream
+  - After that they started havinbg power failures and accidents
+- Damage Control
+  - Shows a blue hologram of the station with flashing yellow-green sections
+  - The Cetorhina crash cracked the central hub and started a plasma fire that's on the port side of Deck F, G and H
+- Personal transmitters
+  - **Comtech** roll will show locations of crew and workers throughout the station
+  - Clerke is with MUTHUR on Deck C
+  - Stykes in Security Office on Deck F
+  - Webb is wandering Deck H
+  - Large concentration of crew in
+    - 16 in Hydrophonics on Deck C
+      - (they're being perfected)
+    - 24 in the Starboard hanger Deck on Deck G
+    - 21 in the Cellblock on Deck F
+      - (they're dead)
+    - 20 in the Lifeboat bay on Deck I
+      - (they're incubating Deacons)
 
 ### The Track, Personnel Airlocks 02 and 03
 
+- Ringed corridor looping Operations containing airlocks and 2 Compression suits each
+
 ### Observation Deck
+
+- Large viewport to space with a large 3m crack in it
+- Any weapons fire will cause the glass to splinter and then 3 Rounds to shore up the window **Heavy Machinery** or evacuate
 
 ### Armory 01, Muster Point
 
+- Strip clean - nothing here
+
 ### Rec Room, Standby Crew Bunks
+
+- Bunks are bare, but has coffee and donuts
+
+## Deck C - Health and Wellness Center
 
 ## Deck E - Residence
 
@@ -302,12 +329,6 @@ sidebar: auto
 - On the way they've be [ambushed](#watch-the-world-burn)
 - The PCs can then learn anything I want them to know about how the station got to this point from the Survivors
 
-### Watch The World Burn
-
-- While under escort from the androids or facing off against Cuddles the PCs are ambushed by Wicks' revenge squad
-- Cecil and 6 **Active** Conscripted Convicts
-- They will take the PCs to Wicks' Hideout in Starboard Machine Room on Dech H to meet the prison boss herself
-
 ### The Howl
 
 - A shriek echoes throughout the station, subsiding in the distance **+1 Stress Level**
@@ -321,6 +342,25 @@ sidebar: auto
 - End of Act 1
 
 ## Optional Events
+
+### Watch The World Burn
+
+- While under escort from the androids or facing off against Cuddles the PCs are ambushed by Wicks' revenge squad
+- Cecil and 6 **Active** Conscripted Convicts
+- They will take the PCs to Wicks' Hideout in Starboard Machine Room on Dech H to meet the prison boss herself
+
+### Perfect Aly
+
+- **Passive** Fulfremmen wanders Deck B looking with an alien fascination
+- This the perfected version of Cronus Chief Technician Aly Lugar. Perfect Aly is curious of the PCs and will not attack unless attacked first
+- Aly has grown too alien to grasp human emtions and bonds can confuse it, but may be convinced to help them escape
+  - Aly is the great aunt of Cetorhina's Captain Lugar
+  - If Captain Lugar is with them, Aly will be drawn to his monogrammed maintenance jack, as it used to be hers
+  - **Observation** PCS will believe this creature has something to do with their Aunt
+- Aly observes the PCs before entering an airlock abd blowing itself out into space
+  - If PCs watch they will see that these beings can survive in vacuum and radiation
+  - Aly will make its weay cross the hull to Terminal 01 on Deck G, enter the airlock there and go into the Heart of Darkness
+- Aly will find the PCs again later, intervening if they get in over their heads
 
 ### Streaker Part 1
 
