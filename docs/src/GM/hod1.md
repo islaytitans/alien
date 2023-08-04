@@ -91,7 +91,7 @@ sidebar: auto
   - **Comtech** roll will show locations of crew and workers throughout the station
   - Clerke is with MUTHUR on Deck C
   - Stykes in Security Office on Deck F
-  - Webb is wandering Deck H
+  - [Webb the streaker](#streaker-part-1) is wandering Deck H
   - Large concentration of crew in
     - 16 in Hydrophonics on Deck C
       - (they're being perfected)
@@ -119,6 +119,78 @@ sidebar: auto
 - Bunks are bare, but has coffee and donuts
 
 ## Deck C - Health and Wellness Center
+
+- Contains large hydroponics garden but now over-grown with Living Proto-Hive
+
+### MUTHUR
+
+- Mainframe is dark and full of smoke - **-2 Observation**
+- Access terminal sites on a balcony over a coolant put
+- A charred black body is melted into the chair - Clerke - only identifiable by its partially melted ID card
+  - He was mid-transformation into an Abomination when he was torched (it was Stykes) **+1 Stress level**
+- Coolant Pit
+  - To reactivate MUTHUR the circuit breaker behind a locked panel at the bottom of the server coolant put must be flipped
+    - Someone must dive into the 4 degreee Celsius coolant and flip it **Heavy Machinery** taking 3 rounds
+    - Freezing p107 and Drowning p110
+  - MUTHUR will come back online and tell PCs anything they want to know
+- Mission Recorder
+  - MUTHUR has separate drive for [Project Ironfish](#ironfish)
+  - That drive also holds data to confirm tht the Cronus disappeared here 73 years ago and that the @meteor@ board aboard is the science boat the Cheiron
+  - **Observation -2** will reveal that the recorder is accessible through a panel beneath the terminal seat but will need to move the scorched corpse **+1 Stress level**
+
+### Life Support
+
+- Undamaged - two incubators and medical supplies. [Dr Webb is not here](#webb)
+
+### Medlab
+
+- Jar of Fireflies
+  - Horizontal transparent cylinder full of plasma energy dominates the room
+  - A lazer is refracted through it illuminating thousands of tiny phosphorus lifeforms - Hessdalen Lights
+  - Increase the radiuation levels to cause them to multiply
+  - Increase a second time will cause them to go dormant - food comma
+    - The same can be done with the Living Hive to buy the PCs time
+- Autodocs
+  - Two diagnostic machines p136
+- The Disk
+  - Disk containing Webb's research is on the counter - they were almost reproducing the 26 Draconis Strain
+  - They need to analyze a live Proto-Xenomorph to finish it see Catch of the Day Act 2 Event
+  - They were also close to finding a virus that will [kill the Living Proto-Hive](#weaponizing-the-virus)
+- Medical Log
+  - Webb's log can provide info relating to Clerke's Clues p28
+  - Also notes that the biomedchanoid beings (the perfected) appear to be blind to creatures in hypersleep
+- Experiments
+  - Several dead cell culture dishes are scattered around
+  - Some are Clerke's and Webb's necrotic virus and the others are partial successes reproducing 26 Draconis Strain p28
+- NDD Meds
+  - 5 doeses of Chil-X
+  - 2 doeses of NeuroTic
+
+### Warden Quarters, emergency cryosleep pods
+
+- Destroyed by a meteor strike but overgrown by tendrils of Living Proto-Hive
+- 3 of 6 cryosleep tubes can be salvaged with 1 Turn and **Heavy Machinery**
+
+### Recovery Room
+
+- Untouched room with beds
+
+### Hydroponics
+
+- Front wall of this 12m high steamy room is all viewport but fogged up
+- Plants have overgrown and mutated into a slimy black-resin jungle
+- Its a nesting ground for cocoons - Abominations that are undergoing metamorphosis into the Fulfremmen
+- Viewport
+  - Scaffolding on clouded viewport can be climbed
+  - If shot (Armor Rating 3) Explosive Decommpression p107
+- Vent to life support
+  - Vent to life support is here
+- Swaddling
+  - **Passive Mutant Abomination** p69 climbs the Chute entering the garden
+  - The Mutant vomits a black liquid, lays in it, and begins sticking back vegetation to its body -cocooning itself
+- Just Perfect
+  - If PCs linger here **Passive Fulfremmen** is birthed from a cocoon
+  - It won't attacked unless provoked - instead it will simply stare out of curiously
 
 ## Deck D
 
@@ -162,7 +234,7 @@ sidebar: auto
 - 6 **Passive Corrections Androids** are throw 2 screaming **Conscripted Convicts** they''ve rounded up into fire-choked cells **Intensity 12**
 - Several charred corpses already lie behind bars here
 
-### Inmate Informary
+### Inmate Infirmry
 
 - These areas are flooded with **Strong** radiation and **Intensity 12** Fire
 - Decon, Airlock 06, and Bat 002 - the fire here can be snuffed out by opening the bay
@@ -387,7 +459,7 @@ sidebar: auto
 
 > Wants to serve humankind
 
-### Web
+### Webb
 
 > Science / Medical officer
 
@@ -496,3 +568,7 @@ sidebar: auto
 - The Data stored in DAUTUR supercomputers on Deck H and in MUTHUR's mission recorder on Deck C
 - Potential PCs Drabikowski and Navarre are both after the Ironfish data and a UPP Destroyer lurks nearby
   - Pfluger stands ready to extract Drabikowski and Navarre upon retriueval of the data in Act 2 or Act 3
+
+## Weaponizing The Virus
+
+- p34
