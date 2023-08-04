@@ -35,7 +35,7 @@ sidebar: auto
 - Plasma - Port side of Deck F, G, H are ablaze with **Intensity 12** plasma fire. Venting these areas **Heavy Machinery / Comtech** will put out fires.
 - Evolution - Erebose becomes less machine and more monster through Acts.
 
-## Erebos post Act 1
+### Erebos post Act 1
 
 - After Act 1 Erebos will slowly change apperance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
 - The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
