@@ -524,15 +524,68 @@ sidebar: auto
 
 ### Conference Hall (Atria Chamber)
 
+- Large open room that vibrates and skittering sounds echo
+- Acid Pocket Pustules
+  - Angry red meter-wide growths blemish the walls and floors
+  - If in combat requires **MOBILITY** to avoid otherwise Acid Splash 6
+- Open Office
+  - Area clustered with 6 danging burst Utero Pods
+- Open Galley
+  - Seaching will find a .375 Magnum pistol with 6 rounds left it requires **STAMINA** to break it free from resin
+
 ### Corridors (Vascular Tunnels)
+
+- Former coridors 2-3 meters high tubes made of pulsating biomechanical resin
+- Initial Greetings
+  - First time PCs enter a corridor after being in Conference hall, **3 ACITIVE SQUID BABIES** (p65) will attack them
+- Autoimmune Trap
+  - After visiting a few rooms the tunnel they are in contracts and collapses into a chasm 4 meters wide
+  - **MOBILITY** require to go around slippery edge failure leads to falling damage 2 countered by **MOBILITY**
+  - If PCs are slow a Deacon will come investigate
 
 ### Medpod 1 (Lotus Chamber)
 
-### Astrophysics Lab (Unstabvle ventricle)
+- Splits off from Airblock B and mostly overgrown
+- Dark fleshy parts are arranged like a flower with a MedPod at the centre
+- **HEAVY MACHINARY** brings the MedPod back online and used to heal any PC
+  - When performing any operation, roll Stress Die, on 1 MedPod breaks inflicting new critical injury
+- Any drugs or med kits needed can be found here
 
-### Decon Chamber(Venulae)
+### Astrophysics Lab (Unstabule ventricle)
 
-### Cryosleep (Null Pokcet)
+- Fleshy chamber breathes requiring **MOBILITY** to keep footing
+  - Failure means being stuck beetween contracting muscles taking attack roll 6 Base Dice
+  - On 1 the coridor behind them closes tight
+- Examining the room will reveal former ventral hatch that can be opened with **HEAVY MACHINERY** to leave the Cheiron
+
+### Decon Chamber (Venulae)
+
+- **PASSIVE PROTO-XENOMORPH DEACON** (p67) dwells in this darfk, cramped and partially collapsed passsage
+  - If any serious damage done to the Heart it becomes **ACTIVE**
+
+### Cryosleep (Null Pocket)
+
+- It looks as if the Proto-hive forgot to grow here, beside the viens it looks intact
+- Of 8 capsuls that should be here, 1 is missing and 6 are inoperable. 1 is online
+  - Online one contains a perfectly preserved naked man, this is the 3rd officer of the Cronus
+  - His medical chart explains he was the first crew infected with Neomorphic spores that they tested the 26 Draconis Strain on
+  - Scans now show the Strain was active in his blood before he was put asleep
+  - His pulse is in tune with the fusion reaxtor hum and the lights on the station
+- The Pilot - Lavigne
+  - Rivived Lavigne can answer any questions on the Cronus mission, 26 Draconis, the Perfected and how the black hole was formed
+  - He can even suggest the PCs take his blood for analysis
+  - He'll insist that the Perfected aren't all mosters
+    - 72 years ago Chief Technicin Lugar (Lugar's great Aunt) realised she was being "Perfected"
+    - She wrecked the Cheiron's FTL so the Perfected couldn't leave the system, trapping them around the black hole
+    - She then pushed Lavigne into this compartment and sealed it shut, stopping his tranformation and hiding him from the others
+    - The Perfected are blind to those in hypersleep
+    - The fact the Perfected allowed to board the Cheiron and find Lavigne likely means the Perfected want to locate him
+    - Lavigne says the Perfected cannot be allowed to get their hands on the FTL - says if PCs have one they need to trash it asap
+- Too Good To Last
+  - After a few rounds Lavigne will gasp for air and then begins screaming and grasps at the nearest PC
+  - He'll agonizingly disintergrates (**+1 Stress Level** to all present) raining black sticky globs on everything (Virulence 6 to anyone unprotected)
+    - Those who fail will turn into an **Abomination** in 1 shift
+  - If PCs collect and analyze the globulates they discover particles of the original 26 Draconis Strain whichc can help them either kill or bargin with the Perfected
 
 ## Mandatory Events
 
