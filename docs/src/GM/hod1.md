@@ -445,9 +445,34 @@ sidebar: auto
   - Examining them wil be a set of coordinates of a location in known space
   - If asked DUATUR or The Perfected they will say its their space
 
-## Deck I
+## Deck I - Lower Tower "The Sticks"
+
+- Vast lonely areas filled with Plasma Tanks and Battery rechargers flooded with **Weak Radiation**
+  - Cetorhina's battery cells can be recharged here one Turn per Cell
+- No one ever comes down here, hence "The Sticks"
+- 250m high chamber with constant echos
+- Access port at the bottom leads to [boiler-room](#Boiler-Room) on Deck J
+- Thermal Plasma Sinks
+  - 250m high tanks containing plasma energy
+  - Explosives used on one will fill the deck with **Strong Radiation** and plasma **Fire Intensity 12**. If not stopped by airlock will burn through Decks B-J, one deck every 30 mins
+
+### Catwalks
+
+- Bridges 100m up between 4 massive Thermal Plasma sinks
+- Haphazard pile of twenty bodies litter the deck, directly infront of the chute
+- **Two Passive Protomorph Deacons** p67 are laoding Life Boats with Living Proto-Hive Nodules (p63) and dead convicts who are infected with Deacon embryos
+- **Fall Damage 10 Base Dice** mitigated by **Mobility**
+
+### EEV Lifeboat Bays
+
+- Examining the boats will show they're jury-rigged to breakup upon entering a planet's atmosphere
+- Anyone with **Analysis** or **Breakthrough** will realise these are "seed pods" to spread the nodes across the planet (See [The Offer](#the-offer))
 
 ## Deck J
+
+### Boiler Room
+
+## The Cheiron
 
 ## Mandatory Events
 
