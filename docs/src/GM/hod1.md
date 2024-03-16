@@ -484,6 +484,50 @@ sidebar: auto
 
 ## The Cheiron
 
+> The Cheiron, science boat, originally locked in orbit around the black hole for 72 years it is now throbbing within Deck G's Starboard Hanger Deck, it is bearly recongnisable
+
+- More Living Proto-Hive than ship, it's hull absorbs all light, Hull 4, Armour 4
+- It expands and contracts like a beating heart
+- Bioluminescent tendrils and tubes, pulsing with Hessdalen Lights connect the ship to the station via power conduits
+- Has the special properties of the Living Proto-Hive (p62)
+  - Severing any arterial connectors to the station will cause **Acid Splash 14** to those within ENGAGE range
+  - If 4 or more are removed, the station's Living Proto-Hive is cripped and will go into hibernation
+  - 6 or more will kill the station's hive
+- It will survive the death of the station and go dormant for the next opportunity
+- When the PCs approach airlock cycles open inviting them in
+
+### Into the Heart of Darkness
+
+- insides have beecome living and twisted overgrown with grey-blue mottled flesh
+- interior chambers resemble the insides of a living being than a starship
+- Thick but breathable atmosphere at a constant 40 degrees
+- Blood vessels, arterial passes for a deadly maze
+- Some areas are overgrown and inaccessible
+- PCs can access a map from any terminal but show the ship before the change
+- Walls have Armour Rating 4, if peirced deliver Acid Splash of 2
+
+### Internal Organ Rooms
+
+- Computer Core, Navigation, Biolab, REactor Relay, Potable Water Storage, Observation Room, Biochemical Testing Lab, Chem Tanks, Shower/Head
+- These areas are full with strange pulsing organs
+- They can be crippled woth an incinerator or cutting tools (Health 8, Armour 4 (2 vs Fire), Acid Splash 2)
+- If 3 or more are destroyed the Station's Hive will go into a coma and take a few hours to regenerate
+  - Attacking these rooms alerts the **Deacon** hibernating at the DECON Airlock making it
+
+### Main Airlock (Carotid Valve)
+
+### Conference Hall (Atria Chamber)
+
+### Corridors (Vascular Tunnels)
+
+### Medpod 1 (Lotus Chamber)
+
+### Astrophysics Lab (Unstabvle ventricle)
+
+### Decon Chamber(Venulae)
+
+### Cryosleep (Null Pokcet)
+
 ## Mandatory Events
 
 ### Opening
