@@ -451,7 +451,7 @@ sidebar: auto
   - Cetorhina's battery cells can be recharged here one Turn per Cell
 - No one ever comes down here, hence "The Sticks"
 - 250m high chamber with constant echos
-- Access port at the bottom leads to [boiler-room](#Boiler-Room) on Deck J
+- Access port at the bottom leads to [boiler-room](#deck-j---engineering-control-the-boiler-room) on Deck J
 - Thermal Plasma Sinks
   - 250m high tanks containing plasma energy
   - Explosives used on one will fill the deck with **Strong Radiation** and plasma **Fire Intensity 12**. If not stopped by airlock will burn through Decks B-J, one deck every 30 mins
@@ -468,9 +468,19 @@ sidebar: auto
 - Examining the boats will show they're jury-rigged to breakup upon entering a planet's atmosphere
 - Anyone with **Analysis** or **Breakthrough** will realise these are "seed pods" to spread the nodes across the planet (See [The Offer](#the-offer))
 
-## Deck J
+## Deck J - Engineering Control "The Boiler Room"
 
-### Boiler Room
+- Gain access via **COMTECH** or code from a Desk
+- Monitoring station for the entire Station
+  - status
+  - override truster control
+  - set autodestruct, for all the good it'll do [reactor rods on Deck H](#reactor-rods)
+- Diagnostics show power is being diverted to the Starboard Hanger on Deck G
+  - This is to Feed the Heart of Darkess, [the Cheiron](#the-cheiron)
+- External Airlock
+- Power Collection Ceels and External Bay Doors
+  - batteries are charged with plasma and stored in bays with external doors
+  - the same batteries have been charging for weeks so are corroded
 
 ## The Cheiron
 
