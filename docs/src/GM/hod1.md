@@ -516,6 +516,12 @@ sidebar: auto
 
 ### Main Airlock (Carotid Valve)
 
+- Looks like a heart valve closing like an iris
+- Opens every other round to expell gas
+- Polyps inside the chamber are ripe with Living Proto-Hive Spores (p63)
+  - Any failed **Mobility** roll will release a spore blast which can eb blocked by a compression suit
+  - Can be destoryed with incinerator
+
 ### Conference Hall (Atria Chamber)
 
 ### Corridors (Vascular Tunnels)
