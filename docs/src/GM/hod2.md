@@ -623,6 +623,14 @@ sidebar: auto
     - How to make 26 Draconis Strain will give images of rib cage opening and the PCs being drawn into a black beating heart
   - If the PCs want to stop the Perfected a rusting in the dark will reveal **4 Active Deacons** with them. If the PCs back away they are allowed to leave
 
+### Gravitic Shear
+
+- Event should occur a few times as knowledge will help PCs save the station if they choose
+- Station suddenly shudders and PCs feel their stomach drop with **Mobility** to stay on their feet
+- A 'gravity sheer', like one that pulled Cetorhina into the station, has occurred
+- PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
+- A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
+
 ### Streaker Part 2
 
 - PCs feel like someone is following them, always out of sight
@@ -634,7 +642,7 @@ sidebar: auto
 ### Catch of the day
 
 - Wherever the PCs are a computer prompt alerts them on a near screen sent either from MUTHUR or DAUTUR (which ever suits story)
-- The AI has been processing the equation from Webb earlier and has a response - hand out "Serum Analysis"
+- The AI has been processing the equation from Webb earlier and has a response - **hand out "Serum Analysis"**
 - If [Streaker Part 2](#streaker-part-2) has occurred this will jog Dr Webb's memory
   - This can refer to the necrotic virus Clerke and Webb were developing to kill the hive OR reconstruction of the 26 Draconis Strain (which ever suits story)
 - If PCs decide to capturing a Squid-baby, a rock sample container or cat carrier can be found easily
@@ -642,15 +650,27 @@ sidebar: auto
   - **STRENGTH** to restrain it
   - **MEDICAL AID** within the Medlab to extract the cells and the formula will be ready within a Shift
 
-### A Room with a View
-
 ### SOS
 
-### Gravitic Shear
-
-### Quartermaster
+- Nearby terminal flashes red - network transmission recieved and awaiting a reply - \*\*hand out "Network Exchange"
+- Message is from "Weyland" not "Weyland-Yutani" a poor ruse from the nearby UPP destroyer SSV Snova Trakhnu
+- Snova claims the transmission of the data is for securty confirmation - they say the encrypted data will prove the PCs are who they say they are
+- Ironfish data is inaccessible via terminal - it's stored on DAUTHUR supercomputer and backed up to MURTHUR's mission recorder p32
+- If PCs do manage to send the data the Snova will acknowledge reciept, move in, and attempt to nuke the station, see [retaliation](#retaliation)
+- If PCs bargin for it, the UPP wull send an extraction Team, see [Rescue](#rescue)
 
 ### The Perfect Demand
+
+- Shrill noise and imagery explodes inside the Pcs heads
+- A Perfected and **2 Deacons** have cornered the PCs again
+- They are overwhelmed with the Perfected's doubt - they question why the PCs have not delivered them the 26 Draconis Strain, leaving them with a warning to fulfill their obligations
+- The **Deacons** then stalk the PCs from afar
+- If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
+  - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
+
+### Act 2 End
+
+- Read "The Change" p56
 
 ## Optional Events
 
@@ -658,6 +678,42 @@ sidebar: auto
 
 - Proto-Hive tendrils have seeped through the Cetorhina abd destroyed the Oxygen compression units
 - PCs can no longer recharge their suit **Air** supplies n the Cetorhina - they can on Life Support Deck C
+
+### A Room with a View
+
+- Several rooms have been converted by the hive into Protomorph birthing chambers
+- Dank, humid and smelling of rotting flesh
+- Contains **3 Passive fleshy Utero-pods** p65 cling to the ceiling each containing an unripe Squid-Baby
+- Pod will burst and the baby is slow to react with initiative 10
+
+### Quartermaster
+
+- This works best when there is an NPC the PCs have met but not seen recently e.g. the Warden Stykes
+- Sounds of struggle ahead - 5 members of the Erebos Station crew / constripts
+- Unfortunately these people have been transformed
+- **4 Passive Mutant Abominations** are attempting to draw and quarter a 5th
+  - They tear him apart each taking a limb and sitting down to eat
+
+## Optional Events from Act 3
+
+### Retaliation
+
+- Snova Trakhnu fires nukes at Erebos from point blank range destroying itself in an attempt to take out the station as well
+- While Cellblock on Deck F, Boom and Starboard side of Deck H are destroyed, Erebos's plasma collectors draw most of the energy temporarily supercharging the station
+- All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
+- The force of the blast sends the station hurting towards the black hole see Act 3 finale
+
+### Rescue
+
+- "Weyland" rescue ship moves in close to scan the station revealing itself to be the UPP Destroyer Snova Traknu
+- It's here to retrieve its operatives and destroy Erebos
+- UPP may be persauded to take the PCs with them
+- Play this event in tandem with [Escalation](#escalation) and [Retaliation](#retaliation) and have the Destroyer crushed by the living station
+
+### Escalation
+
+- When the Snova Traknu has moved close to the station Erebos trwaling arms bend and reach for the Destroyer, embracing and crushing it
+- If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
 
 ## Characters
 
