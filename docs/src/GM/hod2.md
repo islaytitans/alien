@@ -589,7 +589,7 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Opening
+### Opening Act 1
 
 - On approach to Erebos only greeted by the automated docking signal
 - There is external damage to a few decks - meteor hits no evidence of the living hive
@@ -605,7 +605,59 @@ sidebar: auto
 - Give Story Card 'The Tell-tale heart' too PC with highest empathy
 - [Time for them to explore, complete their agendas, repair the ship](#assess-the-cetorhina)
 
+### Opening Act 2
+
+- Proto-Hive is rapidly spreading throughout the station converting it into smooth biomechanical tunnels and caverns
+- Personal agendas will dominate the action in this act
+- Go to [Transmogrification](#transmogrification)
+
+### Transmogrification
+
+- Act begins with The Perfected running her hand over a Protomorph Deacon
+- The Perfected reaches out to touch the nearest PC beckoning without malice
+- She does not attack but psionically impart information
+- Read The Offer p53
+  - The Perfected making their intentions clear and offer PCs a choice
+    - Find 26 Draconis Strain or die
+  - The Perfected will answer 3 questions before turning to leave, they will be answered by flasges of thought imagery
+    - How to make 26 Draconis Strain will give images of rib cage opening and the PCs being drawn into a black beating heart
+  - If the PCs want to stop the Perfected a rusting in the dark will reveal **4 Active Deacons** with them. If the PCs back away they are allowed to leave
+
+### Streaker Part 2
+
+- PCs feel like someone is following them, always out of sight
+- He'll run by and someone will see the lab coat with no trousers
+- This is Dr Webb but he himself doesn't know that
+- Dr Webb and Clerke were attempting to create a necrotic virus in Medlab to kill the Proto-Hive
+- With the PCs help he'll begin to remember parts
+
+### Catch of the day
+
+- Wherever the PCs are a computer prompt alerts them on a near screen sent either from MUTHUR or DAUTUR (which ever suits story)
+- The AI has been processing the equation from Webb earlier and has a response - hand out "Serum Analysis"
+- If [Streaker Part 2](#streaker-part-2) has occurred this will jog Dr Webb's memory
+  - This can refer to the necrotic virus Clerke and Webb were developing to kill the hive OR reconstruction of the 26 Draconis Strain (which ever suits story)
+- If PCs decide to capturing a Squid-baby, a rock sample container or cat carrier can be found easily
+  - They can find a Squid-Baby eating a rat but need to approach quietly
+  - **STRENGTH** to restrain it
+  - **MEDICAL AID** within the Medlab to extract the cells and the formula will be ready within a Shift
+
+### A Room with a View
+
+### SOS
+
+### Gravitic Shear
+
+### Quartermaster
+
+### The Perfect Demand
+
 ## Optional Events
+
+### Out of Air
+
+- Proto-Hive tendrils have seeped through the Cetorhina abd destroyed the Oxygen compression units
+- PCs can no longer recharge their suit **Air** supplies n the Cetorhina - they can on Life Support Deck C
 
 ## Characters
 

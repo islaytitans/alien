@@ -636,7 +636,7 @@ sidebar: auto
 - Tools can be found in the Machine Room and Plasma Relay Stations p41
 - EVA Pods are equiped with similar tool arms that can do the job in half the time. They're located throughout the station
 
-### The Gift
+### The Gift - DONE
 
 - Out of a dark corridor something not human stirs
 - It's a tuxedo cat called Adrien!
@@ -645,7 +645,7 @@ sidebar: auto
 - Squid Baby will bolt when least expected, scurrying off under the flooring
 - The cat will now follow the PCs
 
-### Cuddles The Starfish
+### Cuddles The Starfish - DONE
 
 - Looks like PCs have found their first survivor
 - Someone is sleeping in the corner, facing away from them, back rising and falling as if asleep
@@ -658,7 +658,7 @@ sidebar: auto
 - If wounded it will flee but then stalk the PCs from a distance, harrying them when they are at their weakest
 - During the fight they can be [ambushed](#watch-the-world-burn)
 
-### Riot Control
+### Riot Control - DONE
 
 - Two Corrections Androids are moving through the station culling Protomorphs and wraping up escaped prisoners
 - Encountering PCs their eyes flash red to ID them, they look for Barcodes on the back of PCs necks
@@ -668,7 +668,7 @@ sidebar: auto
 - On the way they've be [ambushed](#watch-the-world-burn)
 - The PCs can then learn anything I want them to know about how the station got to this point from the Survivors
 
-### The Howl
+### The Howl - DONE
 
 - A shriek echoes throughout the station, subsiding in the distance **+1 Stress Level**
 - After a pause, the PCs hear a howling reply from Adrien the cat
@@ -677,7 +677,7 @@ sidebar: auto
 - The Deacon will pull back and sit in the corner
 - A Perfected will step out, handing their hand across the Deacon's head
 - They'll beckon a PC without malice and will psionically impart information
-- Read The Offer p63
+- Read The Offer p53
 - End of Act 1
 
 ## Optional Events
