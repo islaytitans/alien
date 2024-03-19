@@ -12,12 +12,13 @@ sidebar: auto
 - Show picture of red black hole
 - 2 years after the events on the Cronus (last story)
 - Remind roll are less often than d&d only when failure has significant impact
-- Give agenda cards
+- Give agenda cards Act 1 and Act 2
+- Give Story Card titled 'The Tell-tale Heart' and 'Commune with Darkness' to highest empathy character
 - [Start on Cetorhina](#opening)
 
 ### NDD
 
-- Neurological Distortion Disorder caused by poor sheilding from immense electro-magnetic fluctuations dangerous to humans psyche
+- Neurological Distortion Disorder caused by poor shielding from immense electro-magnetic fluctuations dangerous to humans psyche
 - Rule: Roll on table roughly 1 per shift on table on p8
   - +1 one to each roll from there
   - if suffers an effect 6 or higher - hand them corresponding Story Card
@@ -25,13 +26,21 @@ sidebar: auto
   - 5 does of Chil-X to reduce their bonus roll by 1
   - 2 does of NeuroTick that removes one NDD effect
 
+## Story Cards
+
+- NDD Level 6+ give appropriate story card
+- After entering Erebos give Story Card titled 'The Tell-tale Heart' to highest empathy character
+- At start of Act 2 give PC with 'The Tell-tale Heart' them 'Commune with Darkness'
+- When the PC with Story Card 'The Tell-tale Heart' or 'Commune with Darkness' sees the Cheiron give the 'The Heart of the Matter'
+- Those exposed to E Type Abomination and fail their roll give the 'Infected Stage 1' and then each stage
+
 ## Erebos
 
-- All lights are out, unidentified clanging noises echo, the reactor hums sporadically, station's hull groans as marchinery shifts and is replaced with Living Proto-Hive behind the walls for Act 1
-- Gravity - parts are gravity free, as is space. Charactes in Zero-G need **Mobility** to move effectively. Failed roll means they are floundering.
+- All lights are out, unidentified clanging noises echo, the reactor hums sporadically, station's hull groans as machinery shifts and is replaced with Living Proto-Hive behind the walls for Act 1
+- Gravity - parts are gravity free, as is space. Characters in Zero-G need **Mobility** to move effectively. Failed roll means they are floundering.
 - Space-workaround - There are many obstacles but there are many airlocks. PCs may need to go outside to circumvent things. Taking **1 Rad per Turn** from the black hole
 - Radiation Zones - Human or Android entering strong radiation must make **Virulence 6 Sickness** roll, weak radiation **Virulence 4 Sickness**
-  - become tainted by thge Hessdalen Lights p61, becoming an Abomination p69 within **1 Shift**
+  - become tainted by the Hessdalen Lights p61, becoming an Abomination p69 within **1 Shift**
 - Plasma - Port side of Deck F, G, H are ablaze with **Intensity 12** plasma fire. Venting these areas **Heavy Machinery / Comtech** will put out fires.
 - Evolution - Erebose becomes less machine and more monster through Acts.
 
@@ -57,9 +66,9 @@ sidebar: auto
 - Ambient Energy Collectors
   - Cetorhina's batteries can be connected for recharging
 - Storm Shields
-  - Sheilds are closed with one cycling open and close 5 inches. Opening them will reveal a 360 view of the Black Hole in all its splendor
-  - Once opened Viewports reveal ancient hieroglyphics phosphorus paint with some English translations. Anyone with Geholgod training will recognise them from Star Teacher artificats discovered on Arcturus
-  - Transations read "Humankind must be obliterated" and "Do not allow perfection" one in German says "Border Bombers?" p28 Clerke's Clues
+  - Shields are closed with one cycling open and close 5 inches. Opening them will reveal a 360 view of the Black Hole in all its splendour
+  - Once opened Viewports reveal ancient hieroglyphics phosphorus paint with some English translations. Anyone with Geholgod training will recognise them from Star Teacher artifacts discovered on Arcturus
+  - Translations read "Humankind must be obliterated" and "Do not allow perfection" one in German says "Border Bombers?" p28 Clerke's Clues
 - Sensor Terminal
   - Multi-screen terminal recording gravitational waves.
   - Also relays encrypted audio transmissions drawn to the black hole sending tha data to MUTHUR on Deck C, can only be listened to at her interface terminal
