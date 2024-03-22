@@ -14,7 +14,7 @@ sidebar: auto
 - Remind roll are less often than d&d only when failure has significant impact
 - Give agenda cards Act 1 and Act 2
 - Give Story Card titled 'The Tell-tale Heart' and 'Commune with Darkness' to highest empathy character
-- [Start on Cetorhina](#opening)
+- Resume on Deck C after experiencing [First Fulfremmen](#Opening-Act-2)
 
 ### NDD
 
@@ -598,22 +598,6 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Opening Act 1
-
-- On approach to Erebos only greeted by the automated docking signal
-- There is external damage to a few decks - meteor hits no evidence of the living hive
-- Erebos is dark - mostly. Lights come on in the main concourse as the docking port extends
-- PCs can orbit the station, spacewalk to it or extend an umbilical to one of the docking ports
-- But disaster strikes! Alarm goes off - black hole gravitational pull has momentarily jumped causing storm of meteoroid strikes pummelling the hip and station
-- Erebos thrusters stabilise (important for later) her but Cetorhina is caught in gravity shear
-- Harvester lurches towards the black hole, knocking out NPC pilot - PCs require **PILOTING** regardless they crash into Erebos.
-  - If successful can chose 1 of 3 locations p16.
-  - Random if fail and take 2 points of damage from violent crash
-- Resulting crash Cetorhina will become entwined into Erebos and slowly be invaded by the Living Proto-Hive
-- No evidence of the Living Hive aboard Erebos itself, it's dark - it's all behind the walls
-- Give Story Card 'The Tell-tale heart' too PC with highest empathy
-- [Time for them to explore, complete their agendas, repair the ship](#assess-the-cetorhina)
-
 ### Opening Act 2
 
 - Proto-Hive is rapidly spreading throughout the station converting it into smooth biomechanical tunnels and caverns
@@ -639,6 +623,19 @@ sidebar: auto
 - A 'gravity sheer', like one that pulled Cetorhina into the station, has occurred
 - PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
 - A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
+
+### Perfect Aly
+
+- **Passive** Fulfremmen wanders Deck B looking with an alien fascination
+- This the perfected version of Cronus Chief Technician Aly Lugar. Perfect Aly is curious of the PCs and will not attack unless attacked first
+- Aly has grown too alien to grasp human emtions and bonds can confuse it, but may be convinced to help them escape
+  - Aly is the great aunt of Cetorhina's Captain Lugar
+  - If Captain Lugar is with them, Aly will be drawn to his monogrammed maintenance jack, as it used to be hers
+  - **Observation** PCS will believe this creature has something to do with their Aunt
+- Aly observes the PCs before entering an airlock abd blowing itself out into space
+  - If PCs watch they will see that these beings can survive in vacuum and radiation
+  - Aly will make its weay cross the hull to Terminal 01 on Deck G, enter the airlock there and go into the Heart of Darkness
+- Aly will find the PCs again later, intervening if they get in over their heads
 
 ### Streaker Part 2
 
@@ -702,6 +699,25 @@ sidebar: auto
 - Unfortunately these people have been transformed
 - **4 Passive Mutant Abominations** are attempting to draw and quarter a 5th
   - They tear him apart each taking a limb and sitting down to eat
+
+### Repairing the Cetorhina
+
+- Power Cells
+  - The crash drained the batteries causing them to corrode
+  - Replacement energy cells 1m tall barrels with harness Straps **Weight 3** can be found in Terminal 01 and the Lower Tower
+  - The Pcs can repair them **Heavy Machinery** and fire up the plasma distillery on Trawling Arm 01 to recharge them p40, p44, p41
+  - Ship will need 3 cells for engine ignition and take **1 Turn** to reisntall cell on the ship
+- Truster Compression Coil
+  - Thrusters won't work without it
+  - PCs will need to remove a working Compression Cell fgrom one of the stations external thrusters located
+    - near the Visitor Docking Port on Deck D p34
+    - the comms Tower on Deck H p44
+    - Boiler room on Dec j p46
+  - Takes **1 Turn** to remove or install compression coil
+- Cutting Tools
+  - Cumbersome power tools **Weight 3** and/or EVA Pods are needed to cut the Cetorhina free from the superstructure
+  - Tools can be found in the Machine Room and Plasma Relay Stations p41
+  - EVA Pods are equiped with similar tool arms that can do the job in half the time. They're located throughout the station
 
 ## Optional Events from Act 3
 
