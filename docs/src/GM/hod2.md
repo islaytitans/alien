@@ -700,6 +700,12 @@ sidebar: auto
 - **4 Passive Mutant Abominations** are attempting to draw and quarter a 5th
   - They tear him apart each taking a limb and sitting down to eat
 
+### Watch the World Burn
+
+- While in a combat encounter the PC's adversaries are ambushed by Wick's revenge squad
+  - Cecil and **6 Active Conscripted Convicts**
+- They will take the Pcs to Wick's hideout in the [Starboard Machine Room](#starboard-machine-room) on Deck H to meet her
+
 ### Repairing the Cetorhina
 
 - Power Cells
@@ -781,6 +787,7 @@ sidebar: auto
 > Narcissist
 
 > Want to keep Wicks under his thumb, take back the station
+> Keep Wicks from revealing he caused 68 deaths by venting atmosphere
 
 ### Crash
 
@@ -797,6 +804,7 @@ sidebar: auto
 > Psychotic
 
 > Wants to destroy any means of escape. Finish what she started - burn all of Erebos - and shove Stykes head first into the black hole
+> Witness Stykes killing 68 people by venting atmosphere and blamed her
 
 ### Brut 'Cecil' Amor
 
