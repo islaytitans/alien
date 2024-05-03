@@ -692,6 +692,7 @@ sidebar: auto
 
 ### Act 2 End
 
+- Occurrs when you want - the Stations metamorphasis is complete
 - Read "The Change" p56
 
 ## Optional Events
