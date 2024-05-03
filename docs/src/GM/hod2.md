@@ -611,10 +611,26 @@ sidebar: auto
 - She does not attack but psionically impart information
 - Read The Offer p53
   - The Perfected making their intentions clear and offer PCs a choice
-    - Find 26 Draconis Strain or die
+    - Find 26 Draconis Strain or die see [Options to Resolve Scenario](#options-to-resolve-scenario)
   - The Perfected will answer 3 questions before turning to leave, they will be answered by flasges of thought imagery
     - How to make 26 Draconis Strain will give images of rib cage opening and the PCs being drawn into a black beating heart
   - If the PCs want to stop the Perfected a rusting in the dark will reveal **4 Active Deacons** with them. If the PCs back away they are allowed to leave
+
+### Options to Resolve Scenario
+
+- Options p14
+  - Give them what they want
+    - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
+  - Cut out the heart (Cheiron)
+    - Cut off tendrils and blowing it into space
+  - Poison Them
+    - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
+  - Disable Cetorhina's FTL
+    - Trapping everyone here forever
+  - Destroy the station
+    - Overload Ractor Rods in Central Hub on Deck H, the Therman Plasma Sink on Deck I, or push the station into the blackhole
+  - The Great Aunt
+    - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
 ### Gravitic Shear
 
