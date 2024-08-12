@@ -44,7 +44,7 @@ sidebar: auto
 - Plasma - Port side of Deck F, G, H are ablaze with **Intensity 12** plasma fire. Venting these areas **Heavy Machinery / Comtech** will put out fires.
 - Evolution - Erebose becomes less machine and more monster through Acts.
 
-### Erebos post Act 1
+### Erebos post Act 2
 
 - After Act 1 Erebos will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
 - The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
@@ -600,9 +600,65 @@ sidebar: auto
 
 ### Opening Act 3
 
-- Proto-Hive is rapidly spreading throughout the station converting it into smooth biomechanical tunnels and caverns
-- Personal agendas will dominate the action in this act
-- Go to [Transmogrification](#transmogrification)
+- Read The Change p56
+- NDD is starting to become overwhelming p7
+- Make each to make NDD roll
+- Handout Act 3 personal agendas
+- Proto-Hive is metamorphasis is complete, it has become a Living Proto-thing of its own
+- Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
+- If the PCs haven't stopped the Hive's tendrills from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
+- Whatever the PCs are planning to do - now is the time
+- Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
+
+### Mr Man's Escape Artists
+
+- Led by Tommy Man, **6 ACTIVE Conscripte Convicts** storm the Cetorhina in attempt to flee
+- If they take control, they gun the thrusters, break the ship free but tear a hole in both hulls causing explosive decompression, the same will happens if the PCs try to rush their escape
+  - Read "Escape" p57
+
+### The Ninth Passenger
+
+- Cetorhina has a stowaway - a **Protomorph Deacon**
+  - It will hunt the PCs
+  - It will make its nest at the top of the two-story tall FTL engine amoungst the Living Proto-Hive tendrils that are growing through the deckplates to connect with it
+- If Cetorhina escapes without realising the Living Hive is growing onboard the ship it will bring death to civilized worlds
+  - This Hive is young it can be killed with **Intensity 9** fire
+
+### The Blip
+
+- First proximity alarm alerts the Pcs to a large mass in a slightly different orbital trajectory
+- Second time it goes off it identifies Asteroid 1113B
+  - MURTHER / DAUTUR will confirm that if the station orbit hasn't changed the asteroid will pulverise Erebos within 2 hours
+  - Depending on goals PCs may want to course correct or sabotage its ability to course correct
+    - This can be done at Control on Deck B or Boiler Room on Deck J via **COMTECT** and **HEAVY MACHINERY** or wrecking the place.
+  - If asteroids does it, its a glancing blow. The station is severely damaged but not destroyed sending it spinning towards the blackhole giving PCs another change to escape
+
+### The Rescue
+
+- "Weyland" rescue ship moves in close to scan the station revealing itself to be the UPP Destroyer Snova Traknu
+- It's here to retrieve its operatives and destroy Erebos
+- UPP may be persauded to take the PCs with them
+- Play this event in tandem with [Survivor](#survivor), [Escalation](#escalation) and/or [Retaliation](#retaliation) and have the Destroyer crushed by the living station
+
+### Survivor
+
+- Can be played with [The Rescue](#the-rescue)
+  - Dropship craw is a Sace Operating Forces commando team from the UPP Destroyer Snova Traknu
+- A gray Cheyenne dropship (UPP Accipiter) docks at a port neat the PCs
+- They are immediately besiged by **3 ACTIVE PROTOMORPH TRILOBITES** p66
+  - Only one ends up surviving - Sub-Lieutenant C'ng Pfluger
+
+### Escalation
+
+- When the Snova Traknu has moved close to the station Erebos trwaling arms bend and reach for the Destroyer, embracing and crushing it
+- If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
+
+### Retaliation
+
+- Snova Trakhnu fires nukes at Erebos from point blank range destroying itself in an attempt to take out the station as well
+- While Cellblock on Deck F, Boom and Starboard side of Deck H are destroyed, Erebos's plasma collectors draw most of the energy temporarily supercharging the station
+- All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
+- The force of the blast sends the station hurting towards the black hole see Act 3 finale
 
 ### Options to Resolve Scenario
 
@@ -697,25 +753,6 @@ sidebar: auto
   - Cumbersome power tools **Weight 3** and/or EVA Pods are needed to cut the Cetorhina free from the superstructure
   - Tools can be found in the Machine Room and Plasma Relay Stations p41
   - EVA Pods are equiped with similar tool arms that can do the job in half the time. They're located throughout the station
-
-### Retaliation
-
-- Snova Trakhnu fires nukes at Erebos from point blank range destroying itself in an attempt to take out the station as well
-- While Cellblock on Deck F, Boom and Starboard side of Deck H are destroyed, Erebos's plasma collectors draw most of the energy temporarily supercharging the station
-- All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
-- The force of the blast sends the station hurting towards the black hole see Act 3 finale
-
-### Rescue
-
-- "Weyland" rescue ship moves in close to scan the station revealing itself to be the UPP Destroyer Snova Traknu
-- It's here to retrieve its operatives and destroy Erebos
-- UPP may be persauded to take the PCs with them
-- Play this event in tandem with [Escalation](#escalation) and [Retaliation](#retaliation) and have the Destroyer crushed by the living station
-
-### Escalation
-
-- When the Snova Traknu has moved close to the station Erebos trwaling arms bend and reach for the Destroyer, embracing and crushing it
-- If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
 
 ## Characters
 
