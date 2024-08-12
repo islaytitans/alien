@@ -61,6 +61,10 @@ module.exports = {
         link: "/gm/hod2",
       },
       {
+        text: "HOD3",
+        link: "/gm/hod3",
+      },
+      {
         text: "Players",
         link: "/players/",
       },
