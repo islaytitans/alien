@@ -598,32 +598,20 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Opening Act 2
+### Opening Act 3
 
 - Proto-Hive is rapidly spreading throughout the station converting it into smooth biomechanical tunnels and caverns
 - Personal agendas will dominate the action in this act
 - Go to [Transmogrification](#transmogrification)
 
-### Transmogrification
-
-- Act begins with The Perfected running her hand over a Protomorph Deacon
-- The Perfected reaches out to touch the nearest PC beckoning without malice
-- She does not attack but psionically impart information
-- Read The Offer p53
-  - The Perfected making their intentions clear and offer PCs a choice
-    - Find 26 Draconis Strain or die see [Options to Resolve Scenario](#options-to-resolve-scenario)
-  - The Perfected will answer 3 questions before turning to leave, they will be answered by flasges of thought imagery
-    - How to make 26 Draconis Strain will give images of rib cage opening and the PCs being drawn into a black beating heart
-  - If the PCs want to stop the Perfected a rusting in the dark will reveal **4 Active Deacons** with them. If the PCs back away they are allowed to leave
-
 ### Options to Resolve Scenario
 
 - Options p14
-  - Give them what they want
+  - Give Perfected what they want
     - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
   - Cut out the heart (Cheiron)
     - Cut off tendrils and blowing it into space
-  - Poison Them
+  - Poison Perfected
     - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
   - Disable Cetorhina's FTL
     - Trapping everyone here forever
@@ -639,38 +627,6 @@ sidebar: auto
 - A 'gravity sheer', like one that pulled Cetorhina into the station, has occurred
 - PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
 - A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
-
-### Perfect Aly
-
-- **Passive** Fulfremmen wanders Deck B looking with an alien fascination
-- This the perfected version of Cronus Chief Technician Aly Lugar. Perfect Aly is curious of the PCs and will not attack unless attacked first
-- Aly has grown too alien to grasp human emtions and bonds can confuse it, but may be convinced to help them escape
-  - Aly is the great aunt of Cetorhina's Captain Lugar
-  - If Captain Lugar is with them, Aly will be drawn to his monogrammed maintenance jack, as it used to be hers
-  - **Observation** PCS will believe this creature has something to do with their Aunt
-- Aly observes the PCs before entering an airlock abd blowing itself out into space
-  - If PCs watch they will see that these beings can survive in vacuum and radiation
-  - Aly will make its weay cross the hull to Terminal 01 on Deck G, enter the airlock there and go into the Heart of Darkness
-- Aly will find the PCs again later, intervening if they get in over their heads
-
-### Streaker Part 2
-
-- PCs feel like someone is following them, always out of sight
-- He'll run by and someone will see the lab coat with no trousers
-- This is Dr Webb but he himself doesn't know that
-- Dr Webb and Clerke were attempting to create a necrotic virus in Medlab to kill the Proto-Hive
-- With the PCs help he'll begin to remember parts
-
-### Catch of the day
-
-- Wherever the PCs are a computer prompt alerts them on a near screen sent either from MUTHUR or DAUTUR (which ever suits story)
-- The AI has been processing the equation from Webb earlier and has a response - **hand out "Serum Analysis"**
-- If [Streaker Part 2](#streaker-part-2) has occurred this will jog Dr Webb's memory
-  - This can refer to the necrotic virus Clerke and Webb were developing to kill the hive OR reconstruction of the 26 Draconis Strain (which ever suits story)
-- If PCs decide to capturing a Squid-baby, a rock sample container or cat carrier can be found easily
-  - They can find a Squid-Baby eating a rat but need to approach quietly
-  - **STRENGTH** to restrain it
-  - **MEDICAL AID** within the Medlab to extract the cells and the formula will be ready within a Shift
 
 ### SOS
 
@@ -690,7 +646,7 @@ sidebar: auto
 - If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
   - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
 
-### Act 2 End
+### Act 3 End
 
 - Occurrs when you want - the Stations metamorphasis is complete
 - Read "The Change" p56
@@ -741,8 +697,6 @@ sidebar: auto
   - Cumbersome power tools **Weight 3** and/or EVA Pods are needed to cut the Cetorhina free from the superstructure
   - Tools can be found in the Machine Room and Plasma Relay Stations p41
   - EVA Pods are equiped with similar tool arms that can do the job in half the time. They're located throughout the station
-
-## Optional Events from Act 3
 
 ### Retaliation
 

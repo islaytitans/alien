@@ -598,13 +598,13 @@ sidebar: auto
 
 ## Mandatory Events
 
-### Opening Act 2
+### Opening Act 2 - DONE
 
 - Proto-Hive is rapidly spreading throughout the station converting it into smooth biomechanical tunnels and caverns
 - Personal agendas will dominate the action in this act
 - Go to [Transmogrification](#transmogrification)
 
-### Transmogrification
+### Transmogrification - DONE
 
 - Act begins with The Perfected running her hand over a Protomorph Deacon
 - The Perfected reaches out to touch the nearest PC beckoning without malice
@@ -632,7 +632,7 @@ sidebar: auto
   - The Great Aunt
     - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
-### Gravitic Shear
+### Gravitic Shear - DONE
 
 - Event should occur a few times as knowledge will help PCs save the station if they choose
 - Station suddenly shudders and PCs feel their stomach drop with **Mobility** to stay on their feet
@@ -640,7 +640,7 @@ sidebar: auto
 - PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
 - A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
 
-### Perfect Aly
+### Perfect Aly - DONE
 
 - **Passive** Fulfremmen wanders Deck B looking with an alien fascination
 - This the perfected version of Cronus Chief Technician Aly Lugar. Perfect Aly is curious of the PCs and will not attack unless attacked first
@@ -653,7 +653,7 @@ sidebar: auto
   - Aly will make its weay cross the hull to Terminal 01 on Deck G, enter the airlock there and go into the Heart of Darkness
 - Aly will find the PCs again later, intervening if they get in over their heads
 
-### Streaker Part 2
+### Streaker Part 2 - DONE
 
 - PCs feel like someone is following them, always out of sight
 - He'll run by and someone will see the lab coat with no trousers
@@ -661,7 +661,7 @@ sidebar: auto
 - Dr Webb and Clerke were attempting to create a necrotic virus in Medlab to kill the Proto-Hive
 - With the PCs help he'll begin to remember parts
 
-### Catch of the day
+### Catch of the day - DONE
 
 - Wherever the PCs are a computer prompt alerts them on a near screen sent either from MUTHUR or DAUTUR (which ever suits story)
 - The AI has been processing the equation from Webb earlier and has a response - **hand out "Serum Analysis"**
@@ -672,7 +672,7 @@ sidebar: auto
   - **STRENGTH** to restrain it
   - **MEDICAL AID** within the Medlab to extract the cells and the formula will be ready within a Shift
 
-### SOS
+### SOS - DONE
 
 - Nearby terminal flashes red - network transmission recieved and awaiting a reply - \*\*hand out "Network Exchange"
 - Message is from "Weyland" not "Weyland-Yutani" a poor ruse from the nearby UPP destroyer SSV Snova Trakhnu
