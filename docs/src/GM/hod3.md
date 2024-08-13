@@ -612,7 +612,7 @@ sidebar: auto
 - Recap - did they recreate the strain?
 - Recap Lukes calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
 - Whatever the PCs are planning to do - now is the time
-- Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
+- Kick off with a [Gravitic-shear](#gravitic-shear) Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
 
 ### Options to Resolve Scenario
 
@@ -630,6 +630,14 @@ sidebar: auto
   - The Great Aunt
     - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
+### Gravitic Shear
+
+- Event should occur a few times as knowledge will help PCs save the station if they choose
+- Station suddenly shudders and PCs feel their stomach drop with **Mobility** to stay on their feet
+- A 'gravity sheer', like one that pulled Cetorhina into the station, has occurred
+- PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
+- A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
+
 ### Mr Man's Escape Artists
 
 - Led by Tommy Man, **6 ACTIVE Conscripte Convicts** storm the Cetorhina in attempt to flee
@@ -646,6 +654,7 @@ sidebar: auto
 
 ### The Blip
 
+- Can trigger the [Finale](#act-3-finale)
 - First proximity alarm alerts the Pcs to a large mass in a slightly different orbital trajectory
 - Second time it goes off it identifies Asteroid 1113B
   - MURTHER / DAUTUR will confirm that if the station orbit hasn't changed the asteroid will pulverise Erebos within 2 hours
@@ -675,6 +684,7 @@ sidebar: auto
 
 ### Retaliation
 
+- Can trigger the [Finale](#act-3-finale)
 - Snova Trakhnu fires nukes at Erebos from point blank range destroying itself in an attempt to take out the station as well
 - While Cellblock on Deck F, Boom and Starboard side of Deck H are destroyed, Erebos's plasma collectors draw most of the energy temporarily supercharging the station
 - All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
@@ -694,6 +704,16 @@ sidebar: auto
 
 ## Act 3 Finale
 
+- Finale should be concurrent with the last 2 events planned for the PCs before Fulfremmen threat is resolved
+- Erebos is going down the Ablassen Drain Black hole
+- Actions or circumstances of the events is causing Erebos to fall into the blackhole
+  - Hit by Asteroid by [the Blip](#the-blip)
+  - Pushed out of orbit by [the Realiation](#retaliation)
+  - Or by fires on Deck H
+  - Living-Hive is in its death throes due to the PC's use of virus, poison, impact, or fires and will try to take the PCs into the black hole with it
+  - PCs decide to push the station into the black hole
+- The station's hull will buckle **+1 Stress Level**
+
 ### Beat the Clock
 
 ### All Bets Off
@@ -709,14 +729,6 @@ sidebar: auto
 ### The Long Goodbye
 
 ## Optional Events
-
-### Gravitic Shear
-
-- Event should occur a few times as knowledge will help PCs save the station if they choose
-- Station suddenly shudders and PCs feel their stomach drop with **Mobility** to stay on their feet
-- A 'gravity sheer', like one that pulled Cetorhina into the station, has occurred
-- PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
-- A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
 
 ### The Perfect Demand
 
