@@ -604,11 +604,31 @@ sidebar: auto
 - NDD is starting to become overwhelming p7
 - Make each to make NDD roll
 - Handout Act 3 personal agendas
+- GM note, PCs are not expected to survie, it's imoirtanrt than winning doesn't mean gfetting out alive it means acting out your agenda with the Perfected
 - Proto-Hive is metamorphasis is complete, it has become a Living Proto-thing of its own
 - Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
 - If the PCs haven't stopped the Hive's tendrills from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
+- Recap the offer from the Fulfremmen
+- Recap - did they recreate the strain?
+- Recap Lukes calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
 - Whatever the PCs are planning to do - now is the time
 - Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
+
+### Options to Resolve Scenario
+
+- Options p14
+  - Give Perfected what they want
+    - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
+  - Cut out the heart (Cheiron)
+    - Cut off tendrils and blowing it into space
+  - Poison Perfected
+    - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
+  - Disable Cetorhina's FTL
+    - Trapping everyone here forever
+  - Destroy the station
+    - Overload Ractor Rods in Central Hub on Deck H, the Therman Plasma Sink on Deck I, or push the station into the blackhole
+  - The Great Aunt
+    - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
 ### Mr Man's Escape Artists
 
@@ -660,21 +680,35 @@ sidebar: auto
 - All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
 - The force of the blast sends the station hurting towards the black hole see Act 3 finale
 
-### Options to Resolve Scenario
+### The Help
 
-- Options p14
-  - Give Perfected what they want
-    - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
-  - Cut out the heart (Cheiron)
-    - Cut off tendrils and blowing it into space
-  - Poison Perfected
-    - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
-  - Disable Cetorhina's FTL
-    - Trapping everyone here forever
-  - Destroy the station
-    - Overload Ractor Rods in Central Hub on Deck H, the Therman Plasma Sink on Deck I, or push the station into the blackhole
-  - The Great Aunt
-    - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
+- Perfect Aly, Great-Aunt Lugar, decides to help PCs, warning them that the Perfected are going to use FTL to leave the system
+- Aly won't actively defy the Perfected but will provide hints and attempt to stall attacks against the Perfected
+- Aly can provide any info the PCs are missing
+
+### The Death Throes
+
+- Event played if Erebos is infected with the weaponized virus or poisoned by toxic gas from the Wastebin on Deck H
+- Virus swarms through the Proto-Hive pustulous globules swell and weep acid blood hissing and eroding everything
+- Every now and again a globule bursts spraying **10 Acid Splash** causing damage or making passage harder
+
+## Act 3 Finale
+
+### Beat the Clock
+
+### All Bets Off
+
+### Last Grasp
+
+### Plotting The Escape
+
+### Override Codes
+
+### Failing
+
+### The Long Goodbye
+
+## Optional Events
 
 ### Gravitic Shear
 
@@ -684,15 +718,6 @@ sidebar: auto
 - PCs will feel the G-forces hitting them momentarily as Erebos' automatically engages its thrusters to maintain safe orbit arounf the black hole
 - A NPC will comment "When the black hole acts up like that the thrusters kick in, fed by the plasma tanks its the only thing keeping the station from falling into the black hole"
 
-### SOS
-
-- Nearby terminal flashes red - network transmission recieved and awaiting a reply - \*\*hand out "Network Exchange"
-- Message is from "Weyland" not "Weyland-Yutani" a poor ruse from the nearby UPP destroyer SSV Snova Trakhnu
-- Snova claims the transmission of the data is for securty confirmation - they say the encrypted data will prove the PCs are who they say they are
-- Ironfish data is inaccessible via terminal - it's stored on DAUTHUR supercomputer and backed up to MURTHUR's mission recorder p32
-- If PCs do manage to send the data the Snova will acknowledge reciept, move in, and attempt to nuke the station, see [retaliation](#retaliation)
-- If PCs bargin for it, the UPP wull send an extraction Team, see [Rescue](#rescue)
-
 ### The Perfect Demand
 
 - Shrill noise and imagery explodes inside the Pcs heads
@@ -701,18 +726,6 @@ sidebar: auto
 - The **Deacons** then stalk the PCs from afar
 - If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
   - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
-
-### Act 3 End
-
-- Occurrs when you want - the Stations metamorphasis is complete
-- Read "The Change" p56
-
-## Optional Events
-
-### Out of Air
-
-- Proto-Hive tendrils have seeped through the Cetorhina abd destroyed the Oxygen compression units
-- PCs can no longer recharge their suit **Air** supplies n the Cetorhina - they can on Life Support Deck C
 
 ### A Room with a View
 

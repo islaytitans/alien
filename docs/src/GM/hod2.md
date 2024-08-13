@@ -683,7 +683,7 @@ sidebar: auto
 
 ### The Perfect Demand
 
-- Shrill noise and imagery explodes inside the Pcs heads
+- Shrill noise and imagery explodes inside the PCs heads
 - A Perfected and **2 Deacons** have cornered the PCs again
 - They are overwhelmed with the Perfected's doubt - they question why the PCs have not delivered them the 26 Draconis Strain, leaving them with a warning to fulfill their obligations
 - The **Deacons** then stalk the PCs from afar
