@@ -716,17 +716,38 @@ sidebar: auto
 
 ### Beat the Clock
 
+- Station's remaining time is up to me, point of no return should be reached at dramatically appropriate moment
+- Maybe use a Clock
+
 ### All Bets Off
+
+- Once station is doomed the Fulfremmen have had enough
+- PCs have ruined their plans somehow so a lone **ACTIVE PERFECTED** is tasked with killing the PCs
+  - The Relentless Perfected (p70) is wounded (7 health remaining) with a jagged piece of metal protruding from its abdomen
 
 ### Last Grasp
 
+- Thrusters have been firing to stabilize the station
+- Signpost the PCs a chance to realize they can alter their trajectory
+- If PCs manage to neutralize the threat of Fulfremmen before the crash they may want to save the station
+
 ### Plotting The Escape
 
-### Override Codes
-
-### Failing
+- A Terminal or MUTHUR or DAUTUR can be used to calculate the trajectory to escape and to dump all stations stored energy into thrusters
+- **COMTECH** or **HEAVY MACHINERY** in the Boiler Room on Deck J will unlock the plasma values so the thrusters can fire full power, then a **PILOTING -3** required from Control Deck B
+  - If failed they can be told that they need to jettison some weight via override codes, or fire Cetorhina's thrusters at the right time and try again reducing the difficulty for each measure taken
+    - PCs may have override codes left on a note in the Engineer's Office on Deck D or get the info out of Stykes
+    - Codes entered into any terminal allow portions of the station to be jetisoned
+    - Astrometric Observatory (Deck A)
+    - Comms Tower (Deck H)
+    - Living-Hive filled Lifeboats
 
 ### The Long Goodbye
+
+- If [Plotting The Escape](#plotting-the-escape) failed or the PCs want the station destroyed Erebos is now offically doomed
+- In 2 Turns, the station's Control Tower Crumples
+- In 4 Turns, the station's tawling arms begin being stretched and pulled intowards the centre
+- In 6 Turns, the station's hub cracks, igniting the lower tower's plasma supplies in a masssive explosion that wipsps away down the Ablassen Drain
 
 ## Optional Events
 
