@@ -15,13 +15,13 @@ sidebar: auto
 - NDD is starting to become overwhelming p7
 - Make each to make NDD roll
 - Handout Act 3 personal agendas
-- GM note, PCs are not expected to survie, it's imoirtanrt than winning doesn't mean gfetting out alive it means acting out your agenda with the Perfected
-- Proto-Hive is metamorphasis is complete, it has become a Living Proto-thing of its own
+- GM note, PCs are not expected to survive, it's important than winning doesn't mean getting out alive it means acting out your agenda with the Perfected
+- Proto-Hive is metamorphosis is complete, it has become a Living Proto-thing of its own
 - Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
-- If the PCs haven't stopped the Hive's tendrills from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
+- If the PCs haven't stopped the Hive's tendrils from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
 - Recap the offer from the Fulfremmen
 - Recap - did they recreate the strain?
-- Recap Lukes calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
+- Recap Luke's calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
 - Luke is with MURTHUR on Deck C
 - Keir and Sell are in The Cheiron on Deck G
 - Whatever the PCs are planning to do - now is the time
@@ -39,7 +39,7 @@ sidebar: auto
 
 ### Erebos Act 3
 
-- Act 3 Erebos has metamorpahised from a station to a Living-Proto-thing of its own will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
+- Act 3 Erebos has metamorphosed from a station to a Living-Proto-thing of its own will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
 - The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
 - Fleshy black veins and tendons grow, transmogrifying metal supports into skeleton structures and powerlines into arteries to pump plasmatic energy
 - Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
@@ -86,7 +86,7 @@ sidebar: auto
   - [A note from Clerke's can be found here](#terminal-notes-p29)
 - Station Logs
   - Records log the discovery of the Hessdalen Lights and the large organic object from the plasma stream
-  - After that they started havinbg power failures and accidents
+  - After that they started having power failures and accidents
 - Damage Control
   - Shows a blue hologram of the station with flashing yellow-green sections
   - The Cetorhina crash cracked the central hub and started a plasma fire that's on the port side of Deck F, G and H
@@ -96,7 +96,7 @@ sidebar: auto
   - Stykes in Security Office on Deck F
   - [Webb the streaker](#streaker-part-1) is wandering Deck H
   - Large concentration of crew in
-    - 16 in Hydrophonics on Deck C
+    - 16 in Hydroponics on Deck C
       - (they're being perfected)
     - 24 in the Starboard hanger Deck on Deck G
     - 21 in the Cellblock on Deck F
@@ -113,7 +113,7 @@ sidebar: auto
 - Large viewport to space with a large 3m crack in it
 - Any weapons fire will cause the glass to splinter and then 3 Rounds to shore up the window **Heavy Machinery** or evacuate
 
-### Armory 01, Muster Point
+### Armoury 01, Muster Point
 
 - Strip clean - nothing here
 
@@ -133,7 +133,7 @@ sidebar: auto
   - He was mid-transformation into an Abomination when he was torched (it was Stykes) **+1 Stress level**
 - Coolant Pit
   - To reactivate MUTHUR the circuit breaker behind a locked panel at the bottom of the server coolant put must be flipped
-    - Someone must dive into the 4 degreee Celsius coolant and flip it **Heavy Machinery** taking 3 rounds
+    - Someone must dive into the 4 degree Celsius coolant and flip it **Heavy Machinery** taking 3 rounds
     - Freezing p107 and Drowning p110
   - MUTHUR will come back online and tell PCs anything they want to know
 - Mission Recorder
@@ -150,7 +150,7 @@ sidebar: auto
 - Jar of Fireflies
   - Horizontal transparent cylinder full of plasma energy dominates the room
   - A lazer is refracted through it illuminating thousands of tiny phosphorus lifeforms - Hessdalen Lights
-  - Increase the radiuation levels to cause them to multiply
+  - Increase the radiation levels to cause them to multiply
   - Increase a second time will cause them to go dormant - food comma
     - The same can be done with the Living Hive to buy the PCs time
 - Autodocs
@@ -161,13 +161,13 @@ sidebar: auto
   - They were also close to finding a virus that will [kill the Living Proto-Hive](#weaponizing-the-virus)
 - Medical Log
   - Webb's log can provide info relating to Clerke's Clues p28
-  - Also notes that the biomedchanoid beings (the perfected) appear to be blind to creatures in hypersleep
+  - Also notes that the biomechanical beings (the perfected) appear to be blind to creatures in hypersleep
 - Experiments
   - Several dead cell culture dishes are scattered around
   - Some are Clerke's and Webb's necrotic virus and the others are partial successes reproducing 26 Draconis Strain p28
 - NDD Meds
-  - 5 doeses of Chil-X
-  - 2 doeses of NeuroTic
+  - 5 doses of Chil-X
+  - 2 doses of NeuroTic
 
 ### Warden Quarters, emergency cryosleep pods
 
@@ -185,7 +185,7 @@ sidebar: auto
 - Its a nesting ground for cocoons - Abominations that are undergoing metamorphosis into the Fulfremmen
 - Viewport
   - Scaffolding on clouded viewport can be climbed
-  - If shot (Armor Rating 3) Explosive Decommpression p107
+  - If shot (Armour Rating 3) Explosive Decompression p107
 - Vent to life support
   - Vent to life support is here
 - Swaddling
@@ -200,7 +200,7 @@ sidebar: auto
 ### Astrophsyics Lab
 
 - Holotab
-  - Holotab projects a 3D mapping imaeg of the stars 26A and B, the blackhole, the plasma jets - and if PCs look closer - Asteroid 1113B
+  - Holotab projects a 3D mapping image of the stars 26A and B, the blackhole, the plasma jets - and if PCs look closer - Asteroid 1113B
 
 ### Visitor Docking Port, VIP Bay, Parts Storage
 
@@ -226,7 +226,7 @@ sidebar: auto
 
 ## Deck E - Residence
 
-- A meteoride smashed through this crew quarter deck, demonlishing it.
+- A meteoride smashed through this crew quarter deck, demolishing it.
 - The Chute airlock is functional
 - Rooms are flooded with **Extreme** Radiation and are exposed to space
 - There is nothing here but death on this deck
@@ -247,7 +247,7 @@ sidebar: auto
 
 - Controlled from Control on Deck B or Boiler Room on Deck J requiring a **Comtech**
 - Doing so will flood Decks D through J with plasma **Intensity 12** fire
-- The fire will spread one deck per Turn via the Chute and burn until Airlocks are open on each burning Deck to cut off airsupply
+- The fire will spread one deck per Turn via the Chute and burn until Airlocks are open on each burning Deck to cut off air supply
 
 ### Cell Blocks
 
@@ -312,12 +312,12 @@ sidebar: auto
 
 ### Starboard emergency cryosleep
 
-- 12 max security crypotubes for isolating particularly naster convits
+- 12 max security crypotubes for isolating particularly nastier convicts
 - All are dead after Stykes cut the power to them weeks ago
 
 ### Terminal 01
 
-- large areas for recieving ships internally and via umbilical.
+- large areas for receiving ships internally and via umbilical.
 - Each terminal has pressure doors allowing a ship to enter / leave vertically
 - Terminal 01 houses the "meteor" recovered from the plasma flow
 - Junction G5
@@ -332,7 +332,7 @@ sidebar: auto
   - This is the Cheiron (p47)
   - If a PC has Story Card The Tell-Tale Heart or Commune with Darkness (or both) see the Cheiron give them Story Card The Heart of the Matter
 - Cargo Bay 01
-  - Drum sized barries (3 weight each) are charged and compatiable with the Cetorhina
+  - Drum sized barrels (3 weight each) are charged and compatible with the Cetorhina
 
 ### Terminal 02
 
@@ -355,7 +355,7 @@ sidebar: auto
 
 ### Reactor Rods
 
-- PCs can attempt to overload reactor from any of these 4 control rods or the Boiler Room on Deck J **Comtect**
+- PCs can attempt to overload reactor from any of these 4 control rods or the Boiler Room on Deck J **Comtech**
   - DAUTUR will start a 10 min countdown over the PA
   - After 10 mins nothing will happen - Hessdalen Lights will regulate the pressure and prevent it exploding
 
