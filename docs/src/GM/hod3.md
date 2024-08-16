@@ -639,15 +639,11 @@ sidebar: auto
 - If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
   - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
 
-### The Blip
+### The Help
 
-- Can trigger the [Finale](#act-3-finale)
-- First proximity alarm alerts the Pcs to a large mass in a slightly different orbital trajectory
-- Second time it goes off it identifies Asteroid 1113B
-  - MURTHER / DAUTUR will confirm that if the station orbit hasn't changed the asteroid will pulverise Erebos within 2 hours
-  - Depending on goals PCs may want to course correct or sabotage its ability to course correct
-    - This can be done at Control on Deck B or Boiler Room on Deck J via **COMTECT** and **HEAVY MACHINERY** or wrecking the place.
-  - If asteroids does it, its a glancing blow. The station is severely damaged but not destroyed sending it spinning towards the blackhole giving PCs another change to escape
+- Perfect Aly, Great-Aunt Lugar, decides to help PCs, warning them that the Perfected are going to use FTL to leave the system
+- Aly won't actively defy the Perfected but will provide hints and attempt to stall attacks against the Perfected
+- Aly can provide any info the PCs are missing
 
 ### The Rescue
 
@@ -672,11 +668,15 @@ sidebar: auto
 - All lights brun bright and burn out, blinding everyone for one round and forcing all Protomorphs to go into hiding
 - The force of the blast sends the station hurting towards the black hole see Act 3 finale
 
-### The Help
+### The Blip
 
-- Perfect Aly, Great-Aunt Lugar, decides to help PCs, warning them that the Perfected are going to use FTL to leave the system
-- Aly won't actively defy the Perfected but will provide hints and attempt to stall attacks against the Perfected
-- Aly can provide any info the PCs are missing
+- Can trigger the [Finale](#act-3-finale)
+- First proximity alarm alerts the Pcs to a large mass in a slightly different orbital trajectory
+- Second time it goes off it identifies Asteroid 1113B
+  - MURTHER / DAUTUR will confirm that if the station orbit hasn't changed the asteroid will pulverise Erebos within 2 hours
+  - Depending on goals PCs may want to course correct or sabotage its ability to course correct
+    - This can be done at Control on Deck B or Boiler Room on Deck J via **COMTECT** and **HEAVY MACHINERY** or wrecking the place.
+  - If asteroids does it, its a glancing blow. The station is severely damaged but not destroyed sending it spinning towards the blackhole giving PCs another change to escape
 
 ### The Death Throes
 
