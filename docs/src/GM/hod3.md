@@ -749,6 +749,16 @@ sidebar: auto
 - In 4 Turns, the station's tawling arms begin being stretched and pulled intowards the centre
 - In 6 Turns, the station's hub cracks, igniting the lower tower's plasma supplies in a masssive explosion that wipsps away down the Ablassen Drain
 
+### Escape at a cost
+
+- Lifeboats are located on Deck I but are packed with Living Proto-Hive Nodules (p63) and bodies incubating new **Proto-Xenomorph Decons**
+- PCs can attempt to escape the station in one of these lifeboats but risk spreading the Perfected to the colonies
+- An Incinerator can be used to kill the Proto-Hive but it will damage the life support and need to wear compression suits as a result
+- Possible rupture the deck's Thermal Plasma Sinks right before launching **Heavy Machinery** to close the hatch in time
+- **Piloting -2** to capapult into a stable orbit around the blackhole
+
+### Signing off p61
+
 ## Optional Events
 
 ### The Perfect Demand
