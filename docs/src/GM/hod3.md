@@ -630,6 +630,15 @@ sidebar: auto
 - If Cetorhina escapes without realising the Living Hive is growing onboard the ship it will bring death to civilized worlds
   - This Hive is young it can be killed with **Intensity 9** fire
 
+### The Perfect Demand
+
+- Shrill noise and imagery explodes inside the Pcs heads
+- A Perfected and **2 Deacons** have cornered the PCs again
+- They are overwhelmed with the Perfected's doubt - they question why the PCs have not delivered them the 26 Draconis Strain, leaving them with a warning to fulfill their obligations
+- The **Deacons** then stalk the PCs from afar
+- If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
+  - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
+
 ### The Blip
 
 - Can trigger the [Finale](#act-3-finale)
@@ -733,15 +742,6 @@ sidebar: auto
 ### Signing off p61
 
 ## Optional Events
-
-### The Perfect Demand
-
-- Shrill noise and imagery explodes inside the Pcs heads
-- A Perfected and **2 Deacons** have cornered the PCs again
-- They are overwhelmed with the Perfected's doubt - they question why the PCs have not delivered them the 26 Draconis Strain, leaving them with a warning to fulfill their obligations
-- The **Deacons** then stalk the PCs from afar
-- If the PCs deliver the Strain to the Perfected their heads are filled with an overwhelming sense of relief, gratitude and victory
-  - They are given the best reward they can conceive 0 strip and bathe in Hessdalen Lights (any radiation zone) to become one with the perfect living hive
 
 ### A Room with a View
 
