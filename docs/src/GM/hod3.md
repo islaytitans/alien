@@ -39,7 +39,7 @@ sidebar: auto
 
 ### Erebos Act 3
 
-- Act 1 Erebos has metamorpahised from a station to a Living-Proto-thing of its own will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
+- Act 3 Erebos has metamorpahised from a station to a Living-Proto-thing of its own will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
 - The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
 - Fleshy black veins and tendons grow, transmogrifying metal supports into skeleton structures and powerlines into arteries to pump plasmatic energy
 - Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
@@ -595,18 +595,18 @@ sidebar: auto
 ### Options to Resolve Scenario
 
 - Options p14
-  - Give Perfected what they want
-    - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
-  - Cut out the heart (Cheiron)
-    - Cut off tendrils and blowing it into space
-  - Poison Perfected
-    - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
-  - Disable Cetorhina's FTL
-    - Trapping everyone here forever
-  - Destroy the station
-    - Overload Ractor Rods in Central Hub on Deck H, the Therman Plasma Sink on Deck I, or push the station into the blackhole
-  - The Great Aunt
-    - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
+- Give Perfected what they want
+  - Get a full strain of Draconis 26 from Frozen Lavigne or following Clerke's notes
+- Cut out the heart (Cheiron)
+  - Cut off tendrils and blowing it into space
+- Poison Perfected
+  - Flood station with toxic gasses from the Wastebin on Deck H or necrotic virus Clerke and Webb were working on
+- Disable Cetorhina's FTL
+  - Trapping everyone here forever
+- Destroy the station
+  - Overload Ractor Rods in Central Hub on Deck H, the Therman Plasma Sink on Deck I, or push the station into the blackhole
+- The Great Aunt
+  - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
 ### Gravitic Shear
 
@@ -647,17 +647,17 @@ sidebar: auto
 - UPP may be persauded to take the PCs with them
 - Play this event in tandem with [Survivor](#survivor), [Escalation](#escalation) and/or [Retaliation](#retaliation) and have the Destroyer crushed by the living station
 
-### Survivor
+#### Survivor
 
 - Can be played with [The Rescue](#the-rescue)
-  - Dropship craw is a Sace Operating Forces commando team from the UPP Destroyer Snova Traknu
+  - Dropship craw is a Space Operating Forces commando team from the UPP Destroyer Snova Traknu
 - A gray Cheyenne dropship (UPP Accipiter) docks at a port neat the PCs
 - They are immediately besiged by **3 ACTIVE PROTOMORPH TRILOBITES** p66
   - Only one ends up surviving - Sub-Lieutenant C'ng Pfluger
 
-### Escalation
+#### Escalation
 
-- When the Snova Traknu has moved close to the station Erebos trwaling arms bend and reach for the Destroyer, embracing and crushing it
+- When the Snova Traknu has moved close to the station Erebos trawling arms bend and reach for the Destroyer, embracing and crushing it
 - If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
 
 ### Retaliation
