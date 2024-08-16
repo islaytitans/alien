@@ -718,7 +718,7 @@ sidebar: auto
 - A Terminal or MUTHUR or DAUTUR can be used to calculate the trajectory to escape and to dump all stations stored energy into thrusters
 - **COMTECH** or **HEAVY MACHINERY** in the Boiler Room on Deck J will unlock the plasma values so the thrusters can fire full power, then a **PILOTING -3** required from Control Deck B
   - If failed they can be told that they need to jettison some weight via override codes, or fire Cetorhina's thrusters at the right time and try again reducing the difficulty for each measure taken
-    - PCs may have override codes left on a note in the Engineer's Office on Deck D or get the info out of Stykes
+    - PCs may have override codes left on a note in the Engineer's Office on Deck D or get the info out of Stykes p35
     - Codes entered into any terminal allow portions of the station to be jetisoned
     - Astrometric Observatory (Deck A)
     - Comms Tower (Deck H)
