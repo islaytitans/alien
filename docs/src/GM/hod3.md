@@ -4,17 +4,28 @@ sidebar: auto
 
 # Heart of Darkness 3
 
-## Party
-
-## Session Open
+## Opening Act 3
 
 - Read what's the story mother
 - Show picture of red black hole
-- 2 years after the events on the Cronus (last story)
 - Remind roll are less often than d&d only when failure has significant impact
-- Give agenda cards Act 1 and Act 2
+- Give agenda cards Act 1, Act 2, Act 3
 - Give Story Card titled 'The Tell-tale Heart' and 'Commune with Darkness' to highest empathy character
-- Resume on Deck C after experiencing [First Fulfremmen](#Opening-Act-2)
+- Read The Change p56
+- NDD is starting to become overwhelming p7
+- Make each to make NDD roll
+- Handout Act 3 personal agendas
+- GM note, PCs are not expected to survie, it's imoirtanrt than winning doesn't mean gfetting out alive it means acting out your agenda with the Perfected
+- Proto-Hive is metamorphasis is complete, it has become a Living Proto-thing of its own
+- Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
+- If the PCs haven't stopped the Hive's tendrills from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
+- Recap the offer from the Fulfremmen
+- Recap - did they recreate the strain?
+- Recap Lukes calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
+- Luke is with MURTHUR on Deck C
+- Keir and Sell are in The Cheiron on Deck G
+- Whatever the PCs are planning to do - now is the time
+- Kick off with a [Gravitic-shear](#gravitic-shear) Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
 
 ### NDD
 
@@ -26,29 +37,12 @@ sidebar: auto
   - 5 does of Chil-X to reduce their bonus roll by 1
   - 2 does of NeuroTick that removes one NDD effect
 
-## Story Cards
+### Erebos Act 3
 
-- NDD Level 6+ give appropriate story card
-- After entering Erebos give Story Card titled 'The Tell-tale Heart' to highest empathy character
-- At start of Act 2 give PC with 'The Tell-tale Heart' them 'Commune with Darkness'
-- When the PC with Story Card 'The Tell-tale Heart' or 'Commune with Darkness' sees the Cheiron give the 'The Heart of the Matter'
-- Those exposed to E Type Abomination and fail their roll give the 'Infected Stage 1' and then each stage
-
-## Erebos
-
-- All lights are out, unidentified clanging noises echo, the reactor hums sporadically, station's hull groans as machinery shifts and is replaced with Living Proto-Hive behind the walls for Act 1
-- Gravity - parts are gravity free, as is space. Characters in Zero-G need **Mobility** to move effectively. Failed roll means they are floundering.
-- Space-workaround - There are many obstacles but there are many airlocks. PCs may need to go outside to circumvent things. Taking **1 Rad per Turn** from the black hole
-- Radiation Zones - Human or Android entering strong radiation must make **Virulence 6 Sickness** roll, weak radiation **Virulence 4 Sickness**
-  - become tainted by the Hessdalen Lights p61, becoming an Abomination p69 within **1 Shift**
-- Plasma - Port side of Deck F, G, H are ablaze with **Intensity 12** plasma fire. Venting these areas **Heavy Machinery / Comtech** will put out fires.
-- Evolution - Erebose becomes less machine and more monster through Acts.
-
-### Erebos post Act 2
-
-- After Act 1 Erebos will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
+- Act 1 Erebos has metamorpahised from a station to a Living-Proto-thing of its own will slowly change appearance to the smooth-sculpted and ribbed free-forms of a Xenomorph hive
 - The Living Proto-Hive is biomechanical honeycombed organism that supports protomorphic lifeforms
 - Fleshy black veins and tendons grow, transmogrifying metal supports into skeleton structures and powerlines into arteries to pump plasmatic energy
+- Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
 - p62 for more on what the Living Proto-Hive can do
 
 ## Chute
@@ -597,22 +591,6 @@ sidebar: auto
   - If PCs collect and analyze the globulates they discover particles of the original 26 Draconis Strain whichc can help them either kill or bargin with the Perfected
 
 ## Mandatory Events
-
-### Opening Act 3
-
-- Read The Change p56
-- NDD is starting to become overwhelming p7
-- Make each to make NDD roll
-- Handout Act 3 personal agendas
-- GM note, PCs are not expected to survie, it's imoirtanrt than winning doesn't mean gfetting out alive it means acting out your agenda with the Perfected
-- Proto-Hive is metamorphasis is complete, it has become a Living Proto-thing of its own
-- Station is crawling with a dozen newborn **PASSIVE** Fulfremmen p70
-- If the PCs haven't stopped the Hive's tendrills from invading the Cetorhina (ship the arrived on) the Living Proto-Hive begins priming her FTL drive
-- Recap the offer from the Fulfremmen
-- Recap - did they recreate the strain?
-- Recap Lukes calling the UPP ship to collect the info leading to [The Rescue](#the-rescue)
-- Whatever the PCs are planning to do - now is the time
-- Kick off with a [Gravitic-shear](#gravitic-shear) Go to [Mr Man's Escape Artists](#mr-mans-escape-artists)
 
 ### Options to Resolve Scenario
 
