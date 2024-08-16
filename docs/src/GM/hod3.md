@@ -645,20 +645,15 @@ sidebar: auto
 - "Weyland" rescue ship moves in close to scan the station revealing itself to be the UPP Destroyer Snova Traknu
 - It's here to retrieve its operatives and destroy Erebos
 - UPP may be persauded to take the PCs with them
-- Play this event in tandem with [Survivor](#survivor), [Escalation](#escalation) and/or [Retaliation](#retaliation) and have the Destroyer crushed by the living station
-
-#### Survivor
-
-- Can be played with [The Rescue](#the-rescue)
-  - Dropship craw is a Space Operating Forces commando team from the UPP Destroyer Snova Traknu
-- A gray Cheyenne dropship (UPP Accipiter) docks at a port neat the PCs
-- They are immediately besiged by **3 ACTIVE PROTOMORPH TRILOBITES** p66
+- Survivor
+  - Dropship crew is a Space Operating Forces commando team from the UPP Destroyer Snova Traknu
+  - A gray Cheyenne dropship (UPP Accipiter) docks at a port neat the PCs
+  - They are immediately besiged by **3 ACTIVE PROTOMORPH TRILOBITES** p66
   - Only one ends up surviving - Sub-Lieutenant C'ng Pfluger
-
-#### Escalation
-
-- When the Snova Traknu has moved close to the station Erebos trawling arms bend and reach for the Destroyer, embracing and crushing it
-- If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
+- Escalation
+  - When the Snova Traknu has moved close to the station Erebos trawling arms bend and reach for the Destroyer, embracing and crushing it
+  - If Erebos no longer has the Cetorhina's FTL drive, it tries to take the Snova's
+  - which can lead to [Retaliation](#retaliation)
 
 ### Retaliation
 
