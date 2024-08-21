@@ -608,7 +608,7 @@ sidebar: auto
 - The Great Aunt
   - Convince [Perfected Aly](#perfect-aly) aunt of Cetorhina's Captain Lugar to defeat them from within
 
-### Gravitic Shear
+### Gravitic Shear - DONE 1
 
 - Event should occur a few times as knowledge will help PCs save the station if they choose
 - Station suddenly shudders and PCs feel their stomach drop with **Mobility** to stay on their feet
@@ -630,7 +630,7 @@ sidebar: auto
 - If Cetorhina escapes without realising the Living Hive is growing onboard the ship it will bring death to civilized worlds
   - This Hive is young it can be killed with **Intensity 9** fire
 
-### The Perfect Demand
+### The Perfect Demand - DONE
 
 - Shrill noise and imagery explodes inside the Pcs heads
 - A Perfected and **2 Deacons** have cornered the PCs again
