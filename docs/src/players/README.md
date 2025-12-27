@@ -30,7 +30,7 @@ In an opposed roll, you need to roll more than your opponent to succeed. You can
 
 ## Stealth Mode
 
-![Stealth Sequence](./../images/v2/stealth-sequence.png.png)
+![Stealth Sequence](./../images/v2/stealth-sequence.png)
 
 ## Social Mode
 
