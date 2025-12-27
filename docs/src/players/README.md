@@ -4,4 +4,6 @@ sidebar: auto
 
 # Evolved Overview
 
-## Dice Rolls
+## Skill Roll
+
+![The Skill Roll](/docs/src/images/v2/the-skill-roll.png)
