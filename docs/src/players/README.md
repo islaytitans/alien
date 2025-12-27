@@ -6,4 +6,4 @@ sidebar: auto
 
 ## Skill Roll
 
-![The Skill Roll](/docs/src/images/v2/the-skill-roll.png)
+![The Skill Roll](./../images/v2/the-skill-roll.png)
