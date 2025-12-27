@@ -39,6 +39,35 @@ mode stops. During social mode, the GM estimates how many stretches pass and mov
 
 ## Combat Mode
 
+### Actions
+
+Each round, you can perform one full action and one quick action, or two quick actions
+
+| TYPE  | ACTION                                   | SKILL USED      |
+| ----- | ---------------------------------------- | --------------- |
+| Full  | Attack in close combat                   | CLOSE COMBAT    |
+| Full  | Make a ranged attack                     | RANGED COMBAT   |
+| Full  | Jump or climb                            | MOBILITY        |
+| Full  | Take full cover                          | –               |
+| Full  | Interact with a terminal                 | COMTECH         |
+| Full  | Use machinery                            | HEAVY MACHINERY |
+| Full  | Give first aid                           | MEDICAL AID     |
+| Full  | Persuade someone                         | MANIPULATION    |
+| Full  | Give orders                              | COMMAND         |
+| Full  | Drive a vehicle                          | PILOTING        |
+|       |                                          |                 |
+| Quick | Move into an adjacent zone               | -               |
+| Quick | Move between Short and Adjacent range    | -               |
+| Quick | Move to a door or hatch and peek through | -               |
+| Quick | Lock a door or hatch                     | -               |
+| Quick | Take partial cover                       | -               |
+| Quick | Defend against a close combat attack     | -               |
+| Quick | Aim a ranged attack                      | -               |
+| Quick | Dodge a ranged attack                    | -               |
+| Quick | Reload a weapon                          | -               |
+| Quick | Pick up an item from the ground          | -               |
+| Quick | Rally a broken character                 | -               |
+
 ## Consumables
 
 - Supply Roll
