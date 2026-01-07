@@ -168,6 +168,15 @@ Each round, you can perform one full action and one quick action, or two quick a
 
 ![Critical injuries](./../images/v2/critical-injuries.png)
 
+## Synthetics
+
+- In combat, androids act like humans, and they make skill rolls normally. But there are several differences:
+  - Attributes: Synthetics generally have higher attribute levels than humans.
+  - Skills & Stress: Androids can’t push skill rolls. They don’t suffer stress, don’t have a stress level, and they never make panic rolls.
+  - Damage: If a synthetic goes to zero Health, don’t roll for a critical injury. Instead, roll for critical systems damage on the table below. Until the android suffers a system shutdown (result #6), it can continue to operate, only suffering the effects of the critical injury.
+
+![Synthetics Damage](./../images/v2/synthetic-damage.png)
+
 ## Consumables
 
 - Supply Roll
