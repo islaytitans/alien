@@ -32,12 +32,44 @@ In an opposed roll, you need to roll more than your opponent to succeed. You can
 
 ![Stealth Sequence](./../images/v2/stealth-sequence.png)
 
+- Detection
+  - When within line of sight of an NPC in stealth mode, or vice versa, make a passive open opposed OBSERVATION roll. The roll cannot be pushed, nor trigger stress responses.
+  - GM will ask PCs to roll OBSERVATION without telling you why, and roll for the NPC.
+  - -2 to roll when in darkness for humans
+  - When in a group the highest roll counts
+- Searching A Zone
+  - If you want to examine something in a zone more closely, to search a room or access a data terminal, you may need to stay several stretches in the zone (or even a full shift), if the adventure text or the GM calls for it.
+- Active
+  - Active enemies are moving across the map, stalking you or trying to hide from you.
+- Passive
+  - Passive enemies are not aware of you and are most often stationary, until they spot you or are otherwise alerted to your presence.
+- Access Points
+  - A crawlspace can be entered by one zone’s worth of movement at any access point marked on the map, just like entering any other zone.
+- Sealing Access Points
+  - An access point can be sealed shut with a cutting torch.
+
 ## Social Mode
 
 When you stop to interact socially with NPCs, or just stop to relieve stress (page 22) or chat among each other, stealth
 mode stops. During social mode, the GM estimates how many stretches pass and moves NPCs on the hidden stealth map accordingly. Social mode can also be used when you perform a task that takes more than a stretch to complete. When you start moving around on the map again, stealth mode starts anew
 
 ## Combat Mode
+
+1. Draw initiative card - 1 card per speed
+2. Players and NPCs take their turn in order starting lowest first
+3. On your turn take 2 Quick Actions or 1 Quick Action and 1 Full Action
+4. Once everyone has taken their turn, return to step 1
+
+- Surprise
+  - If combat starts with an attack, attacker draws #1 initiative card, everyone else draws from the deck
+- Ambush
+  - Ambushing party draw the lowest initiative cards, everyone else draws from the deck
+  - Gain +2 dice for the attack
+  - Targets cannot defend or dodge
+- Holding Off
+  - Swap initiative card with someone else they cannot refuse
+- Interrupt Actions
+  - Defend and Dodge can be used out of your turn, it costs a Quick Action and you must not already used all of your Quick Actions this turn
 
 ### Actions
 
@@ -73,7 +105,25 @@ Each round, you can perform one full action and one quick action, or two quick a
 
 ![Close combat attack](./../images/v2/close-combat-attack.png)
 
+- Aim for weakspot
+  - -2 to roll but Armor level reduced by 1
+- Firearms in close combat
+  - Roll Close Combat but -2
+
 ### Ranged combat attack
+
+- Friendly Fire
+  - If you fire at a target Adjacent to another PC and miss, you risk hitting them. Roll for an attack with two base dice, 1 damage per success.
+  - If there are several Adjacent targets, randomize which one is hit.
+- Ammunition
+  - After each attack, make a supply roll for your weapon. When the ammo supply runs out, you need to reload.
+- Reload
+  - Reloading a firearm is a quick action, unless stated otherwise. You need to track your available reloads on your character sheet.
+- Single-Shot
+  - Weapons designated as single-shot must be reloaded after each shot – no supply roll is made.
+- Full Auto
+  - When you fire a burst and hit, without pushing the roll, you can immediately make another attack roll, at the same target or another, as part of the same action. If you hit again (without pushing), you may roll a third time. As soon as you miss, or push a roll, the attack is over. Each attack roll except the first gives you stress level +1. You cannot make more than three attack rolls in a single burst.
+  - When firing a burst, you must make an ammo supply roll after each attack roll.
 
 ![Ranged attack modifiers](./../images/v2/ranged-attack-modifiers.png)
 
