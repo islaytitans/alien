@@ -131,6 +131,43 @@ Each round, you can perform one full action and one quick action, or two quick a
 
 ## Damage
 
+- Broken
+  - If you drop to zero Health, you are broken – in effect, taken out of the action
+  - Immediately roll for a critical injury.
+  - While broken, you can make a single move action per round and mumble through the pain but not perform any other actions. You can’t go below zero Health, but any further damage gives you another critical injury.
+  - While broken, you cannot gain more stress and you never make panic rolls.
+  - There are three ways to get back up after being broken:
+    - First Aid
+      - Someone at Adjacent range can administer first aid with a MEDICAL AID roll (full action, modified for medical gear). On a success, you are no longer broken and recover 1 point of Health per rolled.
+      - If you suffer from a lethal critical injury, you are also stabilized.
+      - Can only recover Health when you are broken.
+    - Rally
+      - Another character in the same zone can try to rally you with a COMMAND roll (quick action). If successful, you are no longer broken and recover 1 point of Health per rolled.
+      - Rallying has no effect on critical injuries.
+      - Can only recover Health when you are broken.
+    - On Your Own
+      - If you’re broken (but not dead) and no one gives you first aid, you automatically get back up after one stretch of time and recover 1 point of Health.
+    - Recovery
+      - As long as you are not fatigued, you automatically recover 1 point of Health per stretch of time while resting in a safe area (even if suffering from a critical injury).
+- Critical Injuries
+  - When knocked down to zero Health, roll a D66 on the table on page 70. If you roll a critical injury you already have (result #14 and above), re-roll.
+  - Death
+    - If you suffer a critical injury listed as lethal, you must make a death roll after the listed time limit has passed. If the time limit is round, Death Roll on your every turn, right after you act.
+  - Death roll
+    - STAMINA cannot push it, and you are not allowed to roll any stress dice. If you fail a death roll, you die. If you succeed, you linger on, but you must make another death roll when the time limit has passed again
+  - First Aid
+    - To save your life when you have suffered a lethal critical injury, someone must give you first aid MEDICAL AID roll to stabilize you before you fail a death roll.
+    - If have critical injury but are no longer broken, you can try to administer first aid on yourself, but with −2 dice.
+    - If the roll succeeds, you are stabilized and can stop making death rolls. If you were broken, you also recover 1 point of Health per rolled. The other effects of your critical injury remain until healed.
+    - If the roll fails, your condition worsens – the time limit is decreased one step, for example from shift to stretch, or stretch to round. If the time limit was already round, you perish.
+  - On Your Own: If you succeed at three death rolls on your own, you survive without help and can stop rolling.
+
+![Damage](./../images/v2/damage.png)
+
+![Typical Barriers](./../images/v2/typical-barriers.png)
+
+![Critical injuries](./../images/v2/critical-injuries.png)
+
 ## Consumables
 
 - Supply Roll
