@@ -10,7 +10,29 @@ sidebar: auto
 
 ## Stress Roll
 
-![Stress Roll Respinse](./../images/v2/stress-roll-response.png)
+Gain stress in many ways, such as:
+
+- You push a skill roll (page 6).
+- You or a nearby PC suffers a certain stress or panic response.
+- A nearby NPC panics (as determined by the GM).
+- You make a second or third attack roll in a burst of full auto fire (page 18).
+- You become fatigued (page 22).
+- A member of your own crew attacks you.
+- Any unnerving encounter as determined by the adventure or the GM.
+
+![Stress Roll Response](./../images/v2/stress-roll-response.png)
+
+## Panic Roll
+
+Make a panic roll when:
+
+- You witness another PC become broken.
+- You see a horrifying Xenomorph for the first time.
+- A terrifying Xenomorph comes within Adjacent range (even if you have seen it before).
+- You witness another PC suffer from a certain panic response.
+- A truly horrifying event occurs, as determined by the adventure or the GM.
+
+![Panic Roll Response](./../images/v2/panic-roll-response.png)
 
 ## Opposed Rolls
 
@@ -168,7 +190,7 @@ Each round, you can perform one full action and one quick action, or two quick a
 
 ![Critical injuries](./../images/v2/critical-injuries.png)
 
-## Synthetics
+### Synthetics
 
 - In combat, androids act like humans, and they make skill rolls normally. But there are several differences:
   - Attributes: Synthetics generally have higher attribute levels than humans.
@@ -176,6 +198,29 @@ Each round, you can perform one full action and one quick action, or two quick a
   - Damage: If a synthetic goes to zero Health, don’t roll for a critical injury. Instead, roll for critical systems damage on the table below. Until the android suffers a system shutdown (result #6), it can continue to operate, only suffering the effects of the critical injury.
 
 ![Synthetics Damage](./../images/v2/synthetic-damage.png)
+
+### Fatigue, falling, fire and explosions
+
+- Fatigue
+  - Roll SURVIVAL at regular intervals if you don’t get enough air, water, food, or sleep, or if you are exposed to extreme cold or heat without protection
+  - As soon as you fail such a roll, you become fatigued.
+  - You cannot recover health
+  - Continue SURVIVAL rolls taking 1 damage and +1 stress on a failed roll
+  - If broken by fatigue damage, don't roll on critical injuries, make death rolls at same time as SURVIVAL rolls
+- Fall damage
+  - Take damage equal to the height in meters divided by 2
+- Fire
+  - Intensity between 6 - 9. Roll dice every 1 is 1 damage
+  - When entering a burning zone, or starting a round in one, roll a number of base dice equal to the intensity.
+  - Catching Fire: If you take damage from a fire attack, you catch fire and continue to burn, suffering another fire attack at the start of each new round
+    - As soon as a fire attack outside the burning zone inflicts no damage, you’re no longer on fire.
+    - You, or a friend at Adjacent range, can stop you from burning with a successful MOBILITY roll (full action).
+  - Fire Spreading: For a typical fire, roll a D6 at the start of each round.
+    - On 1–2, the fire goes out and the zone is no longer considered burning.
+    - On 3-4, the fire continues
+    - On a 5–6, the fire spreads to a random adjacent zone, assuming the zone border is open and there is something in the adjacent zone that can burn.
+- Explosions
+  - Successfully hit, also hits surrounded PCs and NPCs all suffering same damage, can be dodged
 
 ## Consumables
 
