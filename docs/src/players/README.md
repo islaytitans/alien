@@ -8,6 +8,10 @@ sidebar: auto
 
 ![The Skill Roll](./../images/v2/the-skill-roll.png)
 
+### Opposed Rolls
+
+In an opposed roll, you need to roll more than your opponent to succeed. You can push the roll even if you’re the target of an opposed roll. In the case of two PCs rolling off against each other, the active PC decides whether to push the roll first, and if so, re-rolls, then the passive PC decides whether to push or not.
+
 ## Stress Roll
 
 Gain stress in many ways, such as:
@@ -34,11 +38,9 @@ Make a panic roll when:
 
 ![Panic Roll Response](./../images/v2/panic-roll-response.png)
 
-## Opposed Rolls
+## Movement
 
-In an opposed roll, you need to roll more than your opponent to succeed. You can push the roll even if you’re the target of an opposed roll. In the case of two PCs rolling off against each other, the active PC decides whether to push the roll first, and if so, re-rolls, then the passive PC decides whether to push or not.
-
-## Measuring Time
+### Measuring Time
 
 | Unit    | Duration     | Primary Use |
 | ------- | ------------ | ----------- |
@@ -46,7 +48,7 @@ In an opposed roll, you need to roll more than your opponent to succeed. You can
 | Stretch | 5–10 minutes | Stealth     |
 | Shift   | 5–10 hours   | Repairs     |
 
-## Measuring Distance
+### Measuring Distance
 
 ![Measuring distance](./../images/v2/measuring-distance.png)
 
@@ -238,7 +240,7 @@ Each round, you can perform one full action and one quick action, or two quick a
 - Over-Encumbered
   - You can temporarily carry up to twice your normal encumbrance limit, i.e. Strength × 4 regular items. When doing so, your stress level (page 20) increases one step every time you move in a stretch of stealth mode (page 8) or a round of combat (page 12).
 
-### Synthetics
+## Synthetics
 
 - In combat, androids act like humans, and they make skill rolls normally. But there are several differences:
   - Attributes: Synthetics generally have higher attribute levels than humans.
