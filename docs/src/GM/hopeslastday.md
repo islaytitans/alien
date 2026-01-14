@@ -13,6 +13,16 @@ sidebar: auto
 - They have motion detector
 - [Staggering from the south ](#opening)
 
+### Act 2 Begins
+
+- Begins when PCs see their first Xenomorph
+- Give out agenda cards
+
+### Act 3 Begins
+
+- Begins when the PCs have talked to Dr. Komiskey in the Medlab
+- Give out agenda cards
+
 ## Hadley's Hope
 
 ### Outside
@@ -66,6 +76,68 @@ sidebar: auto
 - Sealing Access Points: An access point can be sealed shut with a cutting torch by making a HEAVY MACHINERY roll (full action). A sealed access point has armor level 2 and breaks after 8 points of damage.
 - Central Unit: The air ducts leading off the map to the Central Unit of the map (one on each level) are the way the Xenomorphs move in and out of the South Wing. Any PC trying to come this way will face one or more Drones lurking here, effectively blocking the way.
 
+## Level 1
+
+### Storage Rooms
+
+- There are several storage rooms throughout the South Wing, marked on the map. These have been ransacked
+  by panicking colonists
+- If the PCs spend a stretch searching a storage room, let them make an OBSERVATION roll. For each rolled, roll once on the adjacent table. Re-roll any duplicates.
+  - Fire Axe
+  - Bolt Gun
+  - Power cell
+  - Medkit
+  - Flashlight
+  - Tape Recorder
+- A storage room can only be searched once, but several PCs can help. Note that the storage room behind the Station Maintenance Center on level 2 is an armory with a different random table (page 10).
+
+### Geolab West
+
+- This cluttered laboratory was used to track the progress of LV-426’s terraforming.
+- Now, it is deserted. A half-eaten doughnut sits on a desk in the eastern lab (relieves fatigue from hunger for one PC)
+
+### Sterile Lab
+
+- This deserted laboratory holds little of interest except some half-finished cups of coffee and a small cage with two mice in it. These mice can trigger motion detectors see [we've got movement](#we-got-movement)
+
+### Survey Office
+
+- Another deserted office. There is a decent – and still functional – coffee machine on a side desk. A cup gives
+  stress level +1 but postpones fatigue from lack of sleep for one shift.
+- Also, if the PCs make any kind of noise in here, the Drone hiding in the nearby air vent will be alerted and
+  start stalking them.
+
+### Weyland-Yutani Office
+
+- Operations Manager Al Simpson’s cluttered office was recently commandeered by corporate agent Miranda Reynolds.
+- If the PCs enter, they’ll find her in the northernmost chair, facing away from the door. She seems to be sitting quietly with her head down, snoozing maybe.
+- A small ventilation grill on the opposite wall has been battered free
+- Reynolds is dead, having been brutally killed by a Xenomorph Drone. Her face and neck are a bloody mess
+  (stress level +1 for all who see her). The Keycard: A keycard hangs around Reynolds’ neck on a Weyland-Yutani lanyard. This is the type of card required to start the shuttle on the Landing Pad. If a PC removes the keycard and wipes the gore away (stress level +1), they realize it’s destroyed beyond repair.
+- Comms on the desk, spattered with Reynolds’ blood, is a small hand-held comms device, linked to Dr. Komiskey. A light on it is blinking. Komiskey has been desperately trying to call Reynolds for help, ever since she awoke
+  trapped in the Medlab. If the PCs answer, they can talk to Komiskey, who is in the Surgery Room on level 2. She is in shock, sounding vague and distant. [She asks for help](#theodora-komiskey)
+- A Drone Xenomorph is hiding in the air vent next to the office. If still here when the PCs enter, it will become active and start stalking them. It will attack at an opportune moment. If the PCs linger in the office, the Xeno can even attack them here.
+
+### Geolab East
+
+- This room is a horror show.
+- Tables and chairs are thrown about, the air reeks of gun smoke, and there is blood everywhere – stress level +1. There are no bodies here, but there is a thick blood smear on the wall, leading up to the air duct grill in the ceiling.
+- If the PCs search the room (OBSERVATION roll and a stretch of time) they find an M4A3 Service Pistol in the mess (loaded).
+
+### Geological Manager Office
+
+- This room is littered with coffee cups and the bins are full.
+- If searched, a successful OBSERVATION roll (one stretch) will allow the PCs to find some junk food (relieves fatigue from hunger for two PCs).
+
+### Assistant Manager Office
+
+- This stuffy little office that used to belong to Assistant Operations Manager Lydecker is largely untouched.
+- If searched, a successful OBSERVATION roll (one stretch) will let the PCs find a key marked Armory in a drawer.
+
+### Asset/Claims Office
+
+- If searched, a successful OBSERVATION roll (one stretch) will let the PCs find D6×100 W-Y dollars in cash, a water bottle and a candy bar (relieves fatigue from thirst and hunger for one PC).
+
 ## Tannen's Casino
 
 THE FRESH BLING can’t hide the utilitarian nature of this place. There is a walkway from the upper floor of the casino to level 2 of the South Wing.
@@ -108,16 +180,6 @@ THE FRESH BLING can’t hide the utilitarian nature of this place. There is a wa
 - Once inside the PCs can
   - explore freely
   - access colony overview map from a terminal
-
-### Act 2 Begins
-
-- Begins when PCs see their first Xenomorph
-- Give out agenda cards
-
-### Act 3 Begins
-
-- Begins when the PCs have talked to Dr. Komiskey in the Medlab
-- Give out agenda cards
 
 ### Hunted
 
@@ -164,6 +226,33 @@ THE FRESH BLING can’t hide the utilitarian nature of this place. There is a wa
 
 The only way to escape Hadley’s Hope is via the Starcub corporate shuttle on the Landing Pad. However, to operate it they need a corporate key card – something only Miranda Reynolds and her chief science officer Theodora Komiskey have (and only Komiskey’s works). Once the players realize this and have retrieved the key card, the finale of the adventure begins. See page 14
 
+### The Swarm
+
+- The PCs suddenly hear heavy thumping sounds. An OBSERVATION roll (no action) will let them understand that
+  it’s coming from the barricades leading to the Central Unit and the Sublevels. The Xenomorphs have noticed the PCs and sent a swarm to capture them!
+- Within minutes, the South Wing will be overrun by Drones. The players should understand that their only
+  way to survive Hope’s Last Day is to use the shuttle on the Landing Pad to escape. If the PCs are having an easy time, let the barricades break and have the PCs face a Drone or two on the way out.
+
+### To The Shuttle
+
+- When the PCs make their final dash for the shuttle, the Xenos will be after them. Each of them must make a
+  successful MOBILITY roll to reach the Landing Pad.
+  - A failed roll means that the PC falls behind. Other PCs can choose to wait, meaning they also need to roll again, or leave the failing PC behind.
+- If any PC fails three MOBILITY rolls, a Drone Xeno has caught up with them and attacks. The attack is deemed
+  surprising, and the Xeno gets the #1 initiative card. If they survive this fight, they reach the shuttle.
+
+### Taking Off
+
+- As the PCs and any NPC survivors reach the shuttle, Komiskey’s key card is needed to open the hatch and
+  scramble inside.
+- The swarm is outside, banging on the hatch, and one PC needs to make a PILOTING roll to power up the engines and take off. Several attempts are allowed, but each failed roll means stress level +1 for everyone inside
+
+### A Nasty Surprise
+
+- Finally off the ground, the PCs may believe their trials are over – but they are in for a nasty surprise. Miranda’s team had been busy, gathering a number of eggs (equal to the number of PCs who made it here), and storing them inside the shuttle (in the small room to the right).
+- The problem is, the coolant that they applied to the eggs (page 8) wore off faster than expected. Now, the eggs are very much active. As soon as a PC or NPC enters the room where they are stored, or at any point you want, the eggs are immediately activated and each discharges a Facehugger, which immediately attacks – stress level +1 for all.
+- If any of the PCs survive the final attack, their final fate is beyond the bounds of this adventure. No record of the whereabouts of these characters exists beyond their departure from LV-426
+
 ## Characters
 
 ### Wes Osterman
@@ -176,6 +265,16 @@ The only way to escape Hadley’s Hope is via the Starcub corporate shuttle on t
 
 - In Tannen's Casino
 - Lin is a mess. Wounded and left unconscious among her friends by the Xenomorph, she’s scared and confused. She’s unaware of being facehugged but feels that something is horribly wrong.
+
+### Theodora Komiskey
+
+- Komiskey has been the lead science officer on Miranda Reynolds’ corporate team for years. Even though she was
+  initially kept in the dark over the situation on LV-426, she was fully supportive when she finally found out. She hadn’t believed in the stories and now that they have come true she cannot cope
+- Dr. Komiskey was trapped in the Surgery Room which was automatically sealed when the base went into lockdown. She has woken up after having been facehugged and realizes she is doomed, but still has hope that the Company will save her.
+- Komiskey pleads with the PCs to release her and offers to help them escape in the Starcub shuttle. She has the keycard on a lanyard around her neck and can explain its use. She won’t volunteer the fact that she has been facehugged, but if they make a successful MANIPULATION roll against her, she will admit it (stress level +1 for all who hear that).
+- If asked why she came to Hadley’s Hope, Komiskey rambles on about how Reynolds inter-cepted a transmission from some corporate exec on Earth and decided to elbow in on the potential find. She assembled her inspection team off the books and came here.
+- If the PCs release Dr. Komiskey, she will show the PCs the Xenomorph egg in the coolant compartment in the Medlab and the hyper-coolant spray canisters used to keep eggs inert.
+- Later during the adventure, the Chestburster in Komiskey can [be birthed](#the-birth)
 
 ### Grey
 
