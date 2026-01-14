@@ -13,13 +13,18 @@ sidebar: auto
 - They have motion detector
 - [Staggering from the south ](#opening)
 
-## LV-426
+## Hadley's Hope
 
 ### Outside
 
 - Despite the Xenomorphs lurking inside the base, it should still feel like a safer place to be than going outside.
 - Outside, it takes a stretch of time and a successful SURVIVAL roll for each PC to walk between two Locks (or the door to Tannen’s), due to the heavy rain and wind. Failure means they fall behind and need to roll again.
 - For each stretch spent outside, roll a stress die. On a (or whenever you feel it’s dramatically appropriate) a Drone Xenomorph approaches the PCs. Make an opposed OBSERVATION roll as per the stealth mode rules.
+
+### Other Areas
+
+- LARGE AREAS OF THE HADLEY’S HOPE colony are out of scope for this adventure, and there are no interior maps provided for them. This includes the West, North, and East Wings of the colony, along with the Central Unit and Sublevels, as well as the huge atmosphere processor near the colony.
+- The PCs have no incentives to go to these locations in the adventure. If they insist on going anyway, they will be attacked by an increasing number of Drone Xenomorphs, as these areas are all heavily infested
 
 ## South Wing
 
@@ -53,14 +58,38 @@ sidebar: auto
 
 - There is one stairway and one freight elevator in the South Wing, as indicated on the map.
 - The stairway allows movement between the two levels (one move in stealth mode, quick action in combat) as well as down to the multiple sublevels below. However, the stairways down end in barricades as per above.
-- The freight elevator is damaged and stuck on level 1. It can be repaired with a successful HEAVY MACHINERY roll and a stretch of work and will then carry up to six people between the floors in one round (quick action to operate). It’s also possible to climb the shaft (one move in stealth
-  mode, full action in combat), but that requires a MOBILITY roll with failure causing a fall of D3+1 meters.
+- The freight elevator is damaged and stuck on level 1. It can be repaired with a successful HEAVY MACHINERY roll and a stretch of work and will then carry up to six people between the floors in one round (quick action to operate). It’s also possible to climb the shaft (one move in stealth mode, full action in combat), but that requires a MOBILITY roll with failure causing a fall of D3+1 meters.
 
 ### Air Ducts
 
 - There are air ducts throughout the South Wing, marked on the map including access points. At four points, marked A, B, C and D, there are vertical ducts allowing movement between level 1 and 2 (one move in stealth mode, quick action in combat). The air ducts are crawlspaces as per the rules on page 9 in the Rules booklet.
 - Sealing Access Points: An access point can be sealed shut with a cutting torch by making a HEAVY MACHINERY roll (full action). A sealed access point has armor level 2 and breaks after 8 points of damage.
 - Central Unit: The air ducts leading off the map to the Central Unit of the map (one on each level) are the way the Xenomorphs move in and out of the South Wing. Any PC trying to come this way will face one or more Drones lurking here, effectively blocking the way.
+
+## Tannen's Casino
+
+THE FRESH BLING can’t hide the utilitarian nature of this place. There is a walkway from the upper floor of the casino to level 2 of the South Wing.
+
+### The Bodies
+
+- There are five bodies stacked against the walkway door on the casino side. They fall in a cascade of gore if that door is opened from the outside, giving stress level +1 to all who see it and a panic roll for the one who opened the door – and alerting the Xenomorph downstairs.
+- One victim, [Angela Lin](#angela-lin), is alive but unconscious. She has been facehugged and may soon birth a Chestburster
+
+### The Bar
+
+- There is a bar on the ground floor of Tannen’s Casino. Here, a Drone lurks, trying to get into the service area behind the bar where the colonist [Wes Osterman](#wes-osterman) is trapped inside. - The Xeno is passive in relation to the PCs until alerted. [See the event “A Cry for Help”](#a-cry-for-help). If the PCs wait too long, the Xeno will break down the door and kill poor Wes.
+
+## Landing Pad
+
+- OUTSIDE THE NORTH SHIELD WALL of the colony is the Landing Pad, with an adjoining Air Traffic Control Center.
+- The ATCC building has a storeroom and generator on the ground floor, and the control room with panoramic windowson the first floor. There is no power to the ATCC, and no way to fix it.
+
+### The Shuttle
+
+- A modified Lockmart Starcub with planetfall capacity rests on the far side of the landing pad. It can carry up to ten people at a squeeze but only has two cryobeds.
+- However, it is securely clamped to the ground as a result of the automatic lockdown procedure, and one of the clamps completely blocks the access hatch.
+- The only way to release the shuttle is to use the keycard carried by Komiskey.
+- The shuttle is the likely scene for the finale of the adventure. [See final horrors](#final-horrors)
 
 ## Mandatory Events
 
@@ -80,19 +109,54 @@ sidebar: auto
   - explore freely
   - access colony overview map from a terminal
 
-### Act 2
-
 ### Act 2 Begins
 
 - Begins when PCs see their first Xenomorph
 - Give out agenda cards
 
-### Act 3
-
 ### Act 3 Begins
 
 - Begins when the PCs have talked to Dr. Komiskey in the Medlab
 - Give out agenda cards
+
+### Hunted
+
+- At no point should the PCs feel safe. If they stay for too long in one place or start to get complacent, one or more Drones arrive from the nearby hive (through the air ducts to the Central Unit) and start to stalk them.
+
+### The Gunshot
+
+- In the dead silence, the PCs hear a sudden gunshot and a lonesome scream that echoes through the ventilation
+  ducts – stress level +1 for all. The shot originates from the East Geological Lab on level 1, which the PCs can discern with an OBSERVATION roll (no action).
+
+### A Cry for Help
+
+- An intercom buzzer sounds close to the PCs, loud in the quiet, making them all jump. The colonist Wes Osterman
+  (page 10) is trapped in the bar in Tannen’s Casino.
+- He keeps buzzing until they answer and then he will beg for help. If they don’t answer, the noise will make any Xenos in their area active.
+- Osterman says he has locked the door, but something is trying to get in. In the background they can hear the dull thump, thump, thump of something heavy battering the door to the bar.
+- If they decide to help Wes, see [Tannen's Casino](#tannens-casino).
+- If they wait too long to decide, they hear the door to the bar give way, along with the squeals of the Xeno and the screams of Osterman as he is taken away to the hive (stress level +1).
+
+### We Got Movement
+
+- If the PCs use a motion detector, they suddenly detect a ping in the Sterile Lab on level 1. The ping remains if they try it again. This ping is from a mouse in the [lab](#the-lab), but the PCs won’t know that until they get there.
+
+### The Mystery Ping
+
+- When using a motion detector, the PCs suddenly detect a ping in a nearby air duct. If they investigate, they only find the headless remains of a children’s doll.
+- The ping was actually Rebecca “Newt” Jorden, daughter to the prospector Russ Jorden. She stays away and the PCs have no way to find her or interact with her during this adventure
+
+### Power Cut
+
+- Suddenly, all of the lights go out in the South Wing, and a dim emergency light flickers on. In the darkness,
+  all OBSERVATION rolls are made with –2 dice. Did the Xenomorphs do this?
+- The power can be restored in the Life Support / Power room on level 2.
+
+### The Birth
+
+- If the PCs have rescued Dr. Komiskey from the Medlab or Angela Lin from Tannen’s Casino, the Chestbursters
+  inside them will be born sooner or later.
+- If a PC has been facehugged, this can happen to them as well. This is probably the first time the PCs witness such an event, triggering an immediate panic roll.
 
 ## Final horrors
 
@@ -100,9 +164,18 @@ sidebar: auto
 
 The only way to escape Hadley’s Hope is via the Starcub corporate shuttle on the Landing Pad. However, to operate it they need a corporate key card – something only Miranda Reynolds and her chief science officer Theodora Komiskey have (and only Komiskey’s works). Once the players realize this and have retrieved the key card, the finale of the adventure begins. See page 14
 
-## Optional Events
-
 ## Characters
+
+### Wes Osterman
+
+- In Tannen's Casino
+- Osterman’s new life at Hadley’s Hope is his last chance, given how
+  hard he’s found it to hold down a solid job. He maintains heating systems for a living. When ordered back to his quarters he displayed the same lack of discipline that’s hounded him his entire life and said, “Damn it, I’m going to the bar for a drink!”
+
+### Angela Lin
+
+- In Tannen's Casino
+- Lin is a mess. Wounded and left unconscious among her friends by the Xenomorph, she’s scared and confused. She’s unaware of being facehugged but feels that something is horribly wrong.
 
 ### Grey
 
