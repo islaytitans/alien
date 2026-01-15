@@ -116,7 +116,7 @@ sidebar: auto
   (stress level +1 for all who see her). The Keycard: A keycard hangs around Reynolds’ neck on a Weyland-Yutani lanyard. This is the type of card required to start the shuttle on the Landing Pad. If a PC removes the keycard and wipes the gore away (stress level +1), they realize it’s destroyed beyond repair.
 - Comms on the desk, spattered with Reynolds’ blood, is a small hand-held comms device, linked to Dr. Komiskey. A light on it is blinking. Komiskey has been desperately trying to call Reynolds for help, ever since she awoke
   trapped in the Medlab. If the PCs answer, they can talk to Komiskey, who is in the Surgery Room on level 2. She is in shock, sounding vague and distant. [She asks for help](#theodora-komiskey)
-- A Drone Xenomorph is hiding in the air vent next to the office. If still here when the PCs enter, it will become active and start stalking them. It will attack at an opportune moment. If the PCs linger in the office, the Xeno can even attack them here.
+- A **Drone Xenomorph** is hiding motionless in the air vent next to the office. If still here when the PCs enter, it will become active and start stalking them. It will attack at an opportune moment. If the PCs linger in the office, the Xeno can even attack them here.
 
 ### Geolab East
 
@@ -137,6 +137,60 @@ sidebar: auto
 ### Asset/Claims Office
 
 - If searched, a successful OBSERVATION roll (one stretch) will let the PCs find D6×100 W-Y dollars in cash, a water bottle and a candy bar (relieves fatigue from thirst and hunger for one PC).
+
+## Level 2
+
+### Operations
+
+- “Ops” is the nerve center of the colony, monitoring vital functions and security. It’s usually busy but right now it’s unmanned. The intercom hisses static and a screen flickers.
+- The CCTV system is damaged, but a successful COMTECH roll gives access to a few cameras. Flicking through, the PCs see the following:
+  - View of carnage in the other Wings and the Sublevels. There are signs of a terrible battle, doors torn apart and ceiling and floor panels shredded. There are some mutilated bodies, but not as many as they might imagine. Stress level +1 for all who see it. This should discourage players from trying to enter these areas.
+  - Tannen’s Casino, seemingly deserted, until a disturbingly large and unnatural shadow suddenly comes into view. The PCs can’t quite make out what it is.
+  - A corridor where a Drone Xenomorph is lurking right now (if there is one). The PCs can only watch it standing there, its eyeless head raised, its whip of a tail languidly carving the air - stress level +1 if this is their first view of a Drone.
+  - The landing pad, showing the Starcub corporate shuttle sitting there, lashed by rain and wind. No one seems to be around.
+- Personal Data Transmitters: All colonists of Hadley’s Hope are equipped with surgically implanted “PDTs” which transmit their location at all times. These can be tracked from Ops with a COMTECH roll. If successful, the PCs can find the following (modify if these people have moved):
+  - Company Agent Miranda Reynolds is in the W-Y Office on level 1.
+  - W-Y science officer Theodora Komiskey is in the Surgery Room on level 2.
+  - Operations Manager Al Simpson and the colonist John J. Marachuk are in the Morgue on level 2.
+  - Five colonists, including Angela Lin, seem to have converged on the skywalk to Tannen’s Casino on level 2.
+  - Service Technician Wes Osterman is inside Tannen’s Casino.
+  - Strangely, no other colonists seem to be present in the main colony buildings. The PCs are not able to scan further afield than that at this time.
+
+### Medlab
+
+- The Medlab includes a medical station for biochemistry analysis, a biological safety cabinet, cooler compartments, and windows into the adjacent Stasis Room and Surgery Room. The place is in shambles, empty cabinets flung open and over-turned in the mad scramble for medical supplies.
+- **Operating Room Windows**: Inside the adjacent dimly lit Surgery Room, the PCs suddenly see a pale-faced woman, pressing her hand on the glass – stress level +1 for all PCs present. This is [Dr. Komiskey](#theodora-komiskey), the Weyland-Yutani science officer (next page). Along with Komiskey, the PCs can see what looks like a dead spider-like creature on the floor (a Facehugger).
+- **Surgical Access**: Access to the Surgery Room goes through the adjacent Stasis Room. The windows to the Medlab have armor level 2 and will shatter if any attack breaches them.
+- **Intercom**: The PC can speak to Komiskey over the comms. For more about interacting with Dr. Komiskey, [see the here](#theodora-komiskey).
+- **The Egg**: If the PCs open the cooler compartments in the Medlab, they will find a large, leathery egg kept in a deep freeze. This is an Ovomorph – a Xenomorph egg (page 18), kept inert by the cold. If taken out, it will thaw and become active – and very dangerous – within one stretch. There are several medical containers in the Medlab that can be used to carry the egg. It counts as one inventory item.
+- **Hyper-Coolant Spray**: In a cabinet in the Medlab, there is a canister with a hyper-coolant spray used by Dr. Komiskey’s team to keep the eggs dormant for transport. Each use keeps one egg dormant for one stretch of time. The remaining canister has a Supply rating of 3. If released, Dr. Komiskey will tell the PCs about the egg and the spray.
+
+### Stasis Room
+
+- This cramped room is used for access to the Surgery Room as well as biopsy storage and regrowth tubes. There are seven large glass tubes on desks here, each containing a spiderlike Facehugger floating in liquid. Five of these are dead, but two are alive – surgically removed before embryo implantation, killing their victims in the process (including the colonist John J. Marachuk, who can be found in the Morgue).
+- **The Facehuggers**: If a PC comes near a tube, one Facehugger will suddenly react, thrashing with its tail – stress level +1 for the PC. The tubes can be moved and carried (counts as one inventory item) and even thrown into an adjacent room or zone – a living Facehugger will then be freed and attacks immediately.
+- **Surgical Access**: This room has a viewing window and a door to the adjacent Surgery Room. The door is locked and cannot be opened from the inside. From the outside, it can be opened with a COMTECH roll, or broken down by 10 points of damage (armor level 2) – a sure way to alert the Drone in the level 1 corridor just underneath, and any other Xenos nearby. The window to the Medlab has armor level 2 and will shatter if any attack breaches it.
+
+### Surgery Room
+
+- This operating theater for ambulatory surgery is dominated by a large Pauling Surgical & Scanner MedPod. It also has a patient rest bed in a corner. Along with Komiskey, there is a dead Facehugger on the floor.
+- **The Medpod**: The Pauling MedPod is an autonomous medical scanner and surgical unit. It can treat infections and perform basic wound repair and pre-programmed surgical procedures. The MedPod features an airtight operating shield, comfortable limb restraints, a laser scalpel, computer controlled robotic surgical arms, liquid spray anesthetic and vital signs sensors.
+  - Effect: The MedPod can administer first aid and perform surgery with MEDICAL AID skill level 10 (the roll cannot be pushed).
+
+### Station Maintenance Center
+
+- This area is a mess with wall panels ripped off and water dripping from the ceiling. If searched, a successful OBSERVATION roll (one stretch) will let the PCs find a cutting torch (fully charged) in this room.
+- **Armory**: The storage room in the back is actually an armory and marked as such on the door. The door is locked (keys can be found in the Morgue and the W-Y Manager Office on level 1). It can be opened with a COMTECH roll at –2 dice or brute force (10 points of damage, armor level 2) – the latter solution will alert all Xenos nearby. The armory was largely emptied when the colonists armed themselves to fend off the Xenos threat, but if the PCs spend a stretch searching it, let them make an OBSERVATION roll. For each rolled, roll once on the table below. Re-roll any duplicates. The armory can only be searched once, but several PCs can help.
+  1 M4A3 Service Pistol (loaded, one reload)
+  2 M240 Incinerator Unit (no reloads)
+  3 Armat Model 37A2 12 Gauge Pump Action (loaded, no reloads)
+  4 .357 Magnum (loaded, no reloads)
+  5 Armat M41A Pulse Rifle (loaded with both bullets and grenades, no reloads)
+  6 D6 M40 HEDP Hand Grenades
+
+### Life Support/Power
+
+- In this cramped room, power can be turned off (and back on) throughout the colony with a COMTECH roll and a stretch of time. Turning off the power will trigger a dim red emergency light throughout the base. In the dark, OBSERVATION rolls get –2 dice for the PCs (Xenos are not affected). In addition, any items with a Power supply can be recharged in one stretch of time in this room.
 
 ## Tannen's Casino
 
@@ -163,7 +217,7 @@ THE FRESH BLING can’t hide the utilitarian nature of this place. There is a wa
 - The only way to release the shuttle is to use the keycard carried by Komiskey.
 - The shuttle is the likely scene for the finale of the adventure. [See final horrors](#final-horrors)
 
-## Mandatory Events
+## Events
 
 ### Opening
 
@@ -276,18 +330,9 @@ The only way to escape Hadley’s Hope is via the Starcub corporate shuttle on t
 - If the PCs release Dr. Komiskey, she will show the PCs the Xenomorph egg in the coolant compartment in the Medlab and the hyper-coolant spray canisters used to keep eggs inert.
 - Later during the adventure, the Chestburster in Komiskey can [be birthed](#the-birth)
 
-### Grey
-
-> Service Android
-
-> Docile
-
-> Wants to serve humankind
-
 ## Enemies
 
-- A Drone lurking in the corridor by the walkway to Tannen’s Casino on level 2. It hears the PCs enter-ing the base and starts stalking them immediately, moving through the halls or air vents. This Drone
-- may trigger the PCs’ motion detector.
+- A Drone lurking in the corridor by the walkway to Tannen’s Casino on level 2. It hears the PCs entering the base and starts stalking them immediately, moving through the halls or air vents. This Drone may trigger the PCs’ motion detector.
 - A Drone hiding in the air vent next to the Weyland-Yutani Office on level 1. It remains still until the PCs arrive and won’t trigger the motion detector until then.
 - A Drone inside Tannen’s Casino, trying to break through the door to the service area behind the bar where Wes Osterman is hiding.
 - One Ovomorph (alien egg) in the Medlab (page 8).
