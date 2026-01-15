@@ -18,7 +18,7 @@ sidebar: auto
 - Despite the Xenomorphs lurking inside the base, it should still feel like a safer place to be than going outside.
 - Outside, it takes a stretch of time and a successful SURVIVAL roll for each PC to walk between two Locks (or the door to Tannen’s), due to the heavy rain and wind. Failure means they fall behind and need to roll again.
 - For each stretch spent outside, roll a stress die. On a (or whenever you feel it’s dramatically appropriate) a Drone Xenomorph approaches the PCs. Make an opposed OBSERVATION roll as per the stealth mode rules.
-- Several Drones are lurking in the air ducts leading north to the Central Unit, and behind the barricades to the Central Unit, East Lock and Sub-Levels. These will attack any PCs trying to come this way. Such Drones may enter the South Wing during the scenario (see Events).
+- **Xenomorph** Drones are lurking in the air ducts leading north to the Central Unit, and behind the barricades to the Central Unit, East Lock and Sub-Levels. These will attack any PCs trying to come this way. Such Drones may enter the South Wing during the scenario (see Events).
 
 ### Other Areas
 
@@ -36,7 +36,7 @@ sidebar: auto
 - The corridors inside the South Wing are eerily empty, but the PCs can see marks from what look like gunshots and explosions on the walls and ceiling.
 - Water from broken coolant pipes is dripping from the ceiling, and the air has an acrid smell.
 - The power is still on, but the lights flicker ominously.
-- Acid Burns: If the PCs investigate any corridor and make an OBSERVATION roll, they will spot strange burn like marks on the floor.
+- **Acid Burns**: If the PCs investigate any corridor and make an OBSERVATION roll, they will spot strange burn like marks on the floor.
 
 ### Comms
 
@@ -47,23 +47,22 @@ sidebar: auto
 
 - Unless stated otherwise, any door inside the South Wing can be opened by a simple push of a button next to it (no
   action). Locking (or unlocking, unless sealed) a door is a quick action.
-- Sealing Doors: A door can be electronically sealed with a COMTECH roll (full action) Opening such a sealed door requires a similar COMTECH roll (except for the person who sealed the door). A door can also be sealed manually by using a cutting torch – this requires a HEAVY MACHINERY
-  roll (full action).
-- Breaching Doors: A locked or sealed door or hatch can be breached by close combat attacks (full action) with +2 dice. Unless stated otherwise, a door has armor level 2 and breaks after 10 points of damage. A locked door can also be opened by a cutting torch or a maintenance jack and a HEAVY MACHINERY roll (full action). A breached door cannot be locked again.
-- Xenomorphs: Larger Xenomorphs (Drones but not Facehuggers or Chestbursters) can break down doors. They use their Headbite attack (nine dice, base damage 2, armor piercing) to do this.
-- Barricades: The main doors to the Central Unit and the East Wing, on both levels, are barricaded from the inside with heavy equipment and can only be opened after a shift of work and a HEAVY MACHINERY roll. The Xenomorphs will breach these barricades at the end of the adventure (see Final Horrors on page 14).
+- **Sealing Doors**: A door can be electronically sealed with a COMTECH roll (full action) Opening such a sealed door requires a similar COMTECH roll (except for the person who sealed the door). A door can also be sealed manually by using a cutting torch – this requires a HEAVY MACHINERY roll (full action).
+- **Breaching Doors**: A locked or sealed door or hatch can be breached by close combat attacks (full action) with +2 dice. Unless stated otherwise, a door has armor level 2 and breaks after 10 points of damage. A locked door can also be opened by a cutting torch or a maintenance jack and a HEAVY MACHINERY roll (full action). A breached door cannot be locked again.
+- **Xenomorphs**: Larger Xenomorphs (Drones but not Facehuggers or Chestbursters) can break down doors. They use their Headbite attack (nine dice, base damage 2, armor piercing) to do this.
+- **Barricades**: The main doors to the Central Unit and the East Wing, on both levels, are barricaded from the inside with heavy equipment and can only be opened after a shift of work and a HEAVY MACHINERY roll. The Xenomorphs will breach these barricades at the end of the adventure (see Final Horrors on page 14).
 
 ### Stairway & Elevator
 
 - There is one stairway and one freight elevator in the South Wing, as indicated on the map.
 - The stairway allows movement between the two levels (one move in stealth mode, quick action in combat) as well as down to the multiple sublevels below. However, the stairways down end in barricades as per above.
-- The freight elevator is damaged and stuck on level 1. It can be repaired with a successful HEAVY MACHINERY roll and a stretch of work and will then carry up to six people between the floors in one round (quick action to operate). It’s also possible to climb the shaft (one move in stealth mode, full action in combat), but that requires a MOBILITY roll with failure causing a fall of D3+1 meters.
+- **Freight elevator** is damaged and stuck on level 1. It can be repaired with a successful HEAVY MACHINERY roll and a stretch of work and will then carry up to six people between the floors in one round (quick action to operate). It’s also possible to climb the shaft (one move in stealth mode, full action in combat), but that requires a MOBILITY roll with failure causing a fall of D3+1 meters.
 
 ### Air Ducts
 
 - There are air ducts throughout the South Wing, marked on the map including access points. At four points, marked A, B, C and D, there are vertical ducts allowing movement between level 1 and 2 (one move in stealth mode, quick action in combat). The air ducts are crawlspaces as per the rules on page 9 in the Rules booklet.
-- Sealing Access Points: An access point can be sealed shut with a cutting torch by making a HEAVY MACHINERY roll (full action). A sealed access point has armor level 2 and breaks after 8 points of damage.
-- Central Unit: The air ducts leading off the map to the Central Unit of the map (one on each level) are the way the Xenomorphs move in and out of the South Wing. Any PC trying to come this way will face one or more Drones lurking here, effectively blocking the way.
+- **Sealing Access Points**: An access point can be sealed shut with a cutting torch by making a HEAVY MACHINERY roll (full action). A sealed access point has armor level 2 and breaks after 8 points of damage.
+- **Central Unit**: The air ducts leading off the map to the Central Unit of the map (one on each level) are the way the Xenomorphs move in and out of the South Wing. Any PC trying to come this way will face one or more Drones lurking here, effectively blocking the way.
 
 ## Level 1
 
@@ -99,12 +98,11 @@ sidebar: auto
 ### Weyland-Yutani Office
 
 - Operations Manager Al Simpson’s cluttered office was recently commandeered by corporate agent Miranda Reynolds.
-- If the PCs enter, they’ll find her in the northernmost chair, facing away from the door. She seems to be sitting quietly with her head down, snoozing maybe.
-- A small ventilation grill on the opposite wall has been battered free
-- Reynolds is dead, having been brutally killed by a Xenomorph Drone. Her face and neck are a bloody mess
-  (stress level +1 for all who see her). The Keycard: A keycard hangs around Reynolds’ neck on a Weyland-Yutani lanyard. This is the type of card required to start the shuttle on the Landing Pad. If a PC removes the keycard and wipes the gore away (stress level +1), they realize it’s destroyed beyond repair.
-- Comms on the desk, spattered with Reynolds’ blood, is a small hand-held comms device, linked to Dr. Komiskey. A light on it is blinking. Komiskey has been desperately trying to call Reynolds for help, ever since she awoke
-  trapped in the Medlab. If the PCs answer, they can talk to Komiskey, who is in the Surgery Room on level 2. She is in shock, sounding vague and distant. [She asks for help](#theodora-komiskey)
+- **Miranda Reynolds** is in the northernmost chair, facing away from the door. She seems to be sitting quietly with her head down, snoozing maybe.
+  - A small ventilation grill on the opposite wall has been battered free
+  - Reynolds is dead, having been brutally killed by a Xenomorph Drone. Her face and neck are a bloody mess (stress level +1 for all who see her). The Keycard: A keycard hangs around Reynolds’ neck on a Weyland-Yutani lanyard. This is the type of card required to start the shuttle on the Landing Pad. If a PC removes the keycard and wipes the gore away (stress level +1), they realize it’s destroyed beyond repair.
+- **Comms on the desk**, spattered with Reynolds’ blood, is a small hand-held comms device, linked to Dr. Komiskey. A light on it is blinking. Komiskey has been desperately trying to call Reynolds for help, ever since she awoke trapped in the Medlab.
+  - If the PCs answer, they can talk to Komiskey, who is in the Surgery Room on level 2. She is in shock, sounding vague and distant. [She asks for help](#theodora-komiskey)
 - A **Drone Xenomorph** is hiding motionless in the air vent next to the office. If still here when the PCs enter, it will become active and start stalking them. It will attack at an opportune moment. If the PCs linger in the office, the Xeno can even attack them here.
 
 ### Geolab East
@@ -132,12 +130,12 @@ sidebar: auto
 ### Operations
 
 - “Ops” is the nerve center of the colony, monitoring vital functions and security. It’s usually busy but right now it’s unmanned. The intercom hisses static and a screen flickers.
-- The CCTV system is damaged, but a successful COMTECH roll gives access to a few cameras. Flicking through, the PCs see the following:
+- **CCTV system**: is damaged, but a successful COMTECH roll gives access to a few cameras. Flicking through, the PCs see the following:
   - View of carnage in the other Wings and the Sublevels. There are signs of a terrible battle, doors torn apart and ceiling and floor panels shredded. There are some mutilated bodies, but not as many as they might imagine. Stress level +1 for all who see it. This should discourage players from trying to enter these areas.
   - Tannen’s Casino, seemingly deserted, until a disturbingly large and unnatural shadow suddenly comes into view. The PCs can’t quite make out what it is.
   - A corridor where a Drone Xenomorph is lurking right now (if there is one). The PCs can only watch it standing there, its eyeless head raised, its whip of a tail languidly carving the air - stress level +1 if this is their first view of a Drone.
   - The landing pad, showing the Starcub corporate shuttle sitting there, lashed by rain and wind. No one seems to be around.
-- Personal Data Transmitters: All colonists of Hadley’s Hope are equipped with surgically implanted “PDTs” which transmit their location at all times. These can be tracked from Ops with a COMTECH roll. If successful, the PCs can find the following (modify if these people have moved):
+- **Personal Data Transmitters**: All colonists of Hadley’s Hope are equipped with surgically implanted “PDTs” which transmit their location at all times. These can be tracked from Ops with a COMTECH roll. If successful, the PCs can find the following (modify if these people have moved):
   - Company Agent Miranda Reynolds is in the W-Y Office on level 1.
   - W-Y science officer Theodora Komiskey is in the Surgery Room on level 2.
   - Operations Manager Al Simpson and the colonist John J. Marachuk are in the Morgue on level 2.
@@ -188,7 +186,8 @@ sidebar: auto
 
 ### Life Support/Power
 
-- In this cramped room, power can be turned off (and back on) throughout the colony with a COMTECH roll and a stretch of time. Turning off the power will trigger a dim red emergency light throughout the base. In the dark, OBSERVATION rolls get –2 dice for the PCs (Xenos are not affected). In addition, any items with a Power supply can be recharged in one stretch of time in this room.
+- In this cramped room, power can be turned off (and back on) throughout the colony with a COMTECH roll and a stretch of time.
+- Turning off the power will trigger a dim red emergency light throughout the base. In the dark, OBSERVATION rolls get –2 dice for the PCs (Xenos are not affected). In addition, any items with a Power supply can be recharged in one stretch of time in this room.
 
 ### Walkway to Tannen's Casino
 
