@@ -6,9 +6,8 @@ sidebar: auto
 
 ## Session Open
 
-- Read what's the story mother
 - Remind roll are less often than d&d only when failure has significant impact
-- They have motion detector
+- Read what's the story mother
 - [Staggering from the south ](#opening)
 
 ## Hadley's Hope
@@ -239,7 +238,8 @@ sidebar: auto
 - Once inside the PCs can
   - explore freely
   - access colony overview map from a terminal
-- **Act 2** begins after they see their firs Xenomorph
+  - They have motion detector
+- **Act 2** begins after they see their first Xenomorph
 - **Xenos**: A Drone lurking in the corridor by the walkway to Tannen’s Casino on level 2.
   - It hears the PCs entering the base and starts stalking them immediately, moving through the halls or air vents. This Drone may trigger the PCs’ motion detector.
 
